@@ -37,7 +37,7 @@ yielding the following result retrieved from
 <https://api.github.com/repos/globalbioticinteractions/globalbioticinteractions/issues/1/comments?per_page=100> <http://purl.org/pav/hasVersion> <hash://sha256/395d6b6a964cc1e2f03287e088171c7e4b7808f38864459016272aefea9e0076> <urn:uuid:a83ed26b-1a48-49d3-97eb-d556db8c054b> .
 ```
 
-Note that associated image attached to [issue #1](https://github.com/globalbioticinteractions/globalbioticinteractions/issues/1) at [https://f.cloud.github.com/assets/1084872/215133/58c0882e-8468-11e2-9765-5a0b366ffc78.png](data/65/dd/65ddcef75a93746df074b45a6794cea7d7e586445816f11f9f759ef535fd1260) was also tracked as seen via 
+Note that associated image attached to [issue #1](https://github.com/globalbioticinteractions/globalbioticinteractions/issues/1) at ![https://f.cloud.github.com/assets/1084872/215133/58c0882e-8468-11e2-9765-5a0b366ffc78.png](data/65/dd/65ddcef75a93746df074b45a6794cea7d7e586445816f11f9f759ef535fd1260) was also tracked as seen via 
 
 ```
 preston head \
