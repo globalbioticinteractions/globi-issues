@@ -4,7 +4,7 @@ GitHub help facilitate open source development through git, a distributed revisi
 
 Aside from version control through git repositories, GitHub offers issue tracking. 
 
-This repositories keeps track of issues for Global Biotic Interactions (GloBI), a project that helps facilitate access to dataset that describe how organisms interact. The aim of this repository is to keep track of GloBI related communication by making them available through ... a git repository. 
+This repository keeps track of issues for Global Biotic Interactions (GloBI), a project that helps facilitate access to dataset that describe how organisms interact. The aim of this repository is to keep track of GloBI related communication by making them available through ... a git repository. 
 
 ## Methods 
 
