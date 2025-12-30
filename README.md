@@ -40,7 +40,10 @@ yielding the following result retrieved from
 Note that associated image attached to [issue #1](https://github.com/globalbioticinteractions/globalbioticinteractions/issues/1) at [https://f.cloud.github.com/assets/1084872/215133/58c0882e-8468-11e2-9765-5a0b366ffc78.png](data/65/dd/65ddcef75a93746df074b45a6794cea7d7e586445816f11f9f759ef535fd1260) was also tracked as seen via 
 
 ```
-preston head  | preston cat  | grep hasVersion  | grep "https://f.cloud.github.com/assets/1084872/215133/58c0882e-8468-11e2-9765-5a0b366ffc78.png"
+preston head \
+ | preston cat \
+ | grep hasVersion \
+ | grep "https://f.cloud.github.com/assets/1084872/215133/58c0882e-8468-11e2-9765-5a0b366ffc78.png"
 ```
 
 ```
