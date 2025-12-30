@@ -13,6 +13,8 @@ The github issues and their associated attachments are tracked by periodically e
 ```bash
 # optionally set token to increase api limits. 
 export GITHUB_TOKEN=[your personal github token] 
+
+# track the issues
 preston track https://github.com/globalbioticinteractions/globalbioticinteractions/issues
 ```
 
