@@ -1,0 +1,51 @@
+LOCUS       EU394150                 293 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Soboliphyme baturini voucher NK122498 cytochrome oxidase subunit I
+            (CO1) gene, partial cds; mitochondrial.
+ACCESSION   EU394150
+VERSION     EU394150.1
+KEYWORDS    .
+SOURCE      mitochondrion Soboliphyme baturini
+  ORGANISM  Soboliphyme baturini
+            Eukaryota; Metazoa; Ecdysozoa; Nematoda; Enoplea; Dorylaimia;
+            Dioctophymatida; Dioctophymatoidea; Soboliphymatidae; Soboliphyme.
+REFERENCE   1  (bases 1 to 293)
+  AUTHORS   Koehler,A.V., Hoberg,E.P., Dokuchaev,N.E., Tranbenkova,N.A.,
+            Whitman,J.S., Nagorsen,D.W. and Cook,J.A.
+  TITLE     Phylogeography of the holarctic nematode, Soboliphyme baturini, a
+            parasite of North American marten and Siberian sable
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 293)
+  AUTHORS   Koehler,A.V., Hoberg,E.P., Dokuchaev,N.E., Tranbenkova,N.A.,
+            Whitman,J.S., Nagorsen,D.W. and Cook,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2008) Department of Biology, University of New
+            Mexico, MSC03 2020, Albuquerque, NM 87106, USA
+FEATURES             Location/Qualifiers
+     source          1..293
+                     /organism="Soboliphyme baturini"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /host="Martes caurina"
+                     /specimen_voucher="NK122498; Museum of Southwestern
+                     Biology"
+                     /db_xref="taxon:241478"
+                     /country="USA"
+                     /lat_lon="57.13 N 134.32 W"
+     gene            <1..>293
+                     /gene="CO1"
+     CDS             <1..>293
+                     /gene="CO1"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACB42366.1"
+                     /translation="ESVTYLSGKSKVFGPLGMIYAMVSIGILGSFVWVHHMFTVGLDV
+                     DTRAYFAAASMIIGIPTGVKVFSWLATLYGTPCSFSPLFCWTLGFVFIFTLGG"
+ORIGIN      
+        1 tgagagtgtt acttatttga gtggtaagtc taaagtcttt ggtcccttag ggatgattta
+       61 tgcaatggtg agtattggta tcctaggaag atttgtatgg gtgcatcata tgtttactgt
+      121 tggtttagat gtggatactc gtgcttattt tgcggctgca agtatgatta ttggtattcc
+      181 aactggagtt aaagtgttta gctgattagc cactctttat ggtactccat gttctttctc
+      241 tcctttattc tgttgaacct taggttttgt gtttattttt actctcggtg gtt
+//
+

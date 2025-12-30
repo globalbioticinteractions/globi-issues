@@ -1,0 +1,5129 @@
+{
+    "columns": [
+        "interaction_type",
+        "target_taxon_name",
+        "target_taxon_external_id"
+    ],
+    "data": [
+        [
+            "endoparasiteOf",
+            "Euplectes hartlaubi",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Hirundo angolensis",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Melaniparus griseiventris",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Laniarius fuelleborni",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Sarothrura rufa",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Psalidoprocne albiceps",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Plocepasser rufoscapulatus",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Pytilia afra",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Apaloderma vittatum",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Batis dimorpha",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola nigriloris",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola njombe",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola woosnami",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola rufilatus",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Melaniparus niger",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Myrmecocichla arnotti",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Neocichla gutturalis",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Calamonastes stierlingi",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Cercotrichas barbata",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Cryptopipo holochlora",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Syndactyla ruficollis",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Myrmeciza fortis",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Bradypterus baboecala",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Nectarinia venusta",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Phylloscopus brehmi",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Amazilia chionogaster",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Serpophaga cinerea",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Pseudoalcippe abyssinica",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Heliolais erythropterus",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Tachuris rubrigastra",
+            "INAT_TAXON:17174"
+        ],
+        [
+            "endoparasiteOf",
+            "Gymnoris superciliaris",
+            "GBIF:6100969"
+        ],
+        [
+            "endoparasiteOf",
+            "Euplectes ardens",
+            "GBIF:2494098"
+        ],
+        [
+            "endoparasiteOf",
+            "Emberiza flaviventris",
+            "GBIF:2491478"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola brachypterus",
+            "GBIF:2492819"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola natalensis",
+            "GBIF:2492810"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola erythrops",
+            "GBIF:2492793"
+        ],
+        [
+            "endoparasiteOf",
+            "Hypargos niveoguttatus",
+            "GBIF:2493646"
+        ],
+        [
+            "endoparasiteOf",
+            "Indicator variegatus",
+            "GBIF:5228977"
+        ],
+        [
+            "endoparasiteOf",
+            "Tchagra australis",
+            "GBIF:2484826"
+        ],
+        [
+            "endoparasiteOf",
+            "Phylloscopus ruficapilla",
+            "GBIF:7341644"
+        ],
+        [
+            "endoparasiteOf",
+            "Lagonosticta rubricata",
+            "GBIF:2493687"
+        ],
+        [
+            "endoparasiteOf",
+            "Mirafra rufocinnamomea",
+            "GBIF:2490596"
+        ],
+        [
+            "endoparasiteOf",
+            "Iduna similis",
+            "GBIF:5845836"
+        ],
+        [
+            "endoparasiteOf",
+            "Bradypterus cinnamomeus",
+            "GBIF:5231359"
+        ],
+        [
+            "endoparasiteOf",
+            "Elminia albonotata",
+            "GBIF:7342158"
+        ],
+        [
+            "endoparasiteOf",
+            "Cossypha anomala",
+            "GBIF:2492586"
+        ],
+        [
+            "endoparasiteOf",
+            "Anthus cinnamomeus",
+            "GBIF:2490276"
+        ],
+        [
+            "endoparasiteOf",
+            "Andropadus tephrolaemus",
+            "EOL_V2:920209"
+        ],
+        [
+            "endoparasiteOf",
+            "Amandava subflava",
+            "EOL_V2:1050409"
+        ],
+        [
+            "endoparasiteOf",
+            "Euplectes albonotatus",
+            "EOL_V2:919515"
+        ],
+        [
+            "endoparasiteOf",
+            "Euplectes afer",
+            "GBIF:2494097"
+        ],
+        [
+            "endoparasiteOf",
+            "Serinus mozambicus",
+            "EOL_V2:921883"
+        ],
+        [
+            "endoparasiteOf",
+            "Batis molitor",
+            "EOL_V2:918827"
+        ],
+        [
+            "endoparasiteOf",
+            "Cercotrichas leucophrys",
+            "EOL_V2:1051500"
+        ],
+        [
+            "endoparasiteOf",
+            "Centropus superciliosus",
+            "EOL_V2:914682"
+        ],
+        [
+            "endoparasiteOf",
+            "Francolinus levaillantii",
+            "EOL_V2:900292"
+        ],
+        [
+            "endoparasiteOf",
+            "Serinus striolatus",
+            "EOL_V2:1050692"
+        ],
+        [
+            "endoparasiteOf",
+            "Sarkidiornis melanotos",
+            "EOL_V2:1048536"
+        ],
+        [
+            "endoparasiteOf",
+            "Hyloctistes subulatus",
+            "GBIF:2485499"
+        ],
+        [
+            "endoparasiteOf",
+            "Thamnomanes ardesiacus",
+            "GBIF:2490218"
+        ],
+        [
+            "endoparasiteOf",
+            "Myiobius atricaudus",
+            "EOL_V2:1053203"
+        ],
+        [
+            "endoparasiteOf",
+            "Myiothlypis fulvicauda",
+            "GBIF:7341658"
+        ],
+        [
+            "endoparasiteOf",
+            "Locustella luscinioides",
+            "EOL_V2:1052685"
+        ],
+        [
+            "endoparasiteOf",
+            "Pytilia melba",
+            "EOL_V2:1050491"
+        ],
+        [
+            "endoparasiteOf",
+            "Uraeginthus angolensis",
+            "EOL_V2:1050431"
+        ],
+        [
+            "endoparasiteOf",
+            "Ploceus xanthops",
+            "EOL_V2:918140"
+        ],
+        [
+            "endoparasiteOf",
+            "Enicurus ruficapillus",
+            "GBIF:2492631"
+        ],
+        [
+            "endoparasiteOf",
+            "Phleocryptes melanops",
+            "GBIF:2485989"
+        ],
+        [
+            "endoparasiteOf",
+            "Piezorina cinerea",
+            "GBIF:7782861"
+        ],
+        [
+            "endoparasiteOf",
+            "Larus mongolicus",
+            "EOL_V2:10456899"
+        ],
+        [
+            "endoparasiteOf",
+            "Tadorna ferruginea",
+            "EOL_V2:1047357"
+        ],
+        [
+            "endoparasiteOf",
+            "Ploceus capensis",
+            "GBIF:2494035"
+        ],
+        [
+            "endoparasiteOf",
+            "Nectarinia mediocris",
+            "EOL_V2:1051768"
+        ],
+        [
+            "endoparasiteOf",
+            "Myrmoborus myotherinus",
+            "GBIF:2490125"
+        ],
+        [
+            "endoparasiteOf",
+            "Hylophylax naevius",
+            "ITIS:916027"
+        ],
+        [
+            "endoparasiteOf",
+            "Nectarinia",
+            "EOL_V2:104642"
+        ],
+        [
+            "endoparasiteOf",
+            "Quelea quelea",
+            "EOL_V2:918147"
+        ],
+        [
+            "endoparasiteOf",
+            "Cryptospiza reichenovii",
+            "GBIF:2493691"
+        ],
+        [
+            "endoparasiteOf",
+            "Ceyx pictus",
+            "GBIF:5228375"
+        ],
+        [
+            "endoparasiteOf",
+            "Andropadus milanjensis",
+            "EOL_V2:920197"
+        ],
+        [
+            "endoparasiteOf",
+            "Sheppardia sharpei",
+            "GBIF:2492449"
+        ],
+        [
+            "endoparasiteOf",
+            "Pseudalethe fuelleborni",
+            "GBIF:6091006"
+        ],
+        [
+            "endoparasiteOf",
+            "Carduelis cannabina",
+            "EOL_V2:1050640"
+        ],
+        [
+            "endoparasiteOf",
+            "Carpodacus erythrinus",
+            "EOL_V2:919948"
+        ],
+        [
+            "endoparasiteOf",
+            "Lonchura",
+            "GBIF:2493593"
+        ],
+        [
+            "endoparasiteOf",
+            "Hypocnemis cantator",
+            "EOL_V2:921070"
+        ],
+        [
+            "endoparasiteOf",
+            "Acrocephalus schoenobaenus",
+            "EOL_V2:1052562"
+        ],
+        [
+            "endoparasiteOf",
+            "Thamnomanes caesius",
+            "GBIF:2490217"
+        ],
+        [
+            "endoparasiteOf",
+            "Hieraaetus wahlbergi",
+            "INAT_TAXON:144469"
+        ],
+        [
+            "endoparasiteOf",
+            "Acrocephalus scirpaceus",
+            "INAT_TAXON:204455"
+        ],
+        [
+            "endoparasiteOf",
+            "Coccopygia melanotis",
+            "GBIF:7340723"
+        ],
+        [
+            "endoparasiteOf",
+            "Turdus libonyana",
+            "GBIF:5789055"
+        ],
+        [
+            "endoparasiteOf",
+            "Acrocephalus arundinaceus",
+            "INAT_TAXON:204456"
+        ],
+        [
+            "endoparasiteOf",
+            "Merops pusillus",
+            "INAT_TAXON:2185"
+        ],
+        [
+            "endoparasiteOf",
+            "Corvus albicollis",
+            "INAT_TAXON:8004"
+        ],
+        [
+            "endoparasiteOf",
+            "Poicephalus meyeri",
+            "INAT_TAXON:19055"
+        ],
+        [
+            "endoparasiteOf",
+            "Sayornis nigricans",
+            "INAT_TAXON:17013"
+        ],
+        [
+            "endoparasiteOf",
+            "Lamprotornis chalybaeus",
+            "INAT_TAXON:14923"
+        ],
+        [
+            "endoparasiteOf",
+            "Colibri coruscans",
+            "INAT_TAXON:6072"
+        ],
+        [
+            "endoparasiteOf",
+            "Calidris melanotos",
+            "EOL_V2:1049474"
+        ],
+        [
+            "endoparasiteOf",
+            "Gavia immer",
+            "NCBI:37039"
+        ],
+        [
+            "endoparasiteOf",
+            "Estrilda astrild",
+            "EOL_V2:1053070"
+        ],
+        [
+            "endoparasiteOf",
+            "Myrmotherula axillaris",
+            "GBIF:2490191"
+        ],
+        [
+            "endoparasiteOf",
+            "Thamnophilus aethiops",
+            "GBIF:5959213"
+        ],
+        [
+            "endoparasiteOf",
+            "Hylophylax poecilonota",
+            "EOL_V2:921068"
+        ],
+        [
+            "endoparasiteOf",
+            "Troglodytes aedon",
+            "GBIF:5231459"
+        ],
+        [
+            "endoparasiteOf",
+            "Pipra erythrocephala",
+            "EOL_V2:919322"
+        ],
+        [
+            "endoparasiteOf",
+            "Zoothera",
+            "EOL_V2:93135"
+        ],
+        [
+            "endoparasiteOf",
+            "Ploceus velatus",
+            "WD:Q787215"
+        ],
+        [
+            "endoparasiteOf",
+            "Laniarius ferrugineus",
+            "GBIF:2484860"
+        ],
+        [
+            "endoparasiteOf",
+            "Malaconotus blanchoti",
+            "GBIF:2484814"
+        ],
+        [
+            "endoparasiteOf",
+            "Indicator indicator",
+            "EOL_V2:1177449"
+        ],
+        [
+            "endoparasiteOf",
+            "Dendropicos fuscescens",
+            "WD:Q606886"
+        ],
+        [
+            "endoparasiteOf",
+            "Pogonocichla stellata",
+            "EOL_V2:1051613"
+        ],
+        [
+            "endoparasiteOf",
+            "Phyllastrephus flavostriatus",
+            "GBIF:2486089"
+        ],
+        [
+            "endoparasiteOf",
+            "Iduna natalensis",
+            "GBIF:6101023"
+        ],
+        [
+            "endoparasiteOf",
+            "Cettia cetti",
+            "GBIF:2493012"
+        ],
+        [
+            "endoparasiteOf",
+            "Cossypha caffra",
+            "EOL_V2:1051520"
+        ],
+        [
+            "endoparasiteOf",
+            "Zonotrichia capensis",
+            "EOL_V2:916840"
+        ],
+        [
+            "endoparasiteOf",
+            "Zosterops senegalensis",
+            "EOL_V2:1177416"
+        ],
+        [
+            "endoparasiteOf",
+            "Colius striatus",
+            "GBIF:5229467"
+        ],
+        [
+            "endoparasiteOf",
+            "Ploceus melanocephalus",
+            "EOL_V2:919737"
+        ],
+        [
+            "endoparasiteOf",
+            "Turdus",
+            "GBIF:2490714"
+        ],
+        [
+            "endoparasiteOf",
+            "Cossypha heuglini",
+            "EOL_V2:1051524"
+        ],
+        [
+            "endoparasiteOf",
+            "Ploceus",
+            "EOL_V2:92900"
+        ],
+        [
+            "endoparasiteOf",
+            "Tockus",
+            "EOL_V2:19734"
+        ],
+        [
+            "endoparasiteOf",
+            "Dicrurus adsimilis",
+            "EOL_V2:917065"
+        ],
+        [
+            "endoparasiteOf",
+            "Lepidothrix coronata",
+            "GBIF:5230528"
+        ],
+        [
+            "endoparasiteOf",
+            "Serinus",
+            "EOL_V2:14363"
+        ],
+        [
+            "endoparasiteOf",
+            "Turdus pilaris",
+            "GBIF:2490737"
+        ],
+        [
+            "endoparasiteOf",
+            "Pica pica",
+            "GBIF:5229490"
+        ],
+        [
+            "endoparasiteOf",
+            "Tricholestes criniger",
+            "EOL:1051228"
+        ],
+        [
+            "endoparasiteOf",
+            "Sylvia borin",
+            "EOL_V2:1052364"
+        ],
+        [
+            "endoparasiteOf",
+            "Turdus philomelos",
+            "GBIF:7901064"
+        ],
+        [
+            "endoparasiteOf",
+            "Erithacus rubecula",
+            "GBIF:2492462"
+        ],
+        [
+            "endoparasiteOf",
+            "Pycnonotus barbatus",
+            "EOL_V2:919943"
+        ],
+        [
+            "endoparasiteOf",
+            "Turdus merula",
+            "GBIF:2490719"
+        ],
+        [
+            "endoparasiteOf",
+            "Cygnus columbianus",
+            "ITIS:174987"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola rufilatus",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Cercotrichas barbata",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Calamonastes stierlingi",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Plocepasser rufoscapulatus",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Neocichla gutturalis",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Myrmecocichla arnotti",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Melaniparus niger",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Batis dimorpha",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola nigriloris",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Pytilia afra",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Apaloderma vittatum",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Euplectes hartlaubi",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Hirundo angolensis",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola njombe",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola woosnami",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Psalidoprocne albiceps",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Sarothrura rufa",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Laniarius fuelleborni",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Melaniparus griseiventris",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Phylloscopus brehmi",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Amazilia chionogaster",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Syndactyla ruficollis",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Cryptopipo holochlora",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Pseudoalcippe abyssinica",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Heliolais erythropterus",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola brachypterus",
+            "GBIF:2492819"
+        ],
+        [
+            "endoparasiteOf",
+            "Tachuris rubrigastra",
+            "INAT_TAXON:17174"
+        ],
+        [
+            "endoparasiteOf",
+            "Bradypterus baboecala",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Serpophaga cinerea",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Myrmeciza fortis",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Nectarinia venusta",
+            "no:match"
+        ],
+        [
+            "endoparasiteOf",
+            "Lagonosticta rubricata",
+            "GBIF:2493687"
+        ],
+        [
+            "endoparasiteOf",
+            "Gymnoris superciliaris",
+            "GBIF:6100969"
+        ],
+        [
+            "endoparasiteOf",
+            "Bradypterus cinnamomeus",
+            "GBIF:5231359"
+        ],
+        [
+            "endoparasiteOf",
+            "Mirafra rufocinnamomea",
+            "GBIF:2490596"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola natalensis",
+            "GBIF:2492810"
+        ],
+        [
+            "endoparasiteOf",
+            "Cisticola erythrops",
+            "GBIF:2492793"
+        ],
+        [
+            "endoparasiteOf",
+            "Euplectes ardens",
+            "GBIF:2494098"
+        ],
+        [
+            "endoparasiteOf",
+            "Emberiza flaviventris",
+            "GBIF:2491478"
+        ],
+        [
+            "endoparasiteOf",
+            "Indicator variegatus",
+            "GBIF:5228977"
+        ],
+        [
+            "endoparasiteOf",
+            "Phylloscopus ruficapilla",
+            "GBIF:7341644"
+        ],
+        [
+            "endoparasiteOf",
+            "Tchagra australis",
+            "GBIF:2484826"
+        ],
+        [
+            "endoparasiteOf",
+            "Anthus cinnamomeus",
+            "GBIF:2490276"
+        ],
+        [
+            "endoparasiteOf",
+            "Iduna similis",
+            "GBIF:5845836"
+        ],
+        [
+            "endoparasiteOf",
+            "Cossypha anomala",
+            "GBIF:2492586"
+        ],
+        [
+            "endoparasiteOf",
+            "Elminia albonotata",
+            "GBIF:7342158"
+        ],
+        [
+            "endoparasiteOf",
+            "Hypargos niveoguttatus",
+            "GBIF:2493646"
+        ],
+        [
+            "endoparasiteOf",
+            "Serinus mozambicus",
+            "EOL_V2:921883"
+        ],
+        [
+            "endoparasiteOf",
+            "Batis molitor",
+            "EOL_V2:918827"
+        ],
+        [
+            "endoparasiteOf",
+            "Centropus superciliosus",
+            "EOL_V2:914682"
+        ],
+        [
+            "endoparasiteOf",
+            "Cercotrichas leucophrys",
+            "EOL_V2:1051500"
+        ],
+        [
+            "endoparasiteOf",
+            "Euplectes albonotatus",
+            "EOL_V2:919515"
+        ],
+        [
+            "endoparasiteOf",
+            "Amandava subflava",
+            "EOL_V2:1050409"
+        ],
+        [
+            "endoparasiteOf",
+            "Andropadus tephrolaemus",
+            "EOL_V2:920209"
+        ],
+        [
+            "endoparasiteOf",
+            "Euplectes afer",
+            "GBIF:2494097"
+        ],
+        [
+            "endoparasiteOf",
+            "Enicurus ruficapillus",
+            "GBIF:2492631"
+        ],
+        [
+            "endoparasiteOf",
+            "Myiothlypis fulvicauda",
+            "GBIF:7341658"
+        ],
+        [
+            "endoparasiteOf",
+            "Thamnomanes ardesiacus",
+            "GBIF:2490218"
+        ],
+        [
+            "endoparasiteOf",
+            "Hyloctistes subulatus",
+            "GBIF:2485499"
+        ],
+        [
+            "endoparasiteOf",
+            "Myiobius atricaudus",
+            "EOL_V2:1053203"
+        ],
+        [
+            "endoparasiteOf",
+            "Serinus striolatus",
+            "EOL_V2:1050692"
+        ],
+        [
+            "endoparasiteOf",
+            "Sarkidiornis melanotos",
+            "EOL_V2:1048536"
+        ],
+        [
+            "endoparasiteOf",
+            "Francolinus levaillantii",
+            "EOL_V2:900292"
+        ],
+        [
+            "endoparasiteOf",
+            "Tadorna ferruginea",
+            "EOL_V2:1047357"
+        ],
+        [
+            "endoparasiteOf",
+            "Larus mongolicus",
+            "EOL_V2:10456899"
+        ],
+        [
+            "endoparasiteOf",
+            "Piezorina cinerea",
+            "GBIF:7782861"
+        ],
+        [
+            "endoparasiteOf",
+            "Phleocryptes melanops",
+            "GBIF:2485989"
+        ],
+        [
+            "endoparasiteOf",
+            "Locustella luscinioides",
+            "EOL_V2:1052685"
+        ],
+        [
+            "endoparasiteOf",
+            "Uraeginthus angolensis",
+            "EOL_V2:1050431"
+        ],
+        [
+            "endoparasiteOf",
+            "Pytilia melba",
+            "EOL_V2:1050491"
+        ],
+        [
+            "endoparasiteOf",
+            "Ploceus xanthops",
+            "EOL_V2:918140"
+        ],
+        [
+            "endoparasiteOf",
+            "Carduelis cannabina",
+            "EOL_V2:1050640"
+        ],
+        [
+            "endoparasiteOf",
+            "Carpodacus erythrinus",
+            "EOL_V2:919948"
+        ],
+        [
+            "endoparasiteOf",
+            "Myrmoborus myotherinus",
+            "GBIF:2490125"
+        ],
+        [
+            "endoparasiteOf",
+            "Quelea quelea",
+            "EOL_V2:918147"
+        ],
+        [
+            "endoparasiteOf",
+            "Nectarinia",
+            "EOL_V2:104642"
+        ],
+        [
+            "endoparasiteOf",
+            "Hylophylax naevius",
+            "ITIS:916027"
+        ],
+        [
+            "endoparasiteOf",
+            "Ploceus capensis",
+            "GBIF:2494035"
+        ],
+        [
+            "endoparasiteOf",
+            "Nectarinia mediocris",
+            "EOL_V2:1051768"
+        ],
+        [
+            "endoparasiteOf",
+            "Acrocephalus schoenobaenus",
+            "EOL_V2:1052562"
+        ],
+        [
+            "endoparasiteOf",
+            "Thamnomanes caesius",
+            "GBIF:2490217"
+        ],
+        [
+            "endoparasiteOf",
+            "Ceyx pictus",
+            "GBIF:5228375"
+        ],
+        [
+            "endoparasiteOf",
+            "Cryptospiza reichenovii",
+            "GBIF:2493691"
+        ],
+        [
+            "endoparasiteOf",
+            "Sheppardia sharpei",
+            "GBIF:2492449"
+        ],
+        [
+            "endoparasiteOf",
+            "Andropadus milanjensis",
+            "EOL_V2:920197"
+        ],
+        [
+            "endoparasiteOf",
+            "Lonchura",
+            "GBIF:2493593"
+        ],
+        [
+            "endoparasiteOf",
+            "Pseudalethe fuelleborni",
+            "GBIF:6091006"
+        ],
+        [
+            "endoparasiteOf",
+            "Gallinago gallinago",
+            "EOL_V2:1049554"
+        ],
+        [
+            "endoparasiteOf",
+            "Gymnopithys leucaspis",
+            "EOL_V2:921222"
+        ],
+        [
+            "endoparasiteOf",
+            "Passer domesticus",
+            "GBIF:5231190"
+        ],
+        [
+            "endoparasiteOf",
+            "Emberiza schoeniclus",
+            "EOL_V2:1052775"
+        ],
+        [
+            "endoparasiteOf",
+            "Corvus corone",
+            "EOL_V2:917348"
+        ],
+        [
+            "endoparasiteOf",
+            "Cyanistes caeruleus",
+            "EOL_V2:1051997"
+        ],
+        [
+            "endoparasiteOf",
+            "Parus major",
+            "GBIF:8095051"
+        ],
+        [
+            "endoparasiteOf",
+            "Turdus merula",
+            "GBIF:2490719"
+        ],
+        [
+            "endoparasiteOf",
+            "Pycnonotus barbatus",
+            "EOL_V2:919943"
+        ],
+        [
+            "endoparasiteOf",
+            "Phalacrocorax carbo",
+            "EOL_V2:1048641"
+        ],
+        [
+            "endoparasiteOf",
+            "Cygnus columbianus",
+            "ITIS:174987"
+        ],
+        [
+            "endoparasiteOf",
+            "Tricholestes criniger",
+            "EOL:1051228"
+        ],
+        [
+            "endoparasiteOf",
+            "Sylvia borin",
+            "EOL_V2:1052364"
+        ],
+        [
+            "endoparasiteOf",
+            "Erithacus rubecula",
+            "GBIF:2492462"
+        ],
+        [
+            "endoparasiteOf",
+            "Turdus philomelos",
+            "GBIF:7901064"
+        ],
+        [
+            "endoparasiteOf",
+            "Lepidothrix coronata",
+            "GBIF:5230528"
+        ],
+        [
+            "endoparasiteOf",
+            "Turdus pilaris",
+            "GBIF:2490737"
+        ],
+        [
+            "endoparasiteOf",
+            "Serinus",
+            "EOL_V2:14363"
+        ],
+        [
+            "endoparasiteOf",
+            "Pica pica",
+            "GBIF:5229490"
+        ],
+        [
+            "endoparasiteOf",
+            "Ploceus",
+            "EOL_V2:92900"
+        ],
+        [
+            "endoparasiteOf",
+            "Tockus",
+            "EOL_V2:19734"
+        ],
+        [
+            "endoparasiteOf",
+            "Cossypha heuglini",
+            "EOL_V2:1051524"
+        ],
+        [
+            "endoparasiteOf",
+            "Dicrurus adsimilis",
+            "EOL_V2:917065"
+        ],
+        [
+            "endoparasiteOf",
+            "Zosterops senegalensis",
+            "EOL_V2:1177416"
+        ],
+        [
+            "endoparasiteOf",
+            "Colius striatus",
+            "GBIF:5229467"
+        ],
+        [
+            "endoparasiteOf",
+            "Turdus",
+            "GBIF:2490714"
+        ],
+        [
+            "endoparasiteOf",
+            "Ploceus melanocephalus",
+            "EOL_V2:919737"
+        ],
+        [
+            "endoparasiteOf",
+            "Zonotrichia capensis",
+            "EOL_V2:916840"
+        ],
+        [
+            "endoparasiteOf",
+            "Cossypha caffra",
+            "EOL_V2:1051520"
+        ],
+        [
+            "endoparasiteOf",
+            "Phyllastrephus flavostriatus",
+            "GBIF:2486089"
+        ],
+        [
+            "endoparasiteOf",
+            "Pogonocichla stellata",
+            "EOL_V2:1051613"
+        ],
+        [
+            "endoparasiteOf",
+            "Iduna natalensis",
+            "GBIF:6101023"
+        ],
+        [
+            "endoparasiteOf",
+            "Cettia cetti",
+            "GBIF:2493012"
+        ],
+        [
+            "endoparasiteOf",
+            "Dendropicos fuscescens",
+            "WD:Q606886"
+        ],
+        [
+            "endoparasiteOf",
+            "Malaconotus blanchoti",
+            "GBIF:2484814"
+        ],
+        [
+            "endoparasiteOf",
+            "Indicator indicator",
+            "EOL_V2:1177449"
+        ],
+        [
+            "endoparasiteOf",
+            "Ploceus velatus",
+            "WD:Q787215"
+        ],
+        [
+            "endoparasiteOf",
+            "Laniarius ferrugineus",
+            "GBIF:2484860"
+        ],
+        [
+            "endoparasiteOf",
+            "Zoothera",
+            "EOL_V2:93135"
+        ],
+        [
+            "endoparasiteOf",
+            "Pipra erythrocephala",
+            "EOL_V2:919322"
+        ],
+        [
+            "endoparasiteOf",
+            "Troglodytes aedon",
+            "GBIF:5231459"
+        ],
+        [
+            "endoparasiteOf",
+            "Thamnophilus aethiops",
+            "GBIF:5959213"
+        ],
+        [
+            "endoparasiteOf",
+            "Hylophylax poecilonota",
+            "EOL_V2:921068"
+        ],
+        [
+            "endoparasiteOf",
+            "Estrilda astrild",
+            "EOL_V2:1053070"
+        ],
+        [
+            "endoparasiteOf",
+            "Myrmotherula axillaris",
+            "GBIF:2490191"
+        ],
+        [
+            "endoparasiteOf",
+            "Calidris melanotos",
+            "EOL_V2:1049474"
+        ],
+        [
+            "endoparasiteOf",
+            "Gavia immer",
+            "NCBI:37039"
+        ],
+        [
+            "endoparasiteOf",
+            "Lamprotornis chalybaeus",
+            "INAT_TAXON:14923"
+        ],
+        [
+            "endoparasiteOf",
+            "Colibri coruscans",
+            "INAT_TAXON:6072"
+        ],
+        [
+            "endoparasiteOf",
+            "Poicephalus meyeri",
+            "INAT_TAXON:19055"
+        ],
+        [
+            "endoparasiteOf",
+            "Sayornis nigricans",
+            "INAT_TAXON:17013"
+        ],
+        [
+            "endoparasiteOf",
+            "Merops pusillus",
+            "INAT_TAXON:2185"
+        ],
+        [
+            "endoparasiteOf",
+            "Corvus albicollis",
+            "INAT_TAXON:8004"
+        ],
+        [
+            "endoparasiteOf",
+            "Turdus libonyana",
+            "GBIF:5789055"
+        ],
+        [
+            "endoparasiteOf",
+            "Acrocephalus arundinaceus",
+            "INAT_TAXON:204456"
+        ],
+        [
+            "endoparasiteOf",
+            "Acrocephalus scirpaceus",
+            "INAT_TAXON:204455"
+        ],
+        [
+            "endoparasiteOf",
+            "Coccopygia melanotis",
+            "GBIF:7340723"
+        ],
+        [
+            "endoparasiteOf",
+            "Hypocnemis cantator",
+            "EOL_V2:921070"
+        ],
+        [
+            "endoparasiteOf",
+            "Hieraaetus wahlbergi",
+            "INAT_TAXON:144469"
+        ],
+        [
+            "endoparasiteOf",
+            "Phalacrocorax carbo",
+            "EOL_V2:1048641"
+        ],
+        [
+            "endoparasiteOf",
+            "Corvus corone",
+            "EOL_V2:917348"
+        ],
+        [
+            "endoparasiteOf",
+            "Emberiza schoeniclus",
+            "EOL_V2:1052775"
+        ],
+        [
+            "endoparasiteOf",
+            "Parus major",
+            "GBIF:8095051"
+        ],
+        [
+            "endoparasiteOf",
+            "Cyanistes caeruleus",
+            "EOL_V2:1051997"
+        ],
+        [
+            "endoparasiteOf",
+            "Gymnopithys leucaspis",
+            "EOL_V2:921222"
+        ],
+        [
+            "endoparasiteOf",
+            "Gallinago gallinago",
+            "EOL_V2:1049554"
+        ],
+        [
+            "endoparasiteOf",
+            "Passer domesticus",
+            "GBIF:5231190"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47928",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:34763",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47904",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47997",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47978",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47708",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47785",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47786",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47809",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48218",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48065",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:45108",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47774",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47836",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48277",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47788",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47930",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:45039",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47902",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:45138",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47791",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48144",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47719",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47743",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48245",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47742",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48172",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48157",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47795",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48275",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:45080",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:45169",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47854",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48150",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47812",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47784",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48276",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:45075",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48080",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47725",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47936",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47970",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47838",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48259",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47919",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48026",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48153",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48061",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48255",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47753",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47744",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48236",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47898",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:48194",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "http://arctos.database.museum/guid/MSB:Bird:47975",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Two wild-caught doners were used for the infection experiment; 9 / 30 became infected",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Experimental infection",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Experimentally infected",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Found in 6 organs / Not in blood",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Found in 5 organs / Not in blood",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Found in heart and pectoralis / Not in blood",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Found in pectoralis / Not in blood",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Baltimore Zoo",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Dead bird in captivity",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Amplified from blood filled abdomen of Culex pipiens pallens",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Semi-captive population",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Found dead",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Lamprotornis hildebrandti",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Birds from the wild;  sampled after kept at rescue center (IBAMA); time in captivity unknown",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "introduced species",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Exp inf with isolate from Passer domesticus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Fort Worth Zoo",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Typed with qPCR and may include a proportion of BT7",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Typed with qPCR and may include a proportion of GRW11",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "laboratory strain",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Zoological garden",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Rehabilitation centre",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Guaruja aquarium",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:40459",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:40778;Bird:41418",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:44109;Bird:41401",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:41406",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:41191",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:41428",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Smear negative",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Smear positive",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Lichmera incana",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Pachycephala caledonica",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Myzomela caledonica",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Stomiopera unicolor",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Malurus coronatus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Zenaida meloda",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Caribbean",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Positive by microscopy",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "1 bird found dead. Mixed infection with PADOM11",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Saxicola maura",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "1 bird found dead. Mixed infection with CATUST05",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:R0284; BloodSmear:Not examined; HistoPathology:Negative",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:IPRAMRJ128; BloodSmear:Not examined; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:CRAM1923; BloodSmear:P. cathemerium; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:R0092; BloodSmear:P. (Haemamoeba) sp; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:R0272; BloodSmear:Not examined; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:IF508; BloodSmear:P. elongatum + P. tejerai; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:IPRAMES114; BloodSmear:Not examined; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:IF516; BloodSmear:Plasmodium sp; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:IPRAMES167; BloodSmear:Negative; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:R0290; BloodSmear:Not examined; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:CRAM2127; BloodSmear:P. nucleophilum; HistoPathology:Positive (intraerythrocytic parasites)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:CRAM2289; BloodSmear:P. nucleophilum; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:CRAM1886; BloodSmear:P. nucleophilum + P. cathemerium; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:IF506; BloodSmear:P. tejerai; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:IF520; BloodSmear:P. tejerai; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:CRAM1935; BloodSmear:P. cathemerium; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:R0282; BloodSmear:Not examined; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:W16437; BloodSmear:Negative; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:IF503; BloodSmear:P. (Haemamoeba) sp; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:IF518; BloodSmear:Negative; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:IF590; BloodSmear:P. tejerai; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:R0040; BloodSmear:Negative; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:R0091; BloodSmear:Not examined; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:F1055; BloodSmear:Negative; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:F1060; BloodSmear:Negative; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:CRAM2126; BloodSmear:Negative; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:CRAM2278; BloodSmear:Not examined; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:IF508; BloodSmear:P. elongatum + P. Tejerai; HistoPathology:Not examined",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:R0093; BloodSmear:Not examined; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:R0268; BloodSmear:Not examined; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:R0263; BloodSmear:Not examined; HistoPathology:Positive (exoerythrocytic meronts)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "FlipNr:CRAM2125; BloodSmear:Negative; HistoPathology:Negative",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Kanagawa Zoo",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Ueda Zoological Garden",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cracticus louisiadensis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "imported from Africa to Japan",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Erithacus komadori",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Microscelis amaurotis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "San Diego Zoo",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Zoo in southern USA",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Rehabilitation center",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Experimentally infected with isolate from Lanius collurio",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Caged bird died likely from the infection",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Outside the HaemF/R2 region there was a C/T polymorphism (at position 758)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "short sequence",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Washington Zoo",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Yokohama Zoological Garden",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Syndactyla ruficollis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cryptopipo holochlora",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Philydor erythropterum",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48218",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Phlegopsis erythroptera",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Synallaxis rutilans",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Pyrrhura lepida",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Sporophila americana",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Tachyphonus phoenicius",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Myrmotherula guttata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Hypocnemis ochrogyna",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Polioptila paraensis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Turdus hauxwelli",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48255",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Lepidothrix vilasboasi",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Rhegmatorhina berlepschi",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Myrmeciza fortis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48172",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Schistocichla humaythae",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48150",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47743",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47725",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47928",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47812",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47919",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47809",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "in mosquito blood meals",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48236",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Acrocephalus gracilirostris",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47774",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Bradypterus baboecala",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47791",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47784",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48259",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Sylvia deserticola",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48245;48259",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Melaenornis silens",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48275;48276",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47975",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Basileuterus leucoblepharus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47978",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Carduelis barbata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48065;48144",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47836",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47854",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Mimus triurus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47930",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Campylorhynchus yucatanicus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47744",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47785;47904;48157",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47786",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47795",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cinclocerthia ruficauda",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47719",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47902",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Veniliornis affinis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47788",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cercomacra cinerascens",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cercomacra serva",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Casiornis fuscus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47708",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Formicivora melanogaster",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Hemitriccus griseipectus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cypsnagra hirundinacea",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Formicivora grisea",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Microbates collaris",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cranioleuca vulpina",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Nectarinia venusta",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cinnyris bouvieri",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cyanomitra oritis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cisticola tinniens",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cercotrichas coryphoeus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Thamnophilus pelzelni",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Epinecrophylla haematonota",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Automolus paraensis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Megastictus margaritatus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Attila cinnamomeus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:35442",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Passer rufocinctus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Myiothlypis coronatus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Zosterops xanthochroa",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "injured and rescued wild birds; 8 tested at other 3 locations were all negative",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Buarremon basilicus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "injured and rescued wild birds; same individual as SPOCIN01",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "identical also to BLUTI03",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Turdus olivater",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Mitu tuberosum",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Mitu tomentosum",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Nothocrax urumutum",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Poecile sclateri",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Anairetes fernandezianus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Named RBQ22 by mistake",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:31835",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cyanomitra obscura",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Hemispingus verticalis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Conopophaga lineata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Thryothorus genibarbis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:34295",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Sakesphorus cristatus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:34085",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Thamnophilus ambiguus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:35476",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "updated in correspondence with Aleš Svoboda",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Icterus nigrogularis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Dolospingus fringilloides",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cranioleuca pyrrhophia",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "From 3 captive populations, North Island",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47742",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Ammodramus henslowii",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Icterus chrysocephalus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47936",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48144",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Oreoscopus gutturalis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Meliphaga gracilis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "injured and rescued wild birds",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Myzomela erythrocephala",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Herpsilochmus sellowi",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Synallaxis scutata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Lichenostomus versicolor",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Serpophaga cinerea",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Amazilia chionogaster",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48026",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Sub-species: analoga",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Sub-species: kirki",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Sub-species: mauritianus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48080",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Sub-species: mayottensis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48157",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48277",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Sub-species: lutens",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47970",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Phylloscopus brehmi",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:48061",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47753",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47785",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "same lineage as positive control used (from bred Gallus gallus). Tested negative by Mizue Inumara November 2018. Probably contamination",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47838;47997",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Parasites were not found infecting 282 nestlings from the same and other breeding populations. Seven adults from Illa Grossa were not infected by blood parasites.",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "MSB:Bird:47898;48153;48194",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Basileuterus hypoleucus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Hylocryptus rectirostris",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Formicivora serrana",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Nonnula rubecula",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Philydor rufum",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Conopophaga melanops",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "3 of the samples have sequence differences outside",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "2 of the samples have sequence difference outside",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Numbers found estimated from reported % in publication",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Grus carunculatus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "also match NILSUN01",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Phylloscopus humei",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "NE North America",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:35493",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "North America",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:35507",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:34763",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:33844",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:34739",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "NC North America",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "SE North America",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "NW North America",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "SW North America",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:34084",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:27203",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:28029",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:32862",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host Museum of Southwestern Biology Catalog Number:35512",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Myrmotherula menetriesii",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Malacoptila rufa",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Russia (Europe)",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Acrocephalus agricola",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Chelidorhynx hypoxanthus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Luscinia cyanura",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Erythrogenys erythrogenys",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Stachyris strialata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Emberiza godlewskii",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Seicercus poliogenys",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Parus venustulus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Rimator malacoptilus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Stachyris pyrrhops",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Pericrocotus cinnamomeus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Prinia socialis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Pericrocotus erythropygius",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Nectarinia sperata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Hylophylax punctulatus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "local transmission",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Myrmotherula longipennis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Micrastur mintoni",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Scenopoeetes dentirostris",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Sericornis magnirostris",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Colluricincla boweri",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Lichenostomus frenatus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Pitohui incertus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Pitohui dichrous",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Sericornis nouhuysi",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Carpodacus pulcherrimus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Rhinomyias albigularis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "wild birds sampled at a raptor rehabilitation unit",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Zoo",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Meliphaga analoga",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Crateroscelis robusta",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Eulacestoma nigropectus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cinnyris chloropygius",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Terpsiphone rufiventer",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Anthreptes seimundi",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cyanomitra cyanolaema",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cinnyris reichenowi",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Pseudhirundo griseopyga",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Dyaphorophyia castanea",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Pachycephala simplex",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Acanthiza katherina",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Crateroscelis murina",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Leptocoma sericea",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Poecilodryas albispecularis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Pseudobias wardi",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Hartlaubius auratus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Foudia omissa",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Merops malimbicus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cinnyris souimanga",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Monticola sharpei",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Nectarinia notata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Pyrenestes ostrinus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Nicator chloris",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Zoothera camaronensis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cisticola anonymus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Ploceus melanogaster",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Criniger calurus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Bleda eximius",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Muscicapa olivascens",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Criniger chloronotus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Crithagra rufobrunnea",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Anabathmis newtonii",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Ploceus princeps",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Crithagra capistrata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Turdus olivaceofuscus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Andropadus chlorigula",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cinnyris ludovicensis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Nectarinia moreaui",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Bleda notatus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cuculus rochii",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Nectarinia chloropygia",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cinnyris fuelleborni",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Zosterops leucophaeus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Zosterops brunneus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Zosterops ficedulinus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468601",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Ploceus sanctithomae",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Ploceus grandis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468211",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468552",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468260",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468244",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467842",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468190",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468113",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468414 468417 468420",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468448",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468128",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468176",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467902",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467994",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468062",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468258",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468548",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468559",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468443",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468538",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468228",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468205",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468207 468208 468209",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468215",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468197 468202",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468276",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468075",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468050 468062 468064 468070",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468336 468330",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468432",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468359",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467853",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467966",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468512",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468274",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468152 468155",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468107",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468055",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468369",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468402",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467959",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468577",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468226 468233",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467941",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468048",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468496",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467964",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468558",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467999",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468545",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468505",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468224",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468526",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468553",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467996",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468528 468529",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468520 468521 468522",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467872",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468507 468508 468509 468510 468511 468513 468514 468515 468516 468518",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467949 467950",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468058 468065",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468084",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468624",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468377",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468584",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468491",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468167",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468121",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468348",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467967",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468422",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468347",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468559 468560",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468268",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468043",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468045 468046 468047",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468080",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468296",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468398",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467990",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468361",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468003",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468009 468010",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468032",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468177",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468440",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467953",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467927",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467845",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467896",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468096",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468533",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468132 468135",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468625",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468103",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467840",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468140",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468283",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468466",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467909",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468493",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468000",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467876",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468614",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468475",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468038",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468525 468527",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468111",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468162 468168",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468459",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468090",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468514",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468126",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468123",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468286",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468247",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468030",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 479646",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468593",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468434",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468025",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468542",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468155",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468335",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467986",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468083",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467918",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468204",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468594",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468091",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467945",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468044",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468085",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468421",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468563",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468595",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468191",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468383",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468396",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468362",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468315",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468192",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468194",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468010",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468277",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468281",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468069",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468064",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468337",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468336",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468213",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468312",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cercotrichas galactotes",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Galerida modesta",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Euplectes macroura",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Heliolais erythropterus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cisticola cantans",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cercotrichas podobe",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Lagonosticta sanguinodorsalis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468216 468220",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468225",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468027 468037",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468464",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468036",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468420",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468210",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468026 468037 468029",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467946",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468523",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468577 468579",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468504",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467895",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468221",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468481",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468227",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468501",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468368",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468264",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 467926",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468354",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Host_Collection_Number: 468521",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Pseudocolaptes boissonneautii",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Premnornis guttuligera",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Drymophila caudata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Myrmotherula schisticolor",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Nectarinia humbloti",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Humblotia flavirostris",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Foudia flavicans",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cercomela fusca",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Acrocephalus mendanae",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cinnyris dussumieri",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Emberizoides herbicola",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Nectarinia oritis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cinnyris coquerellii",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Phaethornis yaruqui",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Phaethornis syrmatophorus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Basileuterus fulvicauda",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Orthotomus cucullatus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Zosterops borbonicus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Zosterops chloronothos",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Zosterops mouroniensis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Phylloscopus trochiloides",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Anthodiaeta platura",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Garrulax lineatus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Ficedula semitorquata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Phylloscopus nitidus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Lepidothrix nattereri",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Rhegmatorhina gymnops",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Galbula cyanicollis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Dichrozona cincta",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Rhegmatorhina hoffmannsi",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Myrmornis torquata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Conopophaga castaneiceps",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Diglossopis caerulescens",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Scardafella squammata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Lepidocolaptes affinis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Cyanoloxia brissonii",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Thamnophilus nigrocinereus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Thryothorus leucotis",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Hypocnemis striata",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Piprites chloris",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Thamnomanes saturninus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Xiphorhynchus elegans",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Xenopipo atronitens",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Poecilotriccus fumifrons",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Grallaricula peruviana",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Thryothorus euophrys",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Tachuris rubrigastra",
+            "INAT_TAXON:17174"
+        ],
+        [
+            "parasiteOf",
+            "Mixornis gularis",
+            "INAT_TAXON:339771"
+        ],
+        [
+            "parasiteOf",
+            "Anthobaphes violacea",
+            "INAT_TAXON:145130"
+        ],
+        [
+            "parasiteOf",
+            "Corythornis madagascariensis",
+            "INAT_TAXON:144654"
+        ],
+        [
+            "parasiteOf",
+            "Macaca tonkeanna",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "no binomial name",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Ardea herodius",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Limnodromus scilopaceus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Catjartes aura",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Egernia whitei",
+            "IRMNG:11078615"
+        ],
+        [
+            "parasiteOf",
+            "Draco maculatus",
+            "EOL:794988"
+        ],
+        [
+            "parasiteOf",
+            "Egernia cunninghami",
+            "GBIF:2463131"
+        ],
+        [
+            "parasiteOf",
+            "Egernia stokesii",
+            "GBIF:2463105"
+        ],
+        [
+            "parasiteOf",
+            "Egernia striolata",
+            "GBIF:2463115"
+        ],
+        [
+            "parasiteOf",
+            "Bellatorias major",
+            "GBIF:8257899"
+        ],
+        [
+            "parasiteOf",
+            "Melozone fusca",
+            "GBIF:7341622"
+        ],
+        [
+            "parasiteOf",
+            "Icterus icterus",
+            "EOL_V2:1052048"
+        ],
+        [
+            "parasiteOf",
+            "Biziura lobata",
+            "EOL:1048541"
+        ],
+        [
+            "parasiteOf",
+            "Francolinus lathami",
+            "EOL_V2:900306"
+        ],
+        [
+            "parasiteOf",
+            "Dinemellia dinemelli",
+            "GBIF:2493991"
+        ],
+        [
+            "parasiteOf",
+            "Calonectris leucomelas",
+            "FBC:SLB:SpecCode:76510"
+        ],
+        [
+            "parasiteOf",
+            "Tringa nebularia",
+            "EOL_V2:1049442"
+        ],
+        [
+            "parasiteOf",
+            "Cracticus",
+            "EOL_V2:92846"
+        ],
+        [
+            "parasiteOf",
+            "Thamnomanes ardesiacus",
+            "GBIF:2490218"
+        ],
+        [
+            "parasiteOf",
+            "Myiothlypis fulvicauda",
+            "GBIF:7341658"
+        ],
+        [
+            "parasiteOf",
+            "Metriopelia ceciliae",
+            "EOL:1049806"
+        ],
+        [
+            "parasiteOf",
+            "Hyloctistes subulatus",
+            "GBIF:2485499"
+        ],
+        [
+            "parasiteOf",
+            "Myiobius atricaudus",
+            "EOL_V2:1053203"
+        ],
+        [
+            "parasiteOf",
+            "Gyps bengalensis",
+            "EOL_V2:914569"
+        ],
+        [
+            "parasiteOf",
+            "HIRUNDINIDAE",
+            "ALATaxon:urn:lsid:biodiversity.org.au:afd.taxon:0a7c8077-bf73-421b-b780-427964fac49e"
+        ],
+        [
+            "parasiteOf",
+            "Lamprotornis superbus",
+            "EOL_V2:1052507"
+        ],
+        [
+            "parasiteOf",
+            "Acrocephalus paludicola",
+            "GBIF:2493114"
+        ],
+        [
+            "parasiteOf",
+            "Apteryx australis",
+            "ALATaxon:NZOR-6-34790"
+        ],
+        [
+            "parasiteOf",
+            "Cinclus cinclus",
+            "EOL_V2:916125"
+        ],
+        [
+            "parasiteOf",
+            "Myzomela cardinalis",
+            "EOL_V2:1050853"
+        ],
+        [
+            "parasiteOf",
+            "Collocalia esculenta",
+            "ALATaxon:urn:lsid:biodiversity.org.au:afd.taxon:05f5f1f6-f30f-453c-8983-e82af8b5e292"
+        ],
+        [
+            "parasiteOf",
+            "Malurus lamberti",
+            "GBIF:2487495"
+        ],
+        [
+            "parasiteOf",
+            "Malurus melanocephalus",
+            "GBIF:2487524"
+        ],
+        [
+            "parasiteOf",
+            "Locustella luscinioides",
+            "EOL_V2:1052685"
+        ],
+        [
+            "parasiteOf",
+            "Emberiza variabilis",
+            "GBIF:2491545"
+        ],
+        [
+            "parasiteOf",
+            "Ixobrychus flavicollis",
+            "ALATaxon:urn:lsid:biodiversity.org.au:afd.taxon:577a1f99-221a-42d5-957e-ccf2752ab032"
+        ],
+        [
+            "parasiteOf",
+            "Conopophila albogularis",
+            "GBIF:2486946"
+        ],
+        [
+            "parasiteOf",
+            "Callaeas cinerea",
+            "ALATaxon:NZOR-6-13955"
+        ],
+        [
+            "parasiteOf",
+            "Tockus flavirostris",
+            "EOL_V2:914499"
+        ],
+        [
+            "parasiteOf",
+            "Pytilia melba",
+            "EOL_V2:1050491"
+        ],
+        [
+            "parasiteOf",
+            "Ploceus intermedius",
+            "GBIF:2494014"
+        ],
+        [
+            "parasiteOf",
+            "Ploceus xanthops",
+            "EOL_V2:918140"
+        ],
+        [
+            "parasiteOf",
+            "Enicurus ruficapillus",
+            "GBIF:2492631"
+        ],
+        [
+            "parasiteOf",
+            "Hippolais pallida",
+            "EOL_V2:1052240"
+        ],
+        [
+            "parasiteOf",
+            "Netta erythrophthalma",
+            "EOL:1048528"
+        ],
+        [
+            "parasiteOf",
+            "Guaruba guarouba",
+            "GBIF:2480064"
+        ],
+        [
+            "parasiteOf",
+            "Diglossa humeralis",
+            "EOL:920872"
+        ],
+        [
+            "parasiteOf",
+            "Passer luteus",
+            "GBIF:5231210"
+        ],
+        [
+            "parasiteOf",
+            "Sericornis frontalis",
+            "GBIF:2486602"
+        ],
+        [
+            "parasiteOf",
+            "Campylorhamphus trochilirostris",
+            "GBIF:2485917"
+        ],
+        [
+            "parasiteOf",
+            "Dendroica pinus",
+            "EOL_V2:918803"
+        ],
+        [
+            "parasiteOf",
+            "Dendroica palmarum",
+            "EOL_V2:1051256"
+        ],
+        [
+            "parasiteOf",
+            "Phleocryptes melanops",
+            "GBIF:2485989"
+        ],
+        [
+            "parasiteOf",
+            "Emberiza hortulana",
+            "GBIF:2491482"
+        ],
+        [
+            "parasiteOf",
+            "Piezorina cinerea",
+            "GBIF:7782861"
+        ],
+        [
+            "parasiteOf",
+            "Coscoroba coscoroba",
+            "EOL:1048508"
+        ],
+        [
+            "parasiteOf",
+            "Phoenicopterus chilensis",
+            "EOL_V2:1049435"
+        ],
+        [
+            "parasiteOf",
+            "Aramides cajanea",
+            "EOL_V2:913462"
+        ],
+        [
+            "parasiteOf",
+            "Sarcoramphus papa",
+            "EOL_V2:1049159"
+        ],
+        [
+            "parasiteOf",
+            "Alopochen aegyptiaca",
+            "EOL_V2:1065128"
+        ],
+        [
+            "parasiteOf",
+            "Dendrocygna viduata",
+            "EOL_V2:1047355"
+        ],
+        [
+            "parasiteOf",
+            "Anodorhynchus hyacinthinus",
+            "EOL_V2:1177958"
+        ],
+        [
+            "parasiteOf",
+            "Plectropterus gambensis",
+            "EOL:1048538"
+        ],
+        [
+            "parasiteOf",
+            "Poecile atricapillus",
+            "EOL_V2:1178539"
+        ],
+        [
+            "parasiteOf",
+            "Peucedramus taeniatus",
+            "GBIF:2492276"
+        ],
+        [
+            "parasiteOf",
+            "Empidonax occidentalis",
+            "EOL_V2:1178511"
+        ],
+        [
+            "parasiteOf",
+            "Alectoris rufa",
+            "ALATaxon:NZOR-6-1445"
+        ],
+        [
+            "parasiteOf",
+            "Catherpes mexicanus",
+            "EOL_V2:1050702"
+        ],
+        [
+            "parasiteOf",
+            "Tadorna ferruginea",
+            "EOL_V2:1047357"
+        ],
+        [
+            "parasiteOf",
+            "Larus mongolicus",
+            "EOL_V2:10456899"
+        ],
+        [
+            "parasiteOf",
+            "Drymophila squamata",
+            "GBIF:5230833"
+        ],
+        [
+            "parasiteOf",
+            "Parula pitiayumi",
+            "WD:Q1300679"
+        ],
+        [
+            "parasiteOf",
+            "Thryothorus longirostris",
+            "EOL:1052982"
+        ],
+        [
+            "parasiteOf",
+            "Tiaris fuliginosus",
+            "ITIS:726208"
+        ],
+        [
+            "parasiteOf",
+            "Sittasomus griseicapillus",
+            "EOL_V2:1050184"
+        ],
+        [
+            "parasiteOf",
+            "Grus japonensis",
+            "EOL_V2:915325"
+        ],
+        [
+            "parasiteOf",
+            "Grus nigricollis",
+            "EOL_V2:915330"
+        ],
+        [
+            "parasiteOf",
+            "Anthropoides paradiseus",
+            "EOL_V2:267206"
+        ],
+        [
+            "parasiteOf",
+            "Grus leucogeranus",
+            "EOL_V2:915328"
+        ],
+        [
+            "parasiteOf",
+            "Grus vipio",
+            "EOL_V2:915332"
+        ],
+        [
+            "parasiteOf",
+            "Ammodramus aurifrons",
+            "GBIF:2491298"
+        ],
+        [
+            "parasiteOf",
+            "Dysithamnus plumbeus",
+            "GBIF:2490032"
+        ],
+        [
+            "parasiteOf",
+            "Anabazenops fuscus",
+            "GBIF:2485495"
+        ],
+        [
+            "parasiteOf",
+            "Diglossa lafresnayii",
+            "GBIF:5230669"
+        ],
+        [
+            "parasiteOf",
+            "Agamia agami",
+            "GBIF:2480836"
+        ],
+        [
+            "parasiteOf",
+            "Embernagra platensis",
+            "GBIF:2492002"
+        ],
+        [
+            "parasiteOf",
+            "Limnornis curvirostris",
+            "GBIF:9280911"
+        ],
+        [
+            "parasiteOf",
+            "Nectarinia olivacea",
+            "EOL_V2:1051776"
+        ],
+        [
+            "parasiteOf",
+            "Parula americana",
+            "EOL_V2:918540"
+        ],
+        [
+            "parasiteOf",
+            "Larus cachinnans",
+            "FBC:SLB:SpecCode:76824"
+        ],
+        [
+            "parasiteOf",
+            "Zosterops flavifrons",
+            "GBIF:2489412"
+        ],
+        [
+            "parasiteOf",
+            "Crypturellus undulatus",
+            "EOL_V2:1178394"
+        ],
+        [
+            "parasiteOf",
+            "Amazonetta brasiliensis",
+            "EOL:1048532"
+        ],
+        [
+            "parasiteOf",
+            "Saltator grossus",
+            "EOL:915864"
+        ],
+        [
+            "parasiteOf",
+            "Pseudoleistes virescens",
+            "EOL_V2:1050903"
+        ],
+        [
+            "parasiteOf",
+            "Streptoprocne zonaris",
+            "GBIF:2477082"
+        ],
+        [
+            "parasiteOf",
+            "Chamaeza campanisona",
+            "EOL:1050529"
+        ],
+        [
+            "parasiteOf",
+            "Eudyptes chrysocome",
+            "EOL_V2:1049612"
+        ],
+        [
+            "parasiteOf",
+            "Aphrastura spinicauda",
+            "GBIF:2485042"
+        ],
+        [
+            "parasiteOf",
+            "Cygnus melancoryphus",
+            "EOL:1065132"
+        ],
+        [
+            "parasiteOf",
+            "Spheniscus humboldti",
+            "EOL_V2:1049618"
+        ],
+        [
+            "parasiteOf",
+            "Gymnorhinus cyanocephalus",
+            "EOL_V2:1177486"
+        ],
+        [
+            "parasiteOf",
+            "Grus monacha",
+            "EOL_V2:915329"
+        ],
+        [
+            "parasiteOf",
+            "Baeolophus ridgwayi",
+            "GBIF:2487898"
+        ],
+        [
+            "parasiteOf",
+            "Pipilo fuscus",
+            "EOL_V2:1052569"
+        ],
+        [
+            "parasiteOf",
+            "Cyanopsitta spixii",
+            "GBIF:2479185"
+        ],
+        [
+            "parasiteOf",
+            "Dendroica discolor",
+            "EOL_V2:1051255"
+        ],
+        [
+            "parasiteOf",
+            "Chrysomus icterocephalus",
+            "EOL_V2:284088"
+        ],
+        [
+            "parasiteOf",
+            "Marmaronetta angustirostris",
+            "EOL_V2:1048545"
+        ]
+    ]
+}

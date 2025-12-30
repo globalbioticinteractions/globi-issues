@@ -1,0 +1,1469 @@
+sourceKingdom	interactionTypeName	targetKingdomName	sourceNamespace
+Chromista	hasHost	Animalia	millerse/Wardeh-et-al.-2015
+Animalia	eats	Bacteria	hurlbertlab/dietdatabase
+Animalia	eats	Chromista	jhpoelen/Dapstrom-integrated-database-and-portal-for-fish-stomach-records
+Protozoa	eats	Protozoa	globalbioticinteractions/planque2014
+Animalia	preysOn	Bacteria	globalbioticinteractions/preston2012
+Animalia	preysOn	Protozoa	globalbioticinteractions/brose
+	interactsWith	Protozoa	Bhanditz/pseudonitzchia
+Protozoa	eats	Animalia	georgeni2442/dietdatabase
+Plantae	hasParasite	Bacteria	globalbioticinteractions/inaturalist
+Fungi	hasParasite	Fungi	globalbioticinteractions/inaturalist
+Animalia	interactsWith	Bacteria	globalbioticinteractions/inaturalist
+Animalia	dispersalVectorOf	Plantae	globalbioticinteractions/AfricaTreeDatabase
+Animalia	endoparasiteOf	Animalia	globalbioticinteractions/bioinfo
+Protozoa	endoparasiteOf	Animalia	globalbioticinteractions/bioinfo
+	endoparasiteOf	Animalia	globalbioticinteractions/bioinfo
+Protozoa	eats	Animalia	globalbioticinteractions/dunne2016SanakIntertidal
+Chromista	interactsWith	Bacteria	Bhanditz/pseudonitzchia
+Plantae	hostOf	Chromista	millerse/Plant-Disease-Survey
+Chromista	eatenBy	Animalia	globalbioticinteractions/web-of-life
+Animalia	parasiteOf	Bacteria	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Chromista	interactsWith	Fungi	Bhanditz/pseudonitzchia
+Plantae	flowersVisitedBy		globalbioticinteractions/inaturalist
+Plantae	parasiteOf	Animalia	globalbioticinteractions/strona
+Animalia	visitsFlowersOf		globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Plantae	preysOn	Chromista	globalbioticinteractions/preston2012
+Fungi	interactsWith	Plantae	globalbioticinteractions/bioinfo
+	pathogenOf	Plantae	globalbioticinteractions/bioinfo
+Bacteria	eats	Bacteria	globalbioticinteractions/globalwebdb
+Protozoa	interactsWith	Fungi	EOL/pseudonitzchia
+Protozoa	interactsWith		Bhanditz/pseudonitzchia
+Animalia	parasiteOf	Fungi	millerse/Lichenous
+Chromista	parasiteOf	Fungi	globalbioticinteractions/siad
+Animalia	eats		jhpoelen/JLewis_GoMexSi
+	visitsFlowersOf	Animalia	globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Animalia	eats	Plantae	globalbioticinteractions/brose
+Protozoa	eats	Plantae	Dryu0003/dietdatabase
+Fungi	hasPathogen	Protozoa	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Plantae	hasDispersalVector	Protozoa	globalbioticinteractions/web-of-life
+Plantae	interactsWith	Animalia	Bhanditz/pseudonitzchia
+Plantae	parasiteOf	Plantae	globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Animalia	eats		globalbioticinteractions/bioinfo
+	interactsWith	Animalia	EOL/pseudonitzchia
+Fungi	hostOf	Animalia	globalbioticinteractions/saproxylic
+Animalia	preysOn	Chromista	millerse/Seaweed
+Animalia	eats	Fungi	globalbioticinteractions/inaturalist
+Fungi	interactsWith	Plantae	globalbioticinteractions/inaturalist
+Animalia	symbiontOf	Plantae	globalbioticinteractions/thieltges2011
+Plantae	hasHost	Animalia	millerse/Wardeh-et-al.-2015
+	eats	Animalia	jerichocook/BIOL395Project
+Bacteria	pathogenOf	Fungi	PHI-base/data
+Plantae	parasiteOf	Animalia	cmungall/Benesh-et-al-2017
+	parasiteOf	Animalia	cmungall/Benesh-et-al-2017
+Animalia	flowersVisitedBy		globalbioticinteractions/inaturalist
+Animalia	eats		globalbioticinteractions/planque2014
+Chromista	parasiteOf	Animalia	globalbioticinteractions/preston2012
+Animalia	eats		globalbioticinteractions/sealifebase
+Fungi	eats		globalbioticinteractions/bioinfo
+Fungi	parasiteOf	Bacteria	globalbioticinteractions/bioinfo
+	flowersVisitedBy		globalbioticinteractions/inaturalist
+Animalia	parasiteOf	Animalia	millerse/Buprestidae-of-North-America
+Animalia	eats	Animalia	millerse/Pollination-Collection
+Plantae	eatenBy	Fungi	globalbioticinteractions/web-of-life
+Animalia	preysOn		globalbioticinteractions/zander2011
+Chromista	pathogenOf	Plantae	jhpoelen/data
+Animalia	eats		diatomsRcool/greenland_interactions
+Bacteria	pathogenOf	Protozoa	globalbioticinteractions/phi-base-data
+Animalia	dispersalVectorOf	Fungi	globalbioticinteractions/AfricaTreeDatabase
+Chromista	pathogenOf	Plantae	globalbioticinteractions/aps-turfgrasses
+Animalia	visitsFlowersOf	Plantae	globalbioticinteractions/bioinfo
+Protozoa	eats	Protozoa	globalbioticinteractions/globalwebdb
+Animalia	eats	Animalia	globalbioticinteractions/jsonld-template-dataset
+Plantae	parasiteOf	Plantae	millerse/parasitic-plant-connection
+Protozoa	eats	Animalia	hurlbertlab/dietdatabase
+Plantae	interactsWith		Bhanditz/pseudonitzchia
+Protozoa	eats	Plantae	georgeni2442/dietdatabase
+Animalia	eats	Animalia	globalbioticinteractions/AfricaTreeDatabase
+Animalia	eats	Chromista	hurlbertlab/dietdatabase
+Animalia	eats		globalbioticinteractions/gray2015
+Plantae	interactsWith	Animalia	globalbioticinteractions/arthropodEasyCaptureAMNH
+Fungi	eats	Chromista	globalbioticinteractions/bioinfo
+Fungi	livesOn	Animalia	globalbioticinteractions/bioinfo
+Animalia	hasPathogen	Plantae	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+	eats	Plantae	hurlbertlab/dietdatabase
+Animalia	eats	Plantae	HongyuLii/dietdatabase
+Animalia	parasiteOf	Fungi	cmungall/Benesh-et-al-2017
+Animalia	adjacentTo	Animalia	globalbioticinteractions/arthropodEasyCaptureAMNH
+	hasPathogen	Animalia	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	parasiteOf	Animalia	globalbioticinteractions/siad
+Animalia	eatenBy	Bacteria	globalbioticinteractions/web-of-life
+Animalia	eats	Plantae	jhpoelen/JLewis_GoMexSi
+Protozoa	interactsWith	Plantae	Bhanditz/pseudonitzchia
+Animalia	parasiteOf		cmungall/Benesh-et-al-2017
+Plantae	eatenBy	Animalia	globalbioticinteractions/inaturalist
+Animalia	eats	Plantae	seltmann/vampire-moths-and-their-fruit-piercing-relatives
+Plantae	eatenBy	Animalia	millerse/grazers-of-North-American-aquatic-plants
+	hasParasite		millerse/A-Host-parasite-Catalog-of-North-American-Tachinidae-Diptera-
+Chromista	interactsWith	Protozoa	Bhanditz/pseudonitzchia
+	eats	Plantae	fgabriel1891/Palm-Frugivore_Interactions_Neo-Afrotropics
+Chromista	pathogenOf	Plantae	globalbioticinteractions/inaturalist
+Animalia	eats	Chromista	GoMexSI/interaction-data
+Plantae	interactsWith	Fungi	EOL/pseudonitzchia
+Plantae	hostOf	Animalia	globalbioticinteractions/saproxylic
+Fungi	interactsWith	Plantae	thebateslab/mycoportal
+Animalia	parasiteOf	Plantae	millerse/Lice
+Animalia	hostOf	Animalia	millerse/Aluja-et-al-New-Host-Plant-and-Distribution-Records-in-Mexico
+Animalia	eats	Animalia	millerse/Arctic-food-web
+Animalia	interactsWith	Fungi	Bhanditz/pseudonitzchia
+Plantae	interactsWith	Chromista	globalbioticinteractions/inaturalist
+Animalia	pathogenOf	Fungi	globalbioticinteractions/inaturalist
+	flowersVisitedBy	Animalia	globalbioticinteractions/inaturalist
+Animalia	hostOf		millerse/Arctos
+Plantae	eats	Plantae	globalbioticinteractions/bioinfo
+	hasHost		globalbioticinteractions/inaturalist
+Animalia	preysOn	Plantae	millerse/Serengeti
+Protozoa	parasiteOf	Protozoa	globalbioticinteractions/siad
+Plantae	hasPathogen	Plantae	millerse/BHL-Interactions
+Protozoa	preyedUponBy	Animalia	globalbioticinteractions/inaturalist
+	eats	Animalia	globalbioticinteractions/dunne2016SanakNearshore
+	visitsFlowersOf	Animalia	millerse/Pollination-Collection
+Animalia	eats		globalbioticinteractions/spire
+Animalia	parasiteOf	Animalia	millerse/BHL-Interactions
+	preysOn	Animalia	globalbioticinteractions/fishbase
+Animalia	parasiteOf	Animalia	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Plantae	parasitoidOf	Plantae	globalbioticinteractions/inaturalist
+Chromista	interactsWith	Animalia	globalbioticinteractions/preston2012
+	pollinates	Plantae	globalbioticinteractions/bioinfo
+Animalia	eats	Fungi	globalbioticinteractions/ferrer-paris
+Animalia	parasiteOf	Animalia	seltmann/template-dataset
+Animalia	hostOf	Protozoa	millerse/Carpinteria-Salt-Marsh-Web
+Animalia	eats	Plantae	jerichocook/BIOL395Project
+Animalia	eats	Animalia	millerse/Bald-Eagle-Diet
+Animalia	parasiteOf	Animalia	ParasiteTracker/vampire-moths-and-their-fruit-piercing-relatives-Occurrence-Records
+Protozoa	pathogenOf	Animalia	globalbioticinteractions/bioinfo
+Protozoa	livesOn	Plantae	globalbioticinteractions/bioinfo
+	eats	Plantae	Dryu0003/dietdatabase
+Animalia	eats	Bacteria	globalbioticinteractions/siad
+Plantae	interactsWith		millerse/Biological-Station-Arthropod-Collection
+Animalia	eats	Chromista	GoMexSI/akin
+Animalia	eats	Plantae	globalbioticinteractions/inaturalist
+Chromista	interactsWith	Plantae	EOL/pseudonitzchia
+Fungi	parasiteOf	Animalia	globalbioticinteractions/siad
+Animalia	pathogenOf	Animalia	globalbioticinteractions/zander2011
+Animalia	eats	Protozoa	jhpoelen/Dapstrom-integrated-database-and-portal-for-fish-stomach-records
+Chromista	eats	Chromista	globalbioticinteractions/raymond
+Chromista	livesOn	Animalia	globalbioticinteractions/bioinfo
+Plantae	eats	Animalia	globalbioticinteractions/saproxylic
+	eats	Plantae	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Protozoa	eats	Plantae	globalbioticinteractions/spire
+Plantae	hasPathogen	Chromista	millerse/BHL-Interactions
+	preysOn	Plantae	globalbioticinteractions/preston2012
+Chromista	interactsWith	Chromista	EOL/pseudonitzchia
+	pathogenOf	Archaea	globalbioticinteractions/virus-host-db
+	hasParasite	Animalia	globalbioticinteractions/web-of-life
+Animalia	eatenBy	Animalia	millerse/Bascompte-J.-Meli-n-C.J.-and-Sala-E.-2005
+Animalia	endoparasiteOf	Protozoa	millerse/Benesh-et-al-2017
+Chromista	pathogenOf	Plantae	globalbioticinteractions/phi-base-data
+Animalia	parasiteOf		millerse/Lice
+	pathogenOf	Fungi	globalbioticinteractions/virus-host-db
+Animalia	eats	Protozoa	kinseyfish/dietdatabase
+Fungi	hostOf	Fungi	globalbioticinteractions/inaturalist
+Animalia	preysOn	Plantae	globalbioticinteractions/thieltges2011
+Chromista	parasiteOf	Plantae	globalbioticinteractions/bioinfo
+Protozoa	livesOn	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Fungi	globalbioticinteractions/dunne2016SanakIntertidal
+Fungi	eats	Bacteria	globalbioticinteractions/globalwebdb
+Protozoa	parasiteOf	Fungi	globalbioticinteractions/siad
+Animalia	eats	Bacteria	jerichocook/BIOL395Project
+Bacteria	pathogenOf	Fungi	jhpoelen/data
+Animalia	eats		millerse/Dapstrom-integrated-database-and-portal-for-fish-stomach-records
+Chromista	pathogenOf	Animalia	globalbioticinteractions/aps-turfgrasses
+Animalia	interactsWith	Plantae	globalbioticinteractions/bioinfo
+Plantae	parasiteOf	Animalia	globalbioticinteractions/hechinger2011
+Animalia	preysOn	Bacteria	globalbioticinteractions/sealifebase
+Animalia	eats	Bacteria	millerse/Smithsonian-Repository-Interactions
+Plantae	visitsFlowersOf	Animalia	millerse/Plant-Pollinator-Web
+Animalia	hostOf	Animalia	millerse/Anemonefish
+Animalia	visitsFlowersOf	Plantae	globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Plantae	pathogenOf	Plantae	globalbioticinteractions/caps-pest-lists
+	eats	Plantae	millerse/Plant-Herbivore-Web
+Protozoa	parasiteOf	Animalia	cmungall/Benesh-et-al-2017
+Animalia	parasiteOf	Animalia	globalbioticinteractions/arthropodEasyCaptureAMNH
+Fungi	eatenBy	Animalia	globalbioticinteractions/inaturalist
+Chromista	eats	Protozoa	globalbioticinteractions/roopnarine
+Animalia	interactsWith	Chromista	globalbioticinteractions/bioinfo
+Animalia	eats	Animalia	globalbioticinteractions/barnes
+Protozoa	eats	Bacteria	globalbioticinteractions/dunne2016SanakNearshore
+Protozoa	eats	Animalia	globalbioticinteractions/globalwebdb
+Animalia	hostOf	Animalia	globalbioticinteractions/saproxylic
+Fungi	eats	Animalia	globalbioticinteractions/fishbase
+Animalia	parasiteOf		globalbioticinteractions/natural-history-museum-london-interactions-bank
+Animalia	parasiteOf	Protozoa	cmungall/Benesh-et-al-2017
+	interactsWith	Plantae	globalbioticinteractions/arthropodEasyCaptureAMNH
+Plantae	preysOn	Animalia	globalbioticinteractions/preston2012
+Plantae	interactsWith		globalbioticinteractions/arthropodEasyCaptureAMNH
+Animalia	eats	Bacteria	globalbioticinteractions/AfricaTreeDatabase
+Animalia	eats	Bacteria	Dryu0003/dietdatabase
+Animalia	preysOn	Animalia	millerse/Seaweed
+Animalia	eats	Chromista	georgeni2442/dietdatabase
+Fungi	interactsWith	Fungi	globalbioticinteractions/inaturalist
+	interactsWith	Chromista	globalbioticinteractions/preston2012
+Animalia	eats	Plantae	globalbioticinteractions/dunne2016SanakNearshore
+Chromista	eats	Chromista	globalbioticinteractions/choy2017
+Animalia	eats	Fungi	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Animalia	parasiteOf	Protozoa	millerse/US-National-Parasite-Collection
+Plantae	hasHost	Protozoa	millerse/Wardeh-et-al.-2015
+	endoparasiteOf	Animalia	millerse/Benesh-et-al-2017
+Animalia	eats	Bacteria	globalbioticinteractions/planque2014
+Protozoa	eats	Chromista	globalbioticinteractions/dunne2016SanakIntertidal
+Bacteria	eats	Plantae	globalbioticinteractions/globalwebdb
+Animalia	interactsWith	Fungi	EOL/pseudonitzchia
+	hasHost	Archaea	millerse/Wardeh-et-al.-2015
+Plantae	interactsWith	Fungi	Bhanditz/pseudonitzchia
+Animalia	pathogenOf	Animalia	globalbioticinteractions/inaturalist
+Animalia	eats	Bacteria	globalbioticinteractions/raymond
+Animalia	eats	Bacteria	globalbioticinteractions/ferrer-paris
+Animalia	visits	Plantae	globalbioticinteractions/lupinus-nipomensis-interactions-2017
+Animalia	eats	Fungi	millerse/Feeding-Niches-of-Hummingbirds-in-a-Trinidad-Valley
+Plantae	visitsFlowersOf	Plantae	millerse/Pollination-Collection
+Bacteria	hasHost	Plantae	millerse/Wardeh-et-al.-2015
+Animalia	eats	Fungi	globalbioticinteractions/gray2015
+Animalia	interactsWith	Protozoa	globalbioticinteractions/arthropodEasyCaptureAMNH
+Fungi	preysOn	Plantae	globalbioticinteractions/bioinfo
+Animalia	eats	Fungi	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+	visitsFlowersOf	Plantae	millerse/Clements-R.-E.-and-F.-L.-Long
+Animalia	eats	Animalia	GoMexSI/wrast
+Animalia	visitsFlowersOf	Animalia	globalbioticinteractions/inaturalist
+Animalia	eats	Chromista	globalbioticinteractions/brose
+Animalia	eats	Animalia	globalbioticinteractions/brose
+Animalia	ectoParasiteOf	Animalia	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Fungi	eats	Plantae	globalbioticinteractions/spire
+Plantae	hasPathogen	Bacteria	millerse/BHL-Interactions
+Chromista	interactsWith	Animalia	globalbioticinteractions/inaturalist
+Fungi	hasHost	Fungi	globalbioticinteractions/inaturalist
+Animalia	eats		globalbioticinteractions/saito2016
+Animalia	parasiteOf	Animalia	millerse/US-National-Parasite-Collection
+	preysOn	Plantae	millerse/Seaweed
+Plantae	pollinatedBy	Fungi	globalbioticinteractions/web-of-life
+Animalia	parasiteOf	Animalia	jhpoelen/Lice
+Chromista	pathogenOf	Animalia	PHI-base/data
+Animalia	hasParasite	Plantae	globalbioticinteractions/inaturalist
+Animalia	eats	Plantae	globalbioticinteractions/sealifebase
+Protozoa	livesNear	Plantae	globalbioticinteractions/bioinfo
+Animalia	preysOn	Protozoa	globalbioticinteractions/mouritsen2011
+Chromista	preyedUponBy	Animalia	millerse/Carpinteria-Salt-Marsh-Web
+Animalia	interactsWith	Plantae	millerse/Plant-ant-webs
+Animalia	hasPathogen	Animalia	millerse/BHL-Interactions
+Plantae	pathogenOf	Plantae	globalbioticinteractions/gemina
+Animalia	interactsWith	Plantae	Bhanditz/pseudonitzchia
+Animalia	preysOn		globalbioticinteractions/inaturalist
+Chromista	interactsWith	Chromista	globalbioticinteractions/inaturalist
+Chromista	eats	Chromista	globalbioticinteractions/roopnarine
+Protozoa	eats	Plantae	globalbioticinteractions/dunne2016SanakNearshore
+Chromista	interactsWith	Protozoa	EOL/pseudonitzchia
+Protozoa	parasiteOf	Fungi	millerse/Lichenous
+Fungi	eats	Fungi	globalbioticinteractions/spire
+Animalia	eats	Protozoa	globalbioticinteractions/siad
+Animalia	eats	Protozoa	HongyuLii/dietdatabase
+Animalia	eats	Chromista	GoMexSI/wrast
+Fungi	pathogenOf	Plantae	globalbioticinteractions/bioinfo
+Chromista	parasiteOf	Chromista	globalbioticinteractions/bioinfo
+Plantae	pathogenOf	Plantae	globalbioticinteractions/bioinfo
+	pathogenOf	Plantae	globalbioticinteractions/caps-pest-lists
+Animalia	eats	Animalia	seltmann/vampire-moths-and-their-fruit-piercing-relatives
+Animalia	eats	Plantae	millerse/Smithsonian-Repository-Interactions
+	eats	Plantae	jerichocook/BIOL395Project
+Fungi	preysOn	Animalia	globalbioticinteractions/fishbase
+	preysOn		globalbioticinteractions/inaturalist
+Protozoa	eats	Animalia	globalbioticinteractions/roopnarine
+Animalia	parasiteOf	Animalia	globalbioticinteractions/thieltges2011
+Animalia	preysOn	Plantae	globalbioticinteractions/bioinfo
+Animalia	interactsWith	Bacteria	EOL/pseudonitzchia
+Animalia	eats	Animalia	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Plantae	flowersVisitedBy	Fungi	millerse/Flowers-and-insects-lists-of-visitors-to-four-hundred-and-fifty-three-flowers
+Animalia	eats	Plantae	millerse/Feeding-Niches-of-Hummingbirds-in-a-Trinidad-Valley
+Animalia	eats	Chromista	millerse/Jstor-Collecton
+Fungi	parasiteOf		millerse/Lichenous
+Animalia	hasHost	Chromista	millerse/Wardeh-et-al.-2015
+	parasiteOf		globalbioticinteractions/natural-history-museum-london-interactions-bank
+Protozoa	eatenBy	Animalia	globalbioticinteractions/inaturalist
+Plantae	endoparasiteOf	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Bacteria	globalbioticinteractions/dunne2016SanakIntertidal
+	eats		globalbioticinteractions/dunne2016SanakIntertidal
+Plantae	hostOf	Animalia	millerse/Plant-Disease-Survey
+Fungi	parasiteOf	Animalia	millerse/US-National-Parasite-Collection
+Plantae	visitsFlowersOf		millerse/Plant-Pollinator-Web
+Fungi	parasiteOf		globalbioticinteractions/siad
+Protozoa	interactsWith	Protozoa	Bhanditz/pseudonitzchia
+Animalia	eats	Animalia	NASUA/ZalophusPredatoryInteractions
+Animalia	eats	Plantae	globalbioticinteractions/bioinfo
+Fungi	hasDispersalVector	Animalia	globalbioticinteractions/bioinfo
+Animalia	preysOn	Plantae	globalbioticinteractions/brose
+Plantae	eats	Bacteria	globalbioticinteractions/globalwebdb
+	pathogenOf	Plantae	globalbioticinteractions/inaturalist
+Animalia	preysOn	Animalia	globalbioticinteractions/saproxylic
+Animalia	visitsFlowersOf	Animalia	millerse/Clements-R.-E.-and-F.-L.-Long
+Animalia	eats	Animalia	millerse/Fossil-snake
+Plantae	hasPathogen		millerse/Plant-Disease-Survey
+Animalia	visitsFlowersOf	Plantae	millerse/Lara-C.-2006
+	preysOn	Animalia	globalbioticinteractions/wood2015
+Animalia	eats	Chromista	globalbioticinteractions/gray2015
+Animalia	parasiteOf	Animalia	globalbioticinteractions/inaturalist
+Animalia	preysOn	Animalia	globalbioticinteractions/bioinfo
+Animalia	pollinates	Plantae	globalbioticinteractions/lupinus-nipomensis-interactions-2017
+	pollinatedBy	Animalia	globalbioticinteractions/web-of-life
+Animalia	eats	Animalia	jhpoelen/Dapstrom-integrated-database-and-portal-for-fish-stomach-records
+	eats	Plantae	HongyuLii/dietdatabase
+	parasiteOf	Animalia	globalbioticinteractions/preston2012
+	interactsWith		EOL/pseudonitzchia
+Protozoa	hasHost	Plantae	millerse/Wardeh-et-al.-2015
+Bacteria	eats	Animalia	globalbioticinteractions/spire
+Chromista	eats	Plantae	globalbioticinteractions/spire
+Animalia	hostOf	Chromista	millerse/Arctos
+Animalia	eats	Bacteria	globalbioticinteractions/gray2015
+Plantae	interactsWith	Plantae	Bhanditz/pseudonitzchia
+Animalia	eats	Animalia	cmungall/dinosaur-biotic-interactions
+Plantae	pollinates	Animalia	globalbioticinteractions/inaturalist
+Fungi	pathogenOf	Plantae	globalbioticinteractions/caps-pest-lists
+Bacteria	eats	Animalia	globalbioticinteractions/globalwebdb
+Chromista	interactsWith	Bacteria	EOL/pseudonitzchia
+Animalia	pollinatedBy		globalbioticinteractions/inaturalist
+Fungi	hostOf		globalbioticinteractions/saproxylic
+Animalia	eats	Animalia	millerse/Jstor-Collecton
+Animalia	interactsWith		globalbioticinteractions/web-of-life
+Animalia	pollinates	Plantae	arw36/species-interaction-dataset-inventory
+Animalia	interactsWith	Chromista	globalbioticinteractions/arthropodEasyCaptureAMNH
+Animalia	hasParasite	Fungi	globalbioticinteractions/inaturalist
+Fungi	interactsWith	Chromista	globalbioticinteractions/bioinfo
+Animalia	eats	Chromista	globalbioticinteractions/ferrer-paris
+Plantae	hasHost	Bacteria	jhammock/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+Bacteria	hasHost	Animalia	millerse/Wardeh-et-al.-2015
+Animalia	interactsWith	Animalia	globalbioticinteractions/siad
+Plantae	interactsWith	Plantae	globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Animalia	hasParasite		globalbioticinteractions/inaturalist
+Protozoa	interactsWith	Animalia	EOL/pseudonitzchia
+Plantae	hasHost	Animalia	millerse/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+	interactsWith	Animalia	globalbioticinteractions/inaturalist
+Fungi	endoparasitoidOf	Animalia	globalbioticinteractions/bioinfo
+Plantae	parasiteOf	Plantae	millerse/US-National-Parasite-Collection
+Plantae	preysOn	Animalia	millerse/Weidinger-et-al.-2009
+	eats		globalbioticinteractions/spire
+Animalia	parasiteOf	Animalia	globalbioticinteractions/zander2011
+Animalia	parasiteOf	Plantae	diatomsRcool/greenland_interactions
+Plantae	flowersVisitedBy	Plantae	globalbioticinteractions/inaturalist
+Fungi	pathogenOf	Animalia	globalbioticinteractions/bioinfo
+Plantae	parasiteOf	Animalia	globalbioticinteractions/global-primate-parasite-database
+Animalia	interactsWith	Plantae	seltmann/vampire-moth-globi
+Chromista	eats	Bacteria	globalbioticinteractions/spire
+Bacteria	parasiteOf	Animalia	globalbioticinteractions/siad
+	eats	Plantae	globalbioticinteractions/siad
+Animalia	preysOn		globalbioticinteractions/wood2015
+Protozoa	eats	Plantae	HongyuLii/dietdatabase
+Animalia	parasiteOf	Plantae	cmungall/Benesh-et-al-2017
+Animalia	hasHost	Plantae	globalbioticinteractions/inaturalist
+Animalia	visitsFlowersOf		globalbioticinteractions/inaturalist
+Plantae	pathogenOf	Plantae	globalbioticinteractions/inaturalist
+Plantae	hasHost		jhammock/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+Plantae	eatenBy		globalbioticinteractions/web-of-life
+Protozoa	eatenBy	Animalia	globalbioticinteractions/web-of-life
+Animalia	eats	Animalia	globalbioticinteractions/fishbase
+Animalia	parasiteOf	Plantae	globalbioticinteractions/bioinfo
+	eats	Plantae	georgeni2442/dietdatabase
+Protozoa	interactsWith	Plantae	globalbioticinteractions/inaturalist
+Animalia	pathogenOf	Plantae	globalbioticinteractions/bioinfo
+Fungi	livesOn	Fungi	globalbioticinteractions/bioinfo
+Plantae	eatenBy	Fungi	millerse/grazers-of-North-American-aquatic-plants
+Chromista	interactsWith	Chromista	Bhanditz/pseudonitzchia
+Animalia	eats	Protozoa	GoMexSI/akin
+Animalia	eats	Fungi	georgeni2442/dietdatabase
+Animalia	interactsWith	Plantae	globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Animalia	preyedUponBy	Chromista	globalbioticinteractions/inaturalist
+Animalia	dispersalVectorOf	Animalia	globalbioticinteractions/AfricaTreeDatabase
+Plantae	livesInsideOf	Plantae	globalbioticinteractions/bioinfo
+Plantae	hostOf		globalbioticinteractions/saproxylic
+Chromista	eats	Chromista	globalbioticinteractions/spire
+Fungi	pollinatedBy	Plantae	globalbioticinteractions/web-of-life
+Animalia	endoparasiteOf		millerse/Benesh-et-al-2017
+Animalia	parasiteOf	Animalia	abarner/template-dataset
+Fungi	eats	Plantae	globalbioticinteractions/globalwebdb
+Fungi	pathogenOf		globalbioticinteractions/inaturalist
+Animalia	preysOn	Chromista	globalbioticinteractions/sealifebase
+Animalia	hostOf	Animalia	globalbioticinteractions/web-of-life
+Animalia	parasiteOf	Chromista	globalbioticinteractions/natural-history-museum-london-interactions-bank
+	interactsWith	Animalia	Bhanditz/pseudonitzchia
+Animalia	eats	Plantae	GoMexSI/akin
+Animalia	hostOf		globalbioticinteractions/inaturalist
+	interactsWith	Plantae	globalbioticinteractions/bioinfo
+Protozoa	preysOn	Plantae	globalbioticinteractions/brose
+Chromista	eats	Chromista	globalbioticinteractions/globalwebdb
+	kills	Animalia	globalbioticinteractions/inaturalist
+Plantae	eatenBy	Protozoa	millerse/grazers-of-North-American-aquatic-plants
+Plantae	interactsWith	Bacteria	Bhanditz/pseudonitzchia
+Animalia	eats	Animalia	fgabriel1891/Plant-Frugivore-Interactions-SouthEastAsia
+Fungi	hasHost	Animalia	globalbioticinteractions/inaturalist
+	eats		globalbioticinteractions/inaturalist
+Animalia	eats	Animalia	globalbioticinteractions/saito2016
+Animalia	livesNear	Plantae	globalbioticinteractions/bioinfo
+Fungi	preysOn	Protozoa	globalbioticinteractions/bioinfo
+Protozoa	eats	Plantae	globalbioticinteractions/globalwebdb
+Chromista	eats	Protozoa	globalbioticinteractions/globalwebdb
+	preysOn	Animalia	globalbioticinteractions/sealifebase
+Animalia	parasiteOf		millerse/Wharton-and-Marsh-1978.-New-World-Opiinae
+Chromista	eats	Animalia	globalbioticinteractions/spire
+Animalia	interactsWith	Animalia	millerse/Anemonefish
+Animalia	eats	Animalia	globalbioticinteractions/planque2014
+Animalia	livesOn	Plantae	globalbioticinteractions/bioinfo
+Animalia	eats	Plantae	millerse/Plant-ant-webs
+Animalia	eats	Plantae	jhpoelen/Dapstrom-integrated-database-and-portal-for-fish-stomach-records
+Fungi	endoparasiteOf	Animalia	millerse/Benesh-et-al-2017
+Animalia	eats	Animalia	diatomsRcool/greenland_interactions
+Animalia	eats	Bacteria	georgeni2442/dietdatabase
+Plantae	parasiteOf	Plantae	globalbioticinteractions/inaturalist
+Plantae	preysOn	Plantae	globalbioticinteractions/inaturalist
+Animalia	preysOn	Animalia	globalbioticinteractions/sealifebase
+Protozoa	eats	Plantae	globalbioticinteractions/bello2017
+Animalia	eats	Chromista	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Plantae	visitsFlowersOf	Plantae	millerse/Plant-Pollinator-Web
+Animalia	preysOn	Animalia	globalbioticinteractions/zander2011
+Plantae	interactsWith	Protozoa	Bhanditz/pseudonitzchia
+Animalia	pathogenOf	Animalia	globalbioticinteractions/caps-pest-lists
+Animalia	visitsFlowersOf	Plantae	millerse/parasitic-plant-connection
+Bacteria	hasHost	Bacteria	millerse/Wardeh-et-al.-2015
+Plantae	hasDispersalVector	Animalia	globalbioticinteractions/web-of-life
+Animalia	interactsWith	Animalia	globalbioticinteractions/saproxylic
+Animalia	parasiteOf	Animalia	millerse/Interaction-data-by-SEM
+Animalia	preysOn	Animalia	millerse/Smithsonian-Repository-Interactions
+Protozoa	endoparasiteOf	Animalia	millerse/Benesh-et-al-2017
+Animalia	eats	Plantae	fgabriel1891/Plant-Frugivore-Interactions-SouthEastAsia
+Plantae	visitsFlowersOf	Plantae	globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Bacteria	pathogenOf	Plantae	globalbioticinteractions/phi-base-data
+Animalia	ectoParasiteOf		globalbioticinteractions/bioinfo
+Animalia	eats		globalbioticinteractions/dunne2016SanakNearshore
+Animalia	interactsWith	Plantae	EOL/pseudonitzchia
+Protozoa	interactsWith		EOL/pseudonitzchia
+Fungi	hasHost	Chromista	millerse/Wardeh-et-al.-2015
+Bacteria	eats	Plantae	globalbioticinteractions/spire
+Plantae	eatenBy	Plantae	globalbioticinteractions/web-of-life
+Animalia	eats	Animalia	diatomsRcool/yellowstone_grizzly
+Animalia	hasHost	Animalia	globalbioticinteractions/inaturalist
+Chromista	pathogenOf	Animalia	globalbioticinteractions/phi-base-data
+Animalia	visitsFlowersOf	Plantae	globalbioticinteractions/AfricaTreeDatabase
+Chromista	eats	Bacteria	globalbioticinteractions/globalwebdb
+Fungi	parasiteOf	Protozoa	millerse/Lichenous
+	visitsFlowersOf	Plantae	millerse/Pollination-Collection
+	pathogenOf	Animalia	globalbioticinteractions/virus-host-db
+Animalia	interactsWith	Protozoa	Bhanditz/pseudonitzchia
+Chromista	interactsWith		globalbioticinteractions/inaturalist
+Chromista	eats	Animalia	globalbioticinteractions/sealifebase
+Protozoa	eats	Chromista	globalbioticinteractions/choy2017
+	interactsWith		globalbioticinteractions/inaturalist
+Plantae	eats	Animalia	globalbioticinteractions/inaturalist
+Animalia	eats	Animalia	globalbioticinteractions/ices
+Animalia	eats		globalbioticinteractions/roopnarine
+Animalia	eats	Chromista	globalbioticinteractions/AfricaTreeDatabase
+	hostOf	Plantae	globalbioticinteractions/gandhi2009
+Bacteria	interactsWith	Fungi	EOL/pseudonitzchia
+Animalia	eats	Animalia	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Protozoa	preyedUponBy	Animalia	millerse/Carpinteria-Salt-Marsh-Web
+Animalia	visitsFlowersOf	Plantae	millerse/Pollination-Collection
+Bacteria	interactsWith	Bacteria	Bhanditz/pseudonitzchia
+Protozoa	eats	Animalia	HongyuLii/dietdatabase
+Animalia	pollinates	Plantae	globalbioticinteractions/bioinfo
+Animalia	eats	Chromista	globalbioticinteractions/dunne2016SanakNearshore
+Protozoa	eats	Fungi	globalbioticinteractions/globalwebdb
+Protozoa	hasHost	Animalia	millerse/Wardeh-et-al.-2015
+Chromista	pathogenOf	Animalia	jhpoelen/data
+Animalia	eats	Animalia	GoMexSI/simons
+Animalia	interactsWith	Fungi	globalbioticinteractions/arthropodEasyCaptureAMNH
+Fungi	eats	Animalia	globalbioticinteractions/inaturalist
+Plantae	eats	Animalia	globalbioticinteractions/globalwebdb
+Fungi	interactsWith	Chromista	EOL/pseudonitzchia
+Animalia	hasHost		globalbioticinteractions/inaturalist
+Animalia	eats	Animalia	millerse/Dapstrom-integrated-database-and-portal-for-fish-stomach-records
+Animalia	eats	Chromista	GoMexSI/simons
+Fungi	interactsWith	Animalia	globalbioticinteractions/inaturalist
+Fungi	parasitoidOf	Animalia	globalbioticinteractions/bioinfo
+Fungi	parasiteOf	Animalia	globalbioticinteractions/global-primate-parasite-database
+Animalia	eats	Animalia	globalbioticinteractions/ferrer-paris
+Bacteria	interactsWith	Fungi	Bhanditz/pseudonitzchia
+	preysOn	Plantae	globalbioticinteractions/zander2011
+Plantae	hasHost	Chromista	millerse/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+Plantae	pathogenOf	Animalia	globalbioticinteractions/gemina
+Bacteria	pathogenOf	Protozoa	PHI-base/data
+Animalia	preysOn	Chromista	globalbioticinteractions/brose
+Animalia	interactsWith	Fungi	globalbioticinteractions/hechinger2011
+Animalia	hostOf	Plantae	globalbioticinteractions/gandhi2009
+Fungi	interactsWith	Plantae	EOL/pseudonitzchia
+Animalia	eats	Protozoa	globalbioticinteractions/life-watch-greece
+Animalia	hasHost	Fungi	millerse/Wardeh-et-al.-2015
+Fungi	parasiteOf	Plantae	jhpoelen/uredinales-belgium-checklist
+Animalia	parasiteOf	Plantae	jhpoelen/Lice
+	pollinates	Plantae	millerse/Arctic-food-web
+Animalia	interactsWith		globalbioticinteractions/arthropodEasyCaptureAMNH
+Plantae	hasParasite	Fungi	globalbioticinteractions/inaturalist
+Animalia	eats	Chromista	globalbioticinteractions/ices
+Animalia	eats	Plantae	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Protozoa	parasiteOf	Animalia	millerse/US-National-Parasite-Collection
+Fungi	visitsFlowersOf	Plantae	millerse/Plant-Pollinator-Web
+Animalia	hostOf	Plantae	millerse/Wenzel-Tipton-Classified-List-of-Hosts-and-Parasites
+Bacteria	hasHost	Protozoa	millerse/Wardeh-et-al.-2015
+Animalia	parasiteOf	Animalia	cgmayers/template-dataset
+	preysOn	Chromista	globalbioticinteractions/preston2012
+Animalia	preysOn	Animalia	globalbioticinteractions/hechinger2011
+Fungi	parasiteOf		millerse/US-National-Parasite-Collection
+Animalia	pathogenOf	Animalia	PHI-base/data
+Plantae	pathogenOf	Fungi	globalbioticinteractions/inaturalist
+Animalia	eats	Animalia	globalbioticinteractions/dunne2016SanakIntertidal
+	hasHost	Plantae	globalbioticinteractions/inaturalist
+Fungi	pathogenOf	Animalia	jhpoelen/data
+Fungi	eats	Plantae	fgabriel1891/Plant-Frugivore-Interactions-SouthEastAsia
+Fungi	parasitoidOf	Fungi	globalbioticinteractions/inaturalist
+	preysOn	Animalia	globalbioticinteractions/inaturalist
+Animalia	interactsWith	Plantae	globalbioticinteractions/hechinger2011
+Animalia	symbiontOf	Animalia	globalbioticinteractions/mouritsen2011
+	visitsFlowersOf		globalbioticinteractions/inaturalist
+Animalia	hostOf	Animalia	millerse/The-Butterflies-of-North-America
+Plantae	eats		globalbioticinteractions/spire
+Animalia	interactsWith		globalbioticinteractions/preston2012
+Fungi	hasVector	Plantae	globalbioticinteractions/bioinfo
+Animalia	interactsWith	Chromista	globalbioticinteractions/byrnes
+Plantae	pollinatedBy		globalbioticinteractions/web-of-life
+Animalia	pollinatedBy		globalbioticinteractions/web-of-life
+Protozoa	eats	Plantae	jerichocook/BIOL395Project
+Animalia	hasParasite	Animalia	millerse/A-Host-parasite-Catalog-of-North-American-Tachinidae-Diptera-
+Animalia	eats		kinseyfish/dietdatabase
+	eats	Plantae	globalbioticinteractions/inaturalist
+Animalia	pathogenOf	Animalia	globalbioticinteractions/phi-base-data
+Fungi	livesInsideOf	Fungi	globalbioticinteractions/bioinfo
+Chromista	ectoParasiteOf	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Fungi	globalbioticinteractions/fishbase
+Fungi	interactsWith		globalbioticinteractions/bioinfo
+Chromista	parasiteOf	Animalia	millerse/Interaction-data-by-SEM
+Fungi	parasiteOf	Fungi	millerse/Lichenous
+Chromista	hasHost	Plantae	jhammock/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+	interactsWith	Animalia	globalbioticinteractions/arthropodEasyCaptureAMNH
+Animalia	interactsWith	Animalia	globalbioticinteractions/bioinfo
+Plantae	interactsWith	Chromista	EOL/pseudonitzchia
+Animalia	eats	Plantae	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	eats		millerse/Jstor-Collecton
+Plantae	hasHost	Plantae	globalbioticinteractions/inaturalist
+Animalia	livesInsideOf	Plantae	globalbioticinteractions/bioinfo
+	eats	Plantae	globalbioticinteractions/byrnes
+Animalia	eats		globalbioticinteractions/siad
+Animalia	parasiteOf	Animalia	mangal-wg/template-dataset
+Animalia	interactsWith	Chromista	Bhanditz/pseudonitzchia
+Fungi	interactsWith	Bacteria	Bhanditz/pseudonitzchia
+Animalia	eats	Chromista	globalbioticinteractions/roopnarine
+Animalia	symbiontOf	Animalia	globalbioticinteractions/thieltges2011
+Chromista	eats		globalbioticinteractions/dunne2016SanakNearshore
+Animalia	eats	Protozoa	GoMexSI/interaction-data
+	eats	Plantae	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Animalia	interactsWith	Animalia	globalbioticinteractions/mouritsen2011
+Plantae	pollinatedBy	Animalia	millerse/parasitic-plant-connection
+Plantae	eats	Chromista	globalbioticinteractions/spire
+Chromista	interactsWith	Plantae	Bhanditz/pseudonitzchia
+	interactsWith	Plantae	Bhanditz/pseudonitzchia
+Protozoa	eats		globalbioticinteractions/roopnarine
+Protozoa	interactsWith	Fungi	globalbioticinteractions/bioinfo
+Chromista	hasPathogen	Protozoa	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+	parasiteOf	Animalia	globalbioticinteractions/strona
+Fungi	interactsWith	Bacteria	EOL/pseudonitzchia
+Fungi	interactsWith	Protozoa	EOL/pseudonitzchia
+Animalia	parasiteOf	Plantae	globalbioticinteractions/strona
+Animalia	hasPathogen	Animalia	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	hasPathogen		millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Plantae	eatenBy	Animalia	globalbioticinteractions/web-of-life
+Animalia	eats	Fungi	jerichocook/BIOL395Project
+Fungi	eats	Plantae	globalbioticinteractions/bioinfo
+	hasVector	Animalia	millerse/Zika-Virus
+	hasPathogen	Chromista	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	eats	Fungi	millerse/Pollination-Collection
+Plantae	eats		globalbioticinteractions/fishbase
+Animalia	interactsWith		Bhanditz/pseudonitzchia
+Plantae	visitsFlowersOf	Animalia	globalbioticinteractions/inaturalist
+Animalia	parasitoidOf	Animalia	globalbioticinteractions/inaturalist
+Plantae	visitsFlowersOf		globalbioticinteractions/inaturalist
+Fungi	hasVector	Animalia	globalbioticinteractions/bioinfo
+	eats	Chromista	globalbioticinteractions/byrnes
+Animalia	interactsWith	Plantae	globalbioticinteractions/saproxylic
+Plantae	hasHost	Animalia	jhammock/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+	eats	Plantae	globalbioticinteractions/spire
+Chromista	eats	Plantae	globalbioticinteractions/dunne2016SanakNearshore
+	eats		globalbioticinteractions/globalwebdb
+Animalia	eats	Plantae	GoMexSI/JLewis_GoMexSi
+Fungi	hostOf	Plantae	globalbioticinteractions/saproxylic
+	hasPathogen	Bacteria	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	visitsFlowersOf	Plantae	millerse/Plant-Pollinator-Web
+Animalia	parasiteOf	Chromista	globalbioticinteractions/siad
+Plantae	pathogenOf	Plantae	globalbioticinteractions/virus-host-db
+	interactsWith		globalbioticinteractions/arthropodEasyCaptureAMNH
+Fungi	pathogenOf	Animalia	globalbioticinteractions/aps-turfgrasses
+Plantae	preysOn	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Animalia	globalbioticinteractions/dunne2016SanakNearshore
+Animalia	eats	Animalia	globalbioticinteractions/choy2017
+Bacteria	parasiteOf	Animalia	millerse/US-National-Parasite-Collection
+Animalia	symbiontOf	Animalia	globalbioticinteractions/zander2011
+Animalia	preysOn	Bacteria	globalbioticinteractions/wood2015
+Animalia	parasiteOf	Plantae	millerse/Arctic-food-web
+Plantae	hostOf	Animalia	globalbioticinteractions/inaturalist
+Plantae	preysOn	Bacteria	globalbioticinteractions/preston2012
+Animalia	eats	Protozoa	globalbioticinteractions/roopnarine
+	eats	Plantae	globalbioticinteractions/dunne2016SanakNearshore
+Protozoa	eats	Animalia	globalbioticinteractions/dunne2016SanakNearshore
+Chromista	eats	Animalia	globalbioticinteractions/choy2017
+Plantae	hasPathogen	Fungi	millerse/Plant-Disease-Survey
+Animalia	eats	Plantae	holmesjtg/okaloosa-county-coastal-uplands
+Animalia	visitsFlowersOf	Animalia	globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Animalia	interactsWith	Animalia	globalbioticinteractions/preston2012
+Animalia	eats	Plantae	globalbioticinteractions/roopnarine
+Animalia	eats	Fungi	globalbioticinteractions/sealifebase
+Animalia	eats	Plantae	globalbioticinteractions/byrnes
+	preysOn	Animalia	globalbioticinteractions/brose
+Plantae	parasiteOf	Animalia	globalbioticinteractions/inaturalist
+Animalia	interactsWith	Animalia	seltmann/vampire-moth-globi
+Plantae	hasHost	Chromista	jhammock/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+Animalia	pollinatedBy	Animalia	globalbioticinteractions/web-of-life
+Animalia	hostOf	Plantae	millerse/Arctos
+Animalia	eats	Protozoa	globalbioticinteractions/fishbase
+Plantae	eats	Animalia	globalbioticinteractions/fishbase
+Animalia	interactsWith	Chromista	globalbioticinteractions/inaturalist
+Chromista	interactsWith	Plantae	globalbioticinteractions/inaturalist
+Bacteria	hasVector	Animalia	globalbioticinteractions/bioinfo
+Protozoa	parasiteOf	Animalia	globalbioticinteractions/bioinfo
+Bacteria	interactsWith	Plantae	EOL/pseudonitzchia
+Animalia	eats	Plantae	globalbioticinteractions/saproxylic
+	hasPathogen	Protozoa	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	preysOn	Animalia	millerse/Amphibians-and-Reptiles-Predators-and-Prey.-Amphibians-and-Birds
+Animalia	eats	Bacteria	globalbioticinteractions/fishbase
+Plantae	eats	Animalia	globalbioticinteractions/sealifebase
+Animalia	preysOn	Plantae	globalbioticinteractions/sealifebase
+Animalia	eats		globalbioticinteractions/ferrer-paris
+Animalia	eats	Chromista	Dryu0003/dietdatabase
+Animalia	parasiteOf	Plantae	millerse/parasitic-plant-connection
+Plantae	interactsWith	Animalia	globalbioticinteractions/web-of-life
+Fungi	parasiteOf	Animalia	globalbioticinteractions/hechinger2011
+Animalia	hasPathogen	Animalia	millerse/Fishes-of-Basrah-Province-Iraq
+Plantae	parasiteOf	Fungi	millerse/Lichenous
+Plantae	hostOf	Animalia	millerse/Wenzel-Tipton-Classified-List-of-Hosts-and-Parasites
+Chromista	hasHost	Plantae	millerse/Wardeh-et-al.-2015
+	preysOn	Bacteria	globalbioticinteractions/wood2015
+Animalia	parasiteOf	Protozoa	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Plantae	interactsWith	Chromista	Bhanditz/pseudonitzchia
+Animalia	preysOn	Animalia	globalbioticinteractions/inaturalist
+Animalia	hostOf	Bacteria	millerse/Canadian-freshwater-fish-and-their-metazoan-parasites
+Animalia	eats	Protozoa	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	parasiteOf	Animalia	millerse/Carpinteria-Salt-Marsh-Web
+Plantae	flowersVisitedBy	Plantae	millerse/Flowers-and-insects-lists-of-visitors-to-four-hundred-and-fifty-three-flowers
+Animalia	hasDispersalVector		globalbioticinteractions/web-of-life
+Animalia	eats	Plantae	fgabriel1891/Palm-Frugivore_Interactions_Neo-Afrotropics
+Fungi	parasiteOf	Plantae	globalbioticinteractions/inaturalist
+Animalia	eats	Plantae	globalbioticinteractions/globalwebdb
+Chromista	eats	Fungi	globalbioticinteractions/globalwebdb
+Animalia	eats	Fungi	GoMexSI/interaction-data
+Animalia	hasPathogen	Fungi	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	parasiteOf	Plantae	millerse/Buprestidae-of-North-America
+	parasiteOf	Animalia	millerse/Buprestidae-of-North-America
+Animalia	parasiteOf		globalbioticinteractions/strona
+Animalia	eats	Animalia	globalbioticinteractions/inaturalist
+Animalia	eats	Plantae	globalbioticinteractions/robledo
+Chromista	eats	Bacteria	globalbioticinteractions/dunne2016SanakNearshore
+Fungi	interactsWith		EOL/pseudonitzchia
+Animalia	eats	Animalia	seltmann/vampire-moth-globi
+Animalia	eats	Animalia	GoMexSI/akin
+Fungi	parasiteOf	Fungi	globalbioticinteractions/inaturalist
+	parasiteOf	Fungi	globalbioticinteractions/inaturalist
+Animalia	eats	Animalia	globalbioticinteractions/byrnes
+Plantae	eatenBy		globalbioticinteractions/inaturalist
+	eatenBy	Animalia	globalbioticinteractions/inaturalist
+Animalia	parasiteOf	Animalia	millerse/Zika-Virus
+Animalia	eats	Plantae	seltmann/vampire-moth-globi
+Protozoa	eats	Plantae	kinseyfish/dietdatabase
+Animalia	eats	Plantae	georgeni2442/dietdatabase
+Animalia	eats	Chromista	globalbioticinteractions/planque2014
+Animalia	parasiteOf	Animalia	globalbioticinteractions/preston2012
+Chromista	interactsWith	Animalia	globalbioticinteractions/bioinfo
+Protozoa	parasiteOf	Fungi	globalbioticinteractions/bioinfo
+Fungi	endoparasiteOf	Animalia	globalbioticinteractions/bioinfo
+Protozoa	eats	Plantae	globalbioticinteractions/dunne2016SanakIntertidal
+Protozoa	parasiteOf	Animalia	globalbioticinteractions/hechinger2011
+Fungi	eats	Plantae	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Animalia	parasiteOf	Animalia	tkuhn/template-dataset
+Plantae	parasiteOf		millerse/US-National-Parasite-Collection
+Plantae	hasDispersalVector	Fungi	globalbioticinteractions/web-of-life
+Animalia	eats	Chromista	millerse/Dapstrom-integrated-database-and-portal-for-fish-stomach-records
+	pathogenOf	Animalia	globalbioticinteractions/gemina
+Fungi	ectoParasiteOf	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Fungi	globalbioticinteractions/bioinfo
+Fungi	inhabits	Animalia	globalbioticinteractions/bioinfo
+Animalia	livesOn	Chromista	globalbioticinteractions/bioinfo
+Animalia	eats	Protozoa	globalbioticinteractions/barnes
+Plantae	hasHost		globalbioticinteractions/inaturalist
+Animalia	eats	Chromista	globalbioticinteractions/raymond
+Bacteria	pathogenOf	Plantae	globalbioticinteractions/aps-turfgrasses
+Chromista	parasiteOf	Animalia	globalbioticinteractions/global-primate-parasite-database
+Bacteria	interactsWith	Bacteria	EOL/pseudonitzchia
+Animalia	eats	Plantae	globalbioticinteractions/lupinus-nipomensis-interactions-2017
+Animalia	visitsFlowersOf	Animalia	millerse/Pollination-Collection
+	hasHost	Protozoa	millerse/Wardeh-et-al.-2015
+Animalia	pathogenOf	Animalia	globalbioticinteractions/virus-host-db
+Protozoa	eats	Animalia	kinseyfish/dietdatabase
+Animalia	vectorOf	Plantae	globalbioticinteractions/inaturalist
+Protozoa	eats	Animalia	globalbioticinteractions/planque2014
+Animalia	eats		globalbioticinteractions/AfricaTreeDatabase
+Animalia	interactsWith	Fungi	globalbioticinteractions/bioinfo
+	pathogenOf	Animalia	globalbioticinteractions/bioinfo
+Animalia	parasiteOf	Plantae	globalbioticinteractions/global-primate-parasite-database
+Animalia	ectoParasiteOf	Plantae	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Animalia	eats	Animalia	globalbioticinteractions/saproxylic
+Animalia	parasiteOf		millerse/Fly-parasites
+Animalia	eats		millerse/Smithsonian-Repository-Interactions
+Protozoa	eats	Animalia	jerichocook/BIOL395Project
+Animalia	eats		globalbioticinteractions/fishbase
+Plantae	interactsWith	Plantae	EOL/pseudonitzchia
+Animalia	parasiteOf	Fungi	globalbioticinteractions/strona
+Animalia	eats	Animalia	globalbioticinteractions/sealifebase
+Animalia	interactsWith	Animalia	EOL/pseudonitzchia
+Animalia	hostOf	Animalia	millerse/Coccidae-of-Egypt
+Bacteria	eats	Bacteria	globalbioticinteractions/spire
+Animalia	visitsFlowersOf	Plantae	globalbioticinteractions/inaturalist
+Animalia	preyedUponBy		globalbioticinteractions/inaturalist
+Chromista	eats	Protozoa	globalbioticinteractions/dunne2016SanakIntertidal
+Plantae	eats	Plantae	globalbioticinteractions/ferrer-paris
+Animalia	eats	Protozoa	globalbioticinteractions/globalwebdb
+Animalia	parasiteOf	Animalia	globalbioticinteractions/mouritsen2011
+Animalia	interactsWith		millerse/PLANT-SEED-DISPERSER-WEBS
+Animalia	eats	Animalia	jhammock/Layman-and-Allgeier-Lionfish
+Animalia	eats	Animalia	ParasiteTracker/vampire-moth-dwca
+Chromista	eats	Bacteria	globalbioticinteractions/planque2014
+Animalia	livesUnder	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Chromista	globalbioticinteractions/dunne2016SanakIntertidal
+Chromista	eats	Plantae	globalbioticinteractions/dunne2016SanakIntertidal
+	eats		globalbioticinteractions/dunne2016SanakNearshore
+	eats	Bacteria	globalbioticinteractions/globalwebdb
+Animalia	interactsWith	Chromista	EOL/pseudonitzchia
+Animalia	hasPathogen	Bacteria	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	parasiteOf	Chromista	millerse/US-National-Parasite-Collection
+Animalia	eats	Plantae	jhammock/Layman-and-Allgeier-Lionfish
+Fungi	hasParasite	Animalia	millerse/A-Host-parasite-Catalog-of-North-American-Tachinidae-Diptera-
+Animalia	eats	Chromista	globalbioticinteractions/fishbase
+Plantae	parasiteOf	Plantae	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Chromista	interactsWith	Animalia	Bhanditz/pseudonitzchia
+Animalia	eats	Plantae	diatomsRcool/greenland_interactions
+Animalia	eats	Plantae	globalbioticinteractions/hechinger2011
+Plantae	interactsWith	Animalia	EOL/pseudonitzchia
+Plantae	eats	Animalia	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	preyedUponBy	Animalia	millerse/Carpinteria-Salt-Marsh-Web
+Plantae	interactsWith	Animalia	millerse/Insect-Herbivores-on-Goldenrods-Solidago-altissima
+Animalia	kills	Animalia	millerse/Seton-1929
+	preysOn		globalbioticinteractions/wood2015
+Bacteria	pathogenOf	Animalia	globalbioticinteractions/phi-base-data
+Animalia	pathogenOf	Plantae	globalbioticinteractions/phi-base-data
+Bacteria	pathogenOf	Plantae	globalbioticinteractions/bioinfo
+Fungi	parasiteOf	Plantae	globalbioticinteractions/bioinfo
+Animalia	eats	Fungi	globalbioticinteractions/dunne2016SanakNearshore
+Chromista	eats	Protozoa	globalbioticinteractions/dunne2016SanakNearshore
+Animalia	interactsWith	Animalia	globalbioticinteractions/hechinger2011
+Plantae	eats	Fungi	globalbioticinteractions/globalwebdb
+Plantae	hasPathogen	Fungi	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Plantae	hostOf	Fungi	millerse/Diseases-of-Coffee-in-Porto-Rico
+Animalia	eats	Plantae	hurlbertlab/dietdatabase
+Protozoa	interactsWith	Animalia	Bhanditz/pseudonitzchia
+Animalia	kills	Animalia	globalbioticinteractions/inaturalist
+Animalia	pathogenOf	Animalia	globalbioticinteractions/bioinfo
+Plantae	interactsWith	Animalia	globalbioticinteractions/bioinfo
+	parasiteOf	Animalia	globalbioticinteractions/global-primate-parasite-database
+Chromista	pathogenOf	Animalia	globalbioticinteractions/hechinger2011
+Fungi	hasHost	Protozoa	millerse/Wardeh-et-al.-2015
+Animalia	eats	Plantae	globalbioticinteractions/raymond
+Animalia	eats	Protozoa	globalbioticinteractions/sealifebase
+Protozoa	pathogenOf	Animalia	globalbioticinteractions/zander2011
+Animalia	interactsWith	Animalia	Bhanditz/pseudonitzchia
+Animalia	interactsWith	Plantae	globalbioticinteractions/inaturalist
+Protozoa	eats	Chromista	globalbioticinteractions/roopnarine
+Plantae	hasPathogen	Animalia	millerse/Plant-Disease-Survey
+Animalia	parasiteOf	Animalia	millerse/Wharton-and-Marsh-1978.-New-World-Opiinae
+Animalia	preysOn	Plantae	globalbioticinteractions/hechinger2011
+Fungi	hasHost	Fungi	millerse/Wardeh-et-al.-2015
+Plantae	flowersVisitedBy	Animalia	millerse/Flowers-and-insects-lists-of-visitors-to-four-hundred-and-fifty-three-flowers
+Animalia	eats	Chromista	jhpoelen/JLewis_GoMexSi
+Animalia	hasPathogen	Plantae	millerse/BHL-Interactions
+	preyedUponBy	Animalia	globalbioticinteractions/inaturalist
+Fungi	pathogenOf	Animalia	globalbioticinteractions/phi-base-data
+Animalia	eats		GoMexSI/abascal
+Animalia	preyedUponBy	Animalia	globalbioticinteractions/refuted-interaction-data
+Animalia	pollinates	Plantae	globalbioticinteractions/species-interaction-dataset-inventory
+Animalia	eats	Protozoa	globalbioticinteractions/dunne2016SanakIntertidal
+Fungi	hasPathogen	Animalia	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+	parasiteOf	Plantae	millerse/Buprestidae-of-North-America
+Animalia	interactsWith	Plantae	globalbioticinteractions/web-of-life
+Animalia	parasiteOf	Animalia	diatomsRcool/greenland_interactions
+	pathogenOf	Animalia	globalbioticinteractions/species-interaction-dataset-inventory
+Animalia	eats		Dryu0003/dietdatabase
+Protozoa	hasHost	Chromista	millerse/Wardeh-et-al.-2015
+Animalia	eats		hurlbertlab/dietdatabase
+Animalia	eats	Plantae	millerse/Ant-Plant-Interactions
+Chromista	eats	Fungi	globalbioticinteractions/bioinfo
+Plantae	eats	Plantae	globalbioticinteractions/globalwebdb
+Protozoa	eats	Animalia	Dryu0003/dietdatabase
+Animalia	hostOf	Animalia	millerse/Wenzel-Tipton-Classified-List-of-Hosts-and-Parasites
+Animalia	hasHost	Animalia	millerse/Wardeh-et-al.-2015
+Animalia	hasParasite	Animalia	millerse/Bird-Parasite
+Chromista	pathogenOf	Plantae	globalbioticinteractions/bioinfo
+Animalia	interactsWith	Fungi	globalbioticinteractions/saproxylic
+Plantae	visitsFlowersOf	Plantae	millerse/Clements-R.-E.-and-F.-L.-Long
+Animalia	hasHost	Plantae	millerse/Wardeh-et-al.-2015
+Plantae	interactsWith	Animalia	globalbioticinteractions/inaturalist
+Animalia	parasiteOf	Plantae	globalbioticinteractions/inaturalist
+Animalia	eats	Plantae	globalbioticinteractions/saito2016
+Fungi	eats	Fungi	globalbioticinteractions/globalwebdb
+Animalia	hasPathogen	Protozoa	millerse/Fishes-of-Basrah-Province-Iraq
+Archaea	hasHost	Animalia	millerse/Wardeh-et-al.-2015
+Animalia	preysOn	Animalia	globalbioticinteractions/fishbase
+Plantae	hasParasite	Plantae	globalbioticinteractions/inaturalist
+Plantae	parasiteOf	Fungi	globalbioticinteractions/inaturalist
+Animalia	pathogenOf	Animalia	globalbioticinteractions/hechinger2011
+Animalia	preysOn	Chromista	globalbioticinteractions/wood2015
+Animalia	preysOn	Fungi	globalbioticinteractions/wood2015
+Animalia	eats	Fungi	globalbioticinteractions/barnes
+Chromista	eats		globalbioticinteractions/dunne2016SanakIntertidal
+Animalia	eats		globalbioticinteractions/byrnes
+Animalia	eats	Chromista	globalbioticinteractions/globalwebdb
+Plantae	preysOn		globalbioticinteractions/inaturalist
+Animalia	eats	Animalia	holmesjtg/okaloosa-county-coastal-uplands
+Animalia	eats	Animalia	globalbioticinteractions/gray2015
+Bacteria	pathogenOf	Plantae	globalbioticinteractions/caps-pest-lists
+Chromista	eats	Plantae	globalbioticinteractions/globalwebdb
+Plantae	eats	Fungi	globalbioticinteractions/spire
+Animalia	visitsFlowersOf	Chromista	globalbioticinteractions/inaturalist
+Chromista	eats	Plantae	globalbioticinteractions/inaturalist
+Bacteria	hasHost	Plantae	globalbioticinteractions/inaturalist
+Animalia	eats	Protozoa	globalbioticinteractions/ices
+Plantae	parasiteOf	Fungi	globalbioticinteractions/bioinfo
+Fungi	parasiteOf	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats		globalbioticinteractions/barnes
+Animalia	eats	Animalia	Dryu0003/dietdatabase
+Plantae	flowersVisitedBy	Chromista	millerse/Flowers-and-insects-lists-of-visitors-to-four-hundred-and-fifty-three-flowers
+Protozoa	parasiteOf	Animalia	globalbioticinteractions/strona
+Animalia	endoparasiteOf	Fungi	millerse/Benesh-et-al-2017
+Bacteria	pathogenOf	Plantae	globalbioticinteractions/gemina
+Animalia	preyedUponBy	Protozoa	globalbioticinteractions/inaturalist
+Animalia	eats	Plantae	globalbioticinteractions/species-interaction-dataset-inventory
+Animalia	preysOn	Animalia	globalbioticinteractions/thieltges2011
+Chromista	livesInsideOf	Animalia	globalbioticinteractions/bioinfo
+Animalia	preysOn	Animalia	globalbioticinteractions/brose
+Animalia	parasiteOf	Fungi	millerse/US-National-Parasite-Collection
+Animalia	interactsWith		globalbioticinteractions/siad
+Bacteria	hasHost	Plantae	jhammock/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+Fungi	pollinatedBy	Animalia	globalbioticinteractions/web-of-life
+Protozoa	eats	Bacteria	globalbioticinteractions/planque2014
+Animalia	eats	Animalia	millerse/Buprestidae-of-North-America
+	eats	Animalia	globalbioticinteractions/spire
+Animalia	interactsWith	Animalia	globalbioticinteractions/zander2011
+Bacteria	pathogenOf	Plantae	jhpoelen/data
+Animalia	eats	Animalia	millerse/Adams-et-al.-2016
+Fungi	livesNear	Plantae	globalbioticinteractions/bioinfo
+Animalia	parasiteOf	Animalia	globalbioticinteractions/global-primate-parasite-database
+Bacteria	eats	Protozoa	globalbioticinteractions/globalwebdb
+Plantae	interactsWith		EOL/pseudonitzchia
+Animalia	eats		globalbioticinteractions/natural-history-museum-london-interactions-bank
+Animalia	eats	Plantae	seltmann/ParasiteTracker-Globi
+Animalia	parasiteOf		globalbioticinteractions/siad
+	eats		globalbioticinteractions/gray2015
+Animalia	eats	Animalia	GoMexSI/baremore
+Fungi	pathogenOf	Plantae	globalbioticinteractions/inaturalist
+Animalia	preysOn		globalbioticinteractions/preston2012
+Protozoa	eats	Bacteria	globalbioticinteractions/dunne2016SanakIntertidal
+Animalia	eats	Animalia	globalbioticinteractions/globalwebdb
+Animalia	hostOf	Animalia	globalbioticinteractions/gandhi2009
+Animalia	eats	Plantae	GoMexSI/interaction-data
+Animalia	parasiteOf		millerse/US-National-Parasite-Collection
+Animalia	eats	Plantae	globalbioticinteractions/spire
+Animalia	interactsWith	Plantae	globalbioticinteractions/zander2011
+Fungi	interactsWith	Animalia	Bhanditz/pseudonitzchia
+	eats	Animalia	globalbioticinteractions/inaturalist
+	eats	Plantae	globalbioticinteractions/globalwebdb
+Plantae	eats		globalbioticinteractions/globalwebdb
+Animalia	interactsWith	Plantae	seltmann/vampire-moths-and-their-fruit-piercing-relatives
+	hasPathogen		millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	eats	Animalia	seltmann/ParasiteTracker-Globi
+Animalia	eats	Animalia	HongyuLii/dietdatabase
+Chromista	pathogenOf	Plantae	PHI-base/data
+Plantae	interactsWith		globalbioticinteractions/inaturalist
+Bacteria	pathogenOf	Animalia	globalbioticinteractions/aps-turfgrasses
+Bacteria	parasiteOf	Animalia	globalbioticinteractions/global-primate-parasite-database
+Protozoa	eats	Bacteria	globalbioticinteractions/globalwebdb
+Chromista	interactsWith	Fungi	EOL/pseudonitzchia
+Animalia	interactsWith	Bacteria	Bhanditz/pseudonitzchia
+Plantae	interactsWith	Bacteria	EOL/pseudonitzchia
+Animalia	hasPathogen	Protozoa	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Protozoa	eats	Plantae	hurlbertlab/dietdatabase
+Plantae	hasPathogen		millerse/BHL-Interactions
+Protozoa	eats	Plantae	fgabriel1891/Palm-Frugivore_Interactions_Neo-Afrotropics
+Animalia	eats	Chromista	globalbioticinteractions/bioinfo
+	preysOn	Animalia	globalbioticinteractions/zander2011
+Plantae	hasPathogen	Animalia	millerse/BHL-Interactions
+Animalia	eats	Plantae	millerse/Dapstrom-integrated-database-and-portal-for-fish-stomach-records
+Animalia	guestOf	Animalia	globalbioticinteractions/bioinfo
+Chromista	endoparasiteOf	Animalia	globalbioticinteractions/bioinfo
+Animalia	livesInsideOf	Fungi	globalbioticinteractions/bioinfo
+Bacteria	livesOn	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Chromista	jerichocook/BIOL395Project
+Animalia	interactsWith	Plantae	globalbioticinteractions/arthropodEasyCaptureAMNH
+Fungi	interactsWith	Animalia	globalbioticinteractions/arthropodEasyCaptureAMNH
+Plantae	hostOf	Animalia	millerse/The-Butterflies-of-North-America
+Plantae	parasiteOf	Fungi	millerse/parasitic-plant-connection
+Protozoa	parasiteOf	Animalia	globalbioticinteractions/siad
+Fungi	pathogenOf	Plantae	jhpoelen/data
+Animalia	eats	Plantae	globalbioticinteractions/fishbase
+Fungi	hasParasite	Animalia	globalbioticinteractions/inaturalist
+	preysOn	Protozoa	globalbioticinteractions/inaturalist
+Animalia	eats	Protozoa	globalbioticinteractions/planque2014
+Chromista	eats		globalbioticinteractions/globalwebdb
+Animalia	hostOf	Chromista	millerse/Carpinteria-Salt-Marsh-Web
+Fungi	pollinatedBy	Chromista	globalbioticinteractions/web-of-life
+Fungi	parasiteOf	Animalia	globalbioticinteractions/zander2011
+	eats	Plantae	kinseyfish/dietdatabase
+Animalia	eats	Animalia	cmungall/dinosaur-biotic-interactions1
+Plantae	interactsWith	Plantae	globalbioticinteractions/inaturalist
+Fungi	parasitoidOf	Plantae	globalbioticinteractions/inaturalist
+Animalia	livesInsideOf	Animalia	globalbioticinteractions/bioinfo
+Animalia	livesOn	Animalia	globalbioticinteractions/bioinfo
+Plantae	eats	Animalia	globalbioticinteractions/ferrer-paris
+Animalia	hasDispersalVector	Animalia	globalbioticinteractions/saproxylic
+	preyedUponBy	Animalia	millerse/Carpinteria-Salt-Marsh-Web
+Protozoa	eats	Fungi	globalbioticinteractions/spire
+	parasiteOf	Animalia	globalbioticinteractions/siad
+	pathogenOf	Plantae	globalbioticinteractions/virus-host-db
+Animalia	eats		jerichocook/BIOL395Project
+Animalia	pathogenOf	Plantae	jhpoelen/data
+Animalia	interactsWith		globalbioticinteractions/inaturalist
+Animalia	interactsWith	Animalia	globalbioticinteractions/thieltges2011
+Bacteria	interactsWith	Animalia	EOL/pseudonitzchia
+Fungi	eats	Animalia	globalbioticinteractions/saproxylic
+	parasiteOf	Animalia	millerse/US-National-Parasite-Collection
+Animalia	eatenBy	Animalia	millerse/parasitic-plant-connection
+Animalia	eats	Protozoa	hurlbertlab/dietdatabase
+Animalia	eats	Fungi	millerse/Arctos
+Plantae	eatenBy	Fungi	globalbioticinteractions/inaturalist
+Chromista	eats	Animalia	globalbioticinteractions/planque2014
+Animalia	eats	Plantae	globalbioticinteractions/AfricaTreeDatabase
+Bacteria	parasiteOf	Plantae	globalbioticinteractions/bioinfo
+Chromista	eats	Chromista	globalbioticinteractions/dunne2016SanakIntertidal
+Animalia	parasiteOf	Animalia	globalbioticinteractions/cook
+Animalia	parasiteOf	Bacteria	millerse/US-National-Parasite-Collection
+Animalia	symbiontOf	Protozoa	globalbioticinteractions/zander2011
+Protozoa	hasHost	Plantae	globalbioticinteractions/inaturalist
+Animalia	endoparasiteOf		globalbioticinteractions/bioinfo
+Animalia	eats	Plantae	globalbioticinteractions/ferrer-paris
+Bacteria	eatenBy	Animalia	globalbioticinteractions/web-of-life
+Plantae	interactsWith	Fungi	millerse/Biological-Station-Arthropod-Collection
+Animalia	eats	Animalia	millerse/Arctos
+Fungi	pathogenOf	Plantae	PHI-base/data
+Fungi	parasiteOf	Animalia	globalbioticinteractions/inaturalist
+Animalia	dispersalVectorOf		globalbioticinteractions/AfricaTreeDatabase
+	hasHost	Plantae	millerse/Wardeh-et-al.-2015
+Animalia	hostOf	Protozoa	millerse/Arctos
+Bacteria	interactsWith	Plantae	Bhanditz/pseudonitzchia
+Animalia	interactsWith	Fungi	globalbioticinteractions/inaturalist
+Animalia	flowersVisitedBy	Animalia	globalbioticinteractions/inaturalist
+Animalia	eats	Fungi	globalbioticinteractions/AfricaTreeDatabase
+Fungi	parasiteOf	Protozoa	globalbioticinteractions/bioinfo
+Animalia	symbiontOf	Plantae	globalbioticinteractions/mouritsen2011
+Plantae	hasPathogen	Protozoa	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	hasPathogen	Chromista	millerse/Fishes-of-Basrah-Province-Iraq
+Bacteria	interactsWith	Animalia	Bhanditz/pseudonitzchia
+Plantae	interactsWith	Fungi	globalbioticinteractions/inaturalist
+Animalia	preysOn	Fungi	globalbioticinteractions/inaturalist
+Protozoa	eats	Protozoa	globalbioticinteractions/roopnarine
+Fungi	preysOn	Animalia	globalbioticinteractions/bioinfo
+Animalia	kills	Animalia	globalbioticinteractions/bioinfo
+Animalia	hostOf		millerse/Carpinteria-Salt-Marsh-Web
+Protozoa	parasiteOf		globalbioticinteractions/siad
+Animalia	eats	Fungi	fgabriel1891/Plant-Frugivore-Interactions-SouthEastAsia
+	visitsFlowersOf	Plantae	globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Animalia	interactsWith	Animalia	globalbioticinteractions/arthropodEasyCaptureAMNH
+Fungi	pathogenOf	Fungi	globalbioticinteractions/inaturalist
+Plantae	preysOn	Plantae	globalbioticinteractions/preston2012
+	hasVector	Animalia	globalbioticinteractions/bioinfo
+Fungi	eats	Protozoa	globalbioticinteractions/bioinfo
+Protozoa	eats	Chromista	globalbioticinteractions/globalwebdb
+Animalia	parasiteOf	Plantae	globalbioticinteractions/lupinus-nipomensis-interactions-2017
+Animalia	preysOn	Animalia	millerse/Weidinger-et-al.-2009
+Plantae	pollinatedBy	Animalia	globalbioticinteractions/web-of-life
+Animalia	eats	Animalia	GoMexSI/abascal
+Fungi	interactsWith		globalbioticinteractions/inaturalist
+Animalia	preysOn	Protozoa	globalbioticinteractions/thieltges2011
+Bacteria	parasiteOf	Fungi	globalbioticinteractions/bioinfo
+Animalia	hasVector	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Bacteria	globalbioticinteractions/brose
+Plantae	interactsWith	Fungi	globalbioticinteractions/saproxylic
+	preysOn	Plantae	globalbioticinteractions/saproxylic
+Animalia	preysOn	Animalia	millerse/Serengeti
+Bacteria	hasHost	Chromista	millerse/Wardeh-et-al.-2015
+Plantae	pollinatedBy	Plantae	globalbioticinteractions/web-of-life
+	eatenBy	Animalia	globalbioticinteractions/web-of-life
+	hasParasite	Animalia	millerse/A-Host-parasite-Catalog-of-North-American-Tachinidae-Diptera-
+Animalia	hostOf	Animalia	millerse/Arctic-food-web
+Animalia	preysOn	Bacteria	globalbioticinteractions/bioinfo
+Fungi	interactsWith	Animalia	EOL/pseudonitzchia
+Animalia	preysOn	Plantae	globalbioticinteractions/mouritsen2011
+Animalia	interactsWith	Fungi	millerse/Plant-ant-webs
+Animalia	eats		GoMexSI/simons
+Plantae	interactsWith	Plantae	globalbioticinteractions/arthropodEasyCaptureAMNH
+Animalia	pollinatedBy	Plantae	globalbioticinteractions/inaturalist
+Animalia	symbiontOf	Animalia	globalbioticinteractions/preston2012
+Plantae	parasiteOf	Plantae	globalbioticinteractions/bioinfo
+	preysOn	Plantae	globalbioticinteractions/brose
+	pathogenOf		globalbioticinteractions/virus-host-db
+Animalia	parasiteOf		globalbioticinteractions/zander2011
+Animalia	eats	Protozoa	georgeni2442/dietdatabase
+Chromista	pathogenOf	Animalia	globalbioticinteractions/preston2012
+	eats	Bacteria	globalbioticinteractions/dunne2016SanakNearshore
+Protozoa	pathogenOf	Animalia	globalbioticinteractions/hechinger2011
+Plantae	flowersVisitedBy		millerse/Flowers-and-insects-lists-of-visitors-to-four-hundred-and-fifty-three-flowers
+Plantae	flowersVisitedBy	Animalia	millerse/Hummingbird-and-Flower-Interactions
+Plantae	hostOf	Protozoa	millerse/Plant-Disease-Survey
+Animalia	eats	Fungi	globalbioticinteractions/siad
+Protozoa	pollinatedBy	Animalia	globalbioticinteractions/web-of-life
+Bacteria	pathogenOf	Protozoa	jhpoelen/data
+Animalia	eats	Protozoa	millerse/Dapstrom-integrated-database-and-portal-for-fish-stomach-records
+Animalia	pollinates	Plantae	diatomsRcool/greenland_interactions
+Animalia	pollinatedBy	Animalia	globalbioticinteractions/inaturalist
+Animalia	pathogenOf	Plantae	globalbioticinteractions/inaturalist
+Fungi	pathogenOf	Animalia	globalbioticinteractions/inaturalist
+Animalia	eats	Animalia	globalbioticinteractions/raymond
+Animalia	endoparasitoidOf		globalbioticinteractions/bioinfo
+Fungi	eats	Animalia	globalbioticinteractions/globalwebdb
+Animalia	eats	Chromista	GoMexSI/JLewis_GoMexSi
+	hasPathogen	Fungi	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Animalia	eats	Fungi	globalbioticinteractions/spire
+Plantae	hasDispersalVector		globalbioticinteractions/web-of-life
+Animalia	eatenBy		globalbioticinteractions/web-of-life
+Bacteria	pathogenOf	Animalia	jhpoelen/data
+Plantae	pollinatedBy	Animalia	globalbioticinteractions/inaturalist
+Animalia	dispersalVectorOf	Chromista	globalbioticinteractions/AfricaTreeDatabase
+Animalia	parasiteOf	Animalia	globalbioticinteractions/hechinger2011
+Animalia	eats	Plantae	Dryu0003/dietdatabase
+Animalia	interactsWith	Protozoa	EOL/pseudonitzchia
+Plantae	parasiteOf	Animalia	millerse/US-National-Parasite-Collection
+Animalia	pollinates	Plantae	millerse/Pollination-Collection
+Animalia	preysOn	Plantae	globalbioticinteractions/zander2011
+Animalia	eats		millerse/Arctic-food-web
+Animalia	eats	Plantae	GoMexSI/abascal
+Animalia	eats		georgeni2442/dietdatabase
+Fungi	livesOn	Plantae	globalbioticinteractions/bioinfo
+Plantae	hasVector	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Protozoa	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Animalia	hostOf	Animalia	millerse/Flea-Collection
+Animalia	visitsFlowersOf	Fungi	millerse/Pollination-Collection
+Animalia	preysOn		millerse/Seaweed
+	pathogenOf	Protozoa	globalbioticinteractions/virus-host-db
+Animalia	preysOn	Animalia	globalbioticinteractions/wood2015
+Plantae	visitsFlowersOf	Animalia	globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Animalia	parasitoidOf	Plantae	globalbioticinteractions/inaturalist
+	hasHost	Animalia	globalbioticinteractions/inaturalist
+Animalia	eats	Chromista	globalbioticinteractions/noaa-reem
+Animalia	parasiteOf	Animalia	globalbioticinteractions/template-dataset
+Protozoa	interactsWith	Protozoa	EOL/pseudonitzchia
+Plantae	pollinatedBy	Chromista	globalbioticinteractions/web-of-life
+Protozoa	pollinatedBy		globalbioticinteractions/web-of-life
+Animalia	preysOn	Plantae	globalbioticinteractions/wood2015
+Animalia	preysOn	Fungi	globalbioticinteractions/preston2012
+Animalia	eats	Animalia	globalbioticinteractions/noaa-reem
+Animalia	interactsWith	Plantae	millerse/PLANT-SEED-DISPERSER-WEBS
+Animalia	parasiteOf	Animalia	karelTole/template-dataset
+Animalia	pollinates	Protozoa	millerse/Arctic-food-web
+Plantae	visitsFlowersOf	Plantae	globalbioticinteractions/inaturalist
+Animalia	preysOn	Protozoa	globalbioticinteractions/inaturalist
+Animalia	preysOn	Chromista	globalbioticinteractions/preston2012
+Animalia	eats	Animalia	globalbioticinteractions/roopnarine
+Animalia	eats	Chromista	globalbioticinteractions/sealifebase
+Fungi	eats	Animalia	globalbioticinteractions/bioinfo
+Animalia	visitsFlowersOf	Plantae	millerse/Clements-R.-E.-and-F.-L.-Long
+Plantae	hostOf	Plantae	millerse/Coccidae-of-Egypt
+Animalia	eats	Chromista	globalbioticinteractions/spire
+Fungi	eats	Animalia	globalbioticinteractions/spire
+Animalia	eats	Plantae	globalbioticinteractions/siad
+Animalia	hasHost	Fungi	globalbioticinteractions/inaturalist
+Animalia	eats	Chromista	globalbioticinteractions/choy2017
+	hasParasite		globalbioticinteractions/inaturalist
+Animalia	parasiteOf	Plantae	millerse/US-National-Parasite-Collection
+Plantae	hasHost	Fungi	millerse/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+Bacteria	pathogenOf	Plantae	PHI-base/data
+Protozoa	parasiteOf	Plantae	globalbioticinteractions/bioinfo
+	eats	Animalia	globalbioticinteractions/dunne2016SanakIntertidal
+Animalia	symbiontOf	Animalia	globalbioticinteractions/hechinger2011
+Animalia	eats	Animalia	GoMexSI/JLewis_GoMexSi
+Plantae	hostOf	Animalia	millerse/Aluja-et-al-New-Host-Plant-and-Distribution-Records-in-Mexico
+Animalia	eats	Chromista	kinseyfish/dietdatabase
+Chromista	hasHost	Plantae	globalbioticinteractions/inaturalist
+Fungi	interactsWith	Bacteria	globalbioticinteractions/bioinfo
+	eats	Plantae	globalbioticinteractions/bioinfo
+Animalia	eats	Fungi	globalbioticinteractions/globalwebdb
+Animalia	vectorOf		millerse/Zika-Virus
+Plantae	hasPathogen	Fungi	millerse/BHL-Interactions
+Plantae	hasParasite	Animalia	globalbioticinteractions/inaturalist
+Fungi	pathogenOf	Plantae	globalbioticinteractions/phi-base-data
+Protozoa	eats	Chromista	globalbioticinteractions/dunne2016SanakNearshore
+Animalia	eats	Protozoa	globalbioticinteractions/ferrer-paris
+Animalia	preysOn	Plantae	globalbioticinteractions/saproxylic
+Animalia	visitsFlowersOf	Animalia	millerse/Plant-Pollinator-Web
+Plantae	hostOf	Plantae	globalbioticinteractions/inaturalist
+Chromista	eats	Chromista	globalbioticinteractions/sealifebase
+Fungi	endoparasiteOf	Fungi	globalbioticinteractions/bioinfo
+Plantae	hostOf	Animalia	millerse/Host-plant-and-distribution-records
+	hasHost	Animalia	millerse/Wardeh-et-al.-2015
+Plantae	parasiteOf	Animalia	globalbioticinteractions/siad
+Animalia	hostOf	Animalia	millerse/Arctos
+Animalia	eats	Chromista	GoMexSI/abascal
+Protozoa	eats	Protozoa	globalbioticinteractions/dunne2016SanakIntertidal
+Chromista	pathogenOf	Plantae	globalbioticinteractions/caps-pest-lists
+Fungi	hasHost	Animalia	millerse/Wardeh-et-al.-2015
+Bacteria	pathogenOf	Animalia	PHI-base/data
+Animalia	preysOn		globalbioticinteractions/bioinfo
+Chromista	eats	Bacteria	globalbioticinteractions/dunne2016SanakIntertidal
+	hasHost	Animalia	globalbioticinteractions/carril2018
+Animalia	interactsWith		EOL/pseudonitzchia
+Protozoa	interactsWith	Plantae	EOL/pseudonitzchia
+Animalia	dispersalVectorOf	Animalia	globalbioticinteractions/saproxylic
+Animalia	symbiontOf	Fungi	globalbioticinteractions/zander2011
+Plantae	hasHost		millerse/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+Protozoa	hasHost	Fungi	globalbioticinteractions/inaturalist
+Bacteria	pathogenOf	Fungi	globalbioticinteractions/phi-base-data
+Bacteria	endoparasiteOf	Fungi	globalbioticinteractions/bioinfo
+Fungi	pathogenOf	Animalia	globalbioticinteractions/brose
+Fungi	pathogenOf	Fungi	jhpoelen/data
+Animalia	eats	Fungi	globalbioticinteractions/ices
+Plantae	interactsWith	Plantae	globalbioticinteractions/bioinfo
+Fungi	interactsWith	Plantae	globalbioticinteractions/arthropodEasyCaptureAMNH
+Plantae	interactsWith	Protozoa	EOL/pseudonitzchia
+Animalia	eats	Fungi	kinseyfish/dietdatabase
+Chromista	parasiteOf	Animalia	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Fungi	interactsWith	Fungi	Bhanditz/pseudonitzchia
+Animalia	eats	Animalia	georgeni2442/dietdatabase
+Animalia	ectoParasiteOf	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Bacteria	GoMexSI/interaction-data
+Chromista	parasiteOf	Animalia	millerse/US-National-Parasite-Collection
+	eats	Plantae	globalbioticinteractions/fishbase
+Animalia	eats	Protozoa	globalbioticinteractions/gray2015
+Fungi	pathogenOf	Animalia	PHI-base/data
+Animalia	flowersVisitedBy	Plantae	globalbioticinteractions/inaturalist
+Animalia	pollinates	Plantae	globalbioticinteractions/inaturalist
+Animalia	eats	Plantae	globalbioticinteractions/ices
+Animalia	eats	Plantae	globalbioticinteractions/barnes
+Chromista	eats	Animalia	globalbioticinteractions/globalwebdb
+Animalia	eats	Bacteria	globalbioticinteractions/spire
+Animalia	eats	Bacteria	kinseyfish/dietdatabase
+Bacteria	pathogenOf	Animalia	globalbioticinteractions/gemina
+Animalia	eats	Fungi	diatomsRcool/yellowstone_grizzly
+Chromista	interactsWith		globalbioticinteractions/preston2012
+Plantae	livesOn	Plantae	globalbioticinteractions/bioinfo
+Plantae	parasiteOf	Plantae	globalbioticinteractions/hechinger2011
+Animalia	hasParasite	Fungi	millerse/A-Host-parasite-Catalog-of-North-American-Tachinidae-Diptera-
+	eats		globalbioticinteractions/fishbase
+Plantae	parasiteOf	Animalia	globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Animalia	pollinates	Animalia	globalbioticinteractions/inaturalist
+	flowersVisitedBy	Plantae	globalbioticinteractions/inaturalist
+Animalia	eats		globalbioticinteractions/ices
+Animalia	preysOn	Plantae	globalbioticinteractions/preston2012
+Animalia	pollinates	Plantae	globalbioticinteractions/AfricaTreeDatabase
+Animalia	parasiteOf		globalbioticinteractions/bioinfo
+Animalia	livesUnder	Plantae	globalbioticinteractions/bioinfo
+Plantae	hasPathogen	Bacteria	millerse/Plant-Disease-Survey
+Protozoa	eats	Animalia	globalbioticinteractions/spire
+Plantae	hasHost	Animalia	globalbioticinteractions/inaturalist
+Fungi	symbiontOf	Plantae	globalbioticinteractions/inaturalist
+Fungi	interactsWith	Animalia	globalbioticinteractions/bioinfo
+	preysOn	Protozoa	globalbioticinteractions/brose
+Animalia	eats	Protozoa	globalbioticinteractions/raymond
+Plantae	eats	Chromista	globalbioticinteractions/globalwebdb
+Plantae	vectorOf	Animalia	globalbioticinteractions/inaturalist
+Plantae	hostOf	Fungi	millerse/Plant-Disease-Survey
+Animalia	eats	Plantae	millerse/Plant-Herbivore-Web
+Plantae	interactsWith	Animalia	millerse/Biological-Station-Arthropod-Collection
+Animalia	pathogenOf	Plantae	PHI-base/data
+Plantae	flowersVisitedBy	Animalia	globalbioticinteractions/inaturalist
+Plantae	preysOn	Animalia	globalbioticinteractions/inaturalist
+Animalia	parasiteOf	Plantae	globalbioticinteractions/preston2012
+Bacteria	pathogenOf	Animalia	globalbioticinteractions/species-interaction-dataset-inventory
+Chromista	symbiontOf	Plantae	globalbioticinteractions/bioinfo
+Chromista	eats	Animalia	globalbioticinteractions/dunne2016SanakIntertidal
+	eats	Chromista	globalbioticinteractions/dunne2016SanakNearshore
+Animalia	eats	Bacteria	globalbioticinteractions/life-watch-greece
+Animalia	eats	Plantae	millerse/Jstor-Collecton
+Plantae	pollinatedBy	Animalia	millerse/Smithsonian-Repository-Interactions
+Animalia	eats	Animalia	globalbioticinteractions/spire
+Animalia	parasiteOf	Fungi	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Fungi	interactsWith	Plantae	Bhanditz/pseudonitzchia
+Animalia	eats	Bacteria	GoMexSI/akin
+Fungi	parasiteOf	Animalia	cmungall/Benesh-et-al-2017
+Animalia	visitsFlowersOf	Protozoa	globalbioticinteractions/inaturalist
+Fungi	pathogenOf	Chromista	globalbioticinteractions/bioinfo
+Animalia	eats	Protozoa	globalbioticinteractions/dunne2016SanakNearshore
+Animalia	eats		GoMexSI/interaction-data
+Bacteria	eatenBy	Bacteria	globalbioticinteractions/web-of-life
+Fungi	interactsWith		Bhanditz/pseudonitzchia
+Animalia	preyedUponBy	Animalia	globalbioticinteractions/inaturalist
+Animalia	pathogenOf		globalbioticinteractions/inaturalist
+Animalia	preysOn	Animalia	globalbioticinteractions/preston2012
+Protozoa	eats	Fungi	globalbioticinteractions/bioinfo
+Protozoa	ectoParasiteOf	Animalia	globalbioticinteractions/bioinfo
+Chromista	interactsWith	Animalia	EOL/pseudonitzchia
+Protozoa	parasiteOf	Animalia	millerse/Greystock-et-al.-2015
+Animalia	symbiontOf	Chromista	globalbioticinteractions/zander2011
+	eats	Animalia	kinseyfish/dietdatabase
+Fungi	pathogenOf	Fungi	PHI-base/data
+Animalia	visitsFlowersOf	Fungi	globalbioticinteractions/inaturalist
+Animalia	eats	Animalia	globalbioticinteractions/species-interaction-dataset-inventory
+Animalia	parasiteOf	Animalia	globalbioticinteractions/cruaud
+Animalia	hasDispersalVector	Protozoa	globalbioticinteractions/web-of-life
+Fungi	pollinatedBy		globalbioticinteractions/web-of-life
+Animalia	eats	Protozoa	jerichocook/BIOL395Project
+Fungi	pathogenOf	Fungi	globalbioticinteractions/phi-base-data
+Animalia	parasitoidOf	Animalia	globalbioticinteractions/bioinfo
+	eats	Animalia	globalbioticinteractions/globalwebdb
+Animalia	eats	Animalia	globalbioticinteractions/life-watch-greece
+Animalia	hostOf	Animalia	globalbioticinteractions/inaturalist
+Protozoa	hasPathogen	Fungi	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Plantae	hostOf	Animalia	millerse/Arctos
+Animalia	parasiteOf	Plantae	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Chromista	parasiteOf	Plantae	globalbioticinteractions/natural-history-museum-london-interactions-bank
+	eats	Plantae	globalbioticinteractions/saito2016
+Animalia	eats		globalbioticinteractions/brose
+Animalia	preysOn	Chromista	globalbioticinteractions/hechinger2011
+	eats	Chromista	globalbioticinteractions/globalwebdb
+Animalia	eats		millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Plantae	parasiteOf	Animalia	millerse/parasitic-plant-connection
+Animalia	pollinates	Plantae	millerse/Arctic-food-web
+Animalia	eats	Animalia	KatjaSchulz/dinosaur-biotic-interactions
+Animalia	eats	Bacteria	globalbioticinteractions/dunne2016SanakNearshore
+Animalia	eats	Bacteria	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Animalia	eats	Plantae	GoMexSI/wrast
+	interactsWith	Plantae	globalbioticinteractions/inaturalist
+Chromista	eats	Animalia	globalbioticinteractions/roopnarine
+Chromista	eats		globalbioticinteractions/roopnarine
+Fungi	symbiontOf	Fungi	globalbioticinteractions/bioinfo
+Protozoa	interactsWith	Plantae	globalbioticinteractions/bioinfo
+Animalia	parasiteOf	Plantae	globalbioticinteractions/cruaud
+Animalia	ectoParasiteOf		globalbioticinteractions/natural-history-museum-london-interactions-bank
+Animalia	preysOn	Animalia	globalbioticinteractions/mouritsen2011
+Animalia	hasDispersalVector	Animalia	globalbioticinteractions/web-of-life
+Animalia	eats	Animalia	jhpoelen/ZalophusPredatoryInteractions
+Animalia	eats	Animalia	kinseyfish/dietdatabase
+Animalia	hasParasite	Animalia	globalbioticinteractions/inaturalist
+Fungi	pathogenOf	Animalia	globalbioticinteractions/preston2012
+Animalia	eats	Animalia	globalbioticinteractions/hechinger2011
+Animalia	hostOf	Animalia	millerse/Host-plant-and-distribution-records
+Fungi	parasiteOf	Animalia	jhpoelen/uredinales-belgium-checklist
+Animalia	pathogenOf	Animalia	jhpoelen/data
+Plantae	hasParasite	Animalia	millerse/A-Host-parasite-Catalog-of-North-American-Tachinidae-Diptera-
+	eats	Animalia	globalbioticinteractions/fishbase
+Animalia	parasiteOf	Animalia	globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Animalia	eats		globalbioticinteractions/inaturalist
+Protozoa	eats	Animalia	globalbioticinteractions/inaturalist
+Animalia	eats	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats		globalbioticinteractions/dunne2016SanakIntertidal
+Protozoa	parasiteOf	Animalia	globalbioticinteractions/global-primate-parasite-database
+Plantae	hasHost	Fungi	jhammock/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+Chromista	visitsFlowersOf	Plantae	millerse/Clements-R.-E.-and-F.-L.-Long
+Plantae	flowersVisitedBy	Protozoa	millerse/Flowers-and-insects-lists-of-visitors-to-four-hundred-and-fifty-three-flowers
+Plantae	hasPathogen	Chromista	millerse/Plant-Disease-Survey
+Animalia	eats	Plantae	millerse/Pollination-Collection
+Fungi	interactsWith	Protozoa	Bhanditz/pseudonitzchia
+Animalia	parasiteOf	Plantae	globalbioticinteractions/Catalogue-of-Afrotropical-Bees
+Animalia	hasHost	Chromista	globalbioticinteractions/inaturalist
+Animalia	eats	Bacteria	globalbioticinteractions/sealifebase
+Animalia	eats	Chromista	globalbioticinteractions/byrnes
+Animalia	parasiteOf	Animalia	millerse/Fly-parasites
+Animalia	parasiteOf	Animalia	globalbioticinteractions/strona
+Plantae	eats	Animalia	globalbioticinteractions/spire
+Animalia	eatenBy	Animalia	globalbioticinteractions/web-of-life
+Fungi	eatenBy	Animalia	globalbioticinteractions/web-of-life
+Animalia	interactsWith	Fungi	globalbioticinteractions/web-of-life
+	visitsFlowersOf	Plantae	globalbioticinteractions/inaturalist
+Animalia	ectoParasitoid	Animalia	globalbioticinteractions/bioinfo
+Bacteria	endoparasiteOf	Animalia	globalbioticinteractions/bioinfo
+Animalia	pollinates	Plantae	globalbioticinteractions/known-projects
+Fungi	parasiteOf	Animalia	millerse/Lichenous
+Animalia	endoparasiteOf	Plantae	millerse/Benesh-et-al-2017
+Animalia	interactsWith	Animalia	globalbioticinteractions/inaturalist
+Plantae	hostOf	Fungi	globalbioticinteractions/inaturalist
+Animalia	interactsWith	Fungi	globalbioticinteractions/preston2012
+Fungi	parasiteOf	Fungi	globalbioticinteractions/bioinfo
+Animalia	eats	Plantae	globalbioticinteractions/life-watch-greece
+	interactsWith	Fungi	globalbioticinteractions/saproxylic
+Plantae	hostOf	Animalia	millerse/Coccidae-of-Egypt
+Animalia	visitsFlowersOf	Fungi	millerse/Plant-Pollinator-Web
+Animalia	interactsWith	Plantae	globalbioticinteractions/siad
+	eats	Animalia	georgeni2442/dietdatabase
+Fungi	eats	Plantae	globalbioticinteractions/inaturalist
+Animalia	preysOn	Animalia	globalbioticinteractions/szoboszlai2015
+Fungi	parasiteOf		globalbioticinteractions/bioinfo
+Animalia	pathogenOf		globalbioticinteractions/caps-pest-lists
+Animalia	eats	Animalia	GoMexSI/interaction-data
+Animalia	eats	Fungi	globalbioticinteractions/saproxylic
+Fungi	parasiteOf	Plantae	millerse/Lichenous
+Protozoa	visitsFlowersOf	Plantae	millerse/Plant-Pollinator-Web
+Animalia	eats	Protozoa	globalbioticinteractions/spire
+Plantae	endoparasiteOf	Animalia	millerse/Benesh-et-al-2017
+Chromista	parasiteOf	Fungi	globalbioticinteractions/bioinfo
+Animalia	interactsWith	Animalia	seltmann/vampire-moths-and-their-fruit-piercing-relatives
+Animalia	interactsWith	Animalia	millerse/Biological-Station-Arthropod-Collection
+Animalia	visits	Plantae	globalbioticinteractions/inaturalist
+Animalia	eats		GoMexSI/JLewis_GoMexSi
+Animalia	ectoParasiteOf	Protozoa	globalbioticinteractions/natural-history-museum-london-interactions-bank
+	interactsWith	Plantae	globalbioticinteractions/saproxylic
+	hasHost	Fungi	millerse/Wardeh-et-al.-2015
+Animalia	ectoParasiteOf	Protozoa	globalbioticinteractions/bioinfo
+Animalia	interactsWith	Plantae	globalbioticinteractions/byrnes
+Animalia	eats		globalbioticinteractions/globalwebdb
+Plantae	eats	Plantae	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Animalia	eats	Animalia	millerse/Feeding-Niches-of-Hummingbirds-in-a-Trinidad-Valley
+Chromista	parasiteOf	Plantae	millerse/US-National-Parasite-Collection
+Animalia	parasiteOf	Fungi	globalbioticinteractions/siad
+Animalia	eats	Fungi	hurlbertlab/dietdatabase
+Animalia	eats	Animalia	GoMexSI/blewett
+Chromista	interactsWith	Plantae	globalbioticinteractions/bioinfo
+Fungi	pathogenOf	Fungi	globalbioticinteractions/bioinfo
+	hasHost	Plantae	globalbioticinteractions/carril2018
+	eatenBy		globalbioticinteractions/inaturalist
+Animalia	eats	Animalia	millerse/Smithsonian-Repository-Interactions
+Animalia	preysOn	Animalia	globalbioticinteractions/siad
+Animalia	eats	Fungi	HongyuLii/dietdatabase
+Animalia	eats	Bacteria	HongyuLii/dietdatabase
+Fungi	hasHost	Plantae	globalbioticinteractions/inaturalist
+	interactsWith		Bhanditz/pseudonitzchia
+Animalia	hostOf	Animalia	millerse/Canadian-freshwater-fish-and-their-metazoan-parasites
+Plantae	hostOf	Bacteria	millerse/Plant-Disease-Survey
+Animalia	eats	Animalia	jerichocook/BIOL395Project
+Animalia	eats	Protozoa	globalbioticinteractions/inaturalist
+Protozoa	preysOn	Animalia	globalbioticinteractions/brose
+Animalia	interactsWith	Protozoa	globalbioticinteractions/hechinger2011
+Animalia	eats	Plantae	millerse/Buprestidae-of-North-America
+Animalia	hasHost	Plantae	jhammock/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+Plantae	eats	Animalia	fgabriel1891/Plant-Frugivore-Interactions-SouthEastAsia
+Animalia	eats	Fungi	diatomsRcool/greenland_interactions
+Animalia	eatenBy	Animalia	globalbioticinteractions/inaturalist
+Bacteria	pathogenOf	Animalia	globalbioticinteractions/bioinfo
+Fungi	flowersVisitedBy	Animalia	millerse/Flowers-and-insects-lists-of-visitors-to-four-hundred-and-fifty-three-flowers
+Protozoa	interactsWith	Fungi	Bhanditz/pseudonitzchia
+Animalia	eats	Plantae	diatomsRcool/yellowstone_grizzly
+Plantae	eats	Plantae	globalbioticinteractions/inaturalist
+Animalia	eatenBy	Plantae	globalbioticinteractions/inaturalist
+Animalia	interactsWith	Chromista	globalbioticinteractions/preston2012
+	eats	Plantae	globalbioticinteractions/bello2017
+Fungi	ectoParasiteOf		globalbioticinteractions/bioinfo
+	eats	Bacteria	globalbioticinteractions/dunne2016SanakIntertidal
+Bacteria	hasHost	Fungi	millerse/Wardeh-et-al.-2015
+	eats	Plantae	globalbioticinteractions/gray2015
+Fungi	interactsWith	Chromista	globalbioticinteractions/inaturalist
+Animalia	vectorOf	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Chromista	globalbioticinteractions/barnes
+Animalia	parasiteOf	Animalia	globalbioticinteractions/brose
+Fungi	interactsWith	Plantae	jhpoelen/mycoportal
+Fungi	symbiontOf	Plantae	globalbioticinteractions/bioinfo
+Chromista	eats	Animalia	globalbioticinteractions/dunne2016SanakNearshore
+Protozoa	eats	Protozoa	globalbioticinteractions/dunne2016SanakNearshore
+	eats	Animalia	Dryu0003/dietdatabase
+Plantae	hasPathogen	Animalia	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+Protozoa	eats	Bacteria	globalbioticinteractions/spire
+Plantae	hasHost	Bacteria	millerse/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+Animalia	endoparasitoidOf	Animalia	globalbioticinteractions/bioinfo
+Fungi	eats	Fungi	globalbioticinteractions/bioinfo
+Bacteria	interactsWith	Animalia	globalbioticinteractions/bioinfo
+Chromista	eats	Chromista	globalbioticinteractions/dunne2016SanakNearshore
+Animalia	pollinates		globalbioticinteractions/inaturalist
+	visitsFlowersOf	Plantae	millerse/Plant-Pollinator-Web
+Fungi	interactsWith	Chromista	Bhanditz/pseudonitzchia
+Fungi	eats	Plantae	millerse/Plant-Herbivore-Web
+Chromista	hasHost	Animalia	jhpoelen/geosymbio
+Animalia	eats	Plantae	globalbioticinteractions/gray2015
+	eats	Animalia	globalbioticinteractions/gray2015
+Animalia	visitsFlowersOf	Plantae	globalbioticinteractions/lupinus-nipomensis-interactions-2017
+Animalia	eats		jhpoelen/Dapstrom-integrated-database-and-portal-for-fish-stomach-records
+	parasiteOf	Animalia	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Animalia	eats		HongyuLii/dietdatabase
+Animalia	eats	Chromista	HongyuLii/dietdatabase
+Animalia	parasiteOf	Animalia	cmungall/Benesh-et-al-2017
+Animalia	commensalistOf	Animalia	globalbioticinteractions/species-interaction-dataset-inventory
+Animalia	hasHost	Animalia	globalbioticinteractions/carril2018
+Animalia	eats	Animalia	globalbioticinteractions/siad
+Animalia	hasParasite		millerse/A-Host-parasite-Catalog-of-North-American-Tachinidae-Diptera-
+Animalia	eats	Plantae	kinseyfish/dietdatabase
+Animalia	parasiteOf	Animalia	globalbioticinteractions/hafner
+Fungi	interactsWith	Fungi	globalbioticinteractions/bioinfo
+Animalia	pathogenOf	Plantae	globalbioticinteractions/caps-pest-lists
+	eats	Animalia	hurlbertlab/dietdatabase
+Animalia	parasiteOf		jhpoelen/Lice
+Fungi	hasParasite	Plantae	globalbioticinteractions/inaturalist
+Animalia	parasiteOf		globalbioticinteractions/preston2012
+Animalia	eats		globalbioticinteractions/raymond
+Bacteria	interactsWith	Plantae	globalbioticinteractions/bioinfo
+	preysOn		globalbioticinteractions/brose
+	interactsWith	Plantae	EOL/pseudonitzchia
+Plantae	ectoParasiteOf	Animalia	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Plantae	hasHost	Chromista	globalbioticinteractions/inaturalist
+Chromista	parasiteOf	Animalia	globalbioticinteractions/strona
+Animalia	pollinates	Animalia	millerse/Pollination-Collection
+	preysOn	Chromista	millerse/Seaweed
+	hasDispersalVector	Animalia	globalbioticinteractions/web-of-life
+Protozoa	parasiteOf	Animalia	millerse/BHL-Interactions
+Animalia	interactsWith	Animalia	globalbioticinteractions/byrnes
+Animalia	preysOn		globalbioticinteractions/brose
+Chromista	hasHost	Chromista	millerse/Wardeh-et-al.-2015
+Plantae	eats	Plantae	globalbioticinteractions/spire
+Animalia	preysOn		globalbioticinteractions/fishbase
+Chromista	hasHost	Chromista	globalbioticinteractions/inaturalist
+Animalia	preysOn	Plantae	globalbioticinteractions/inaturalist
+Animalia	eats	Plantae	globalbioticinteractions/bello2017
+Animalia	eats	Animalia	globalbioticinteractions/bello2017
+Animalia	eats	Protozoa	globalbioticinteractions/bioinfo
+Animalia	eats	Plantae	globalbioticinteractions/dunne2016SanakIntertidal
+Animalia	interactsWith	Chromista	globalbioticinteractions/hechinger2011
+Animalia	hasPathogen	Chromista	millerse/Ecological-Database-of-the-World-s-Insect-Pathogens
+	eats	Chromista	globalbioticinteractions/spire
+Animalia	parasiteOf	Plantae	globalbioticinteractions/siad
+Fungi	parasiteOf	Plantae	globalbioticinteractions/siad
+	hasHost	Plantae	jhammock/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+Animalia	eats	Animalia	millerse/Birds-Consumed-by-the-Invasive-Burmese-Python-Python-molurus-bivittatus-
+	parasiteOf	Plantae	globalbioticinteractions/natural-history-museum-london-interactions-bank
+Animalia	parasiteOf	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Protozoa	Dryu0003/dietdatabase
+Fungi	hasHost	Plantae	millerse/Wardeh-et-al.-2015
+Plantae	hasHost	Chromista	millerse/Wardeh-et-al.-2015
+Animalia	hostOf	Animalia	millerse/Bat-flies
+Chromista	pathogenOf	Animalia	globalbioticinteractions/bioinfo
+Protozoa	hasVector	Animalia	globalbioticinteractions/bioinfo
+Chromista	inhabits	Animalia	globalbioticinteractions/bioinfo
+Animalia	eats	Protozoa	globalbioticinteractions/brose
+Animalia	eats	Bacteria	globalbioticinteractions/globalwebdb
+Animalia	preyedUponBy	Plantae	globalbioticinteractions/inaturalist
+Plantae	eats	Plantae	millerse/Plant-Herbivore-Web
+	pollinatedBy		globalbioticinteractions/web-of-life
+Animalia	endoparasiteOf	Animalia	millerse/Benesh-et-al-2017
+Fungi	pathogenOf	Plantae	globalbioticinteractions/aps-turfgrasses
+Plantae	eats	Protozoa	globalbioticinteractions/globalwebdb
+Animalia	hostOf	Animalia	millerse/Carpinteria-Salt-Marsh-Web
+Plantae	pollinatedBy	Protozoa	globalbioticinteractions/web-of-life
+Chromista	pathogenOf	Animalia	globalbioticinteractions/zander2011
+Animalia	eats	Animalia	hurlbertlab/dietdatabase
+Fungi	parasiteOf	Chromista	globalbioticinteractions/bioinfo
+Bacteria	eats	Chromista	globalbioticinteractions/globalwebdb
+Animalia	eats	Fungi	Dryu0003/dietdatabase
+Animalia	eatenBy	Animalia	globalbioticinteractions/refuted-interaction-data
+Animalia	parasiteOf	Animalia	millerse/Greystock-et-al.-2015
+Protozoa	parasiteOf	Animalia	millerse/Interaction-data-by-SEM
+Animalia	parasiteOf	Animalia	millerse/Lice
+Chromista	parasiteOf	Animalia	globalbioticinteractions/siad
+Fungi	hasHost	Plantae	jhammock/Checklist-of-Micro-Organisms-Associated-With-Tree-Seeds-in-the-World
+Animalia	hasParasite	Animalia	globalbioticinteractions/web-of-life
+	eats	Animalia	HongyuLii/dietdatabase
+Fungi	kleptoparasiteOf	Fungi	globalbioticinteractions/bioinfo
+Animalia	parasiteOf	Animalia	globalbioticinteractions/bell
+	interactsWith	Protozoa	EOL/pseudonitzchia
+Plantae	parasiteOf	Animalia	globalbioticinteractions/mouritsen2011
+Animalia	interactsWith	Protozoa	globalbioticinteractions/inaturalist
+	parasiteOf	Fungi	millerse/Lichenous
+Animalia	preysOn	Plantae	millerse/Seaweed
+Animalia	eats	Animalia	jhpoelen/JLewis_GoMexSi
+Animalia	hasPathogen	Bacteria	millerse/BHL-Interactions
+	hostOf	Animalia	millerse/Arctos
+Fungi	parasiteOf	Plantae	diatomsRcool/greenland_interactions
+Animalia	eats	Chromista	globalbioticinteractions/inaturalist
+Animalia	guestOf		globalbioticinteractions/bioinfo
+Fungi	livesInsideOf	Plantae	globalbioticinteractions/bioinfo
+Animalia	hasHost	Plantae	globalbioticinteractions/carril2018
+Fungi	eats		globalbioticinteractions/fishbase
+Fungi	interactsWith	Fungi	EOL/pseudonitzchia
+Animalia	eats	Chromista	globalbioticinteractions/life-watch-greece

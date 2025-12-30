@@ -1,0 +1,871 @@
+date,time,region,location,reef,depth,genus,species,replicate,prey,bites
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,1,Porites annae,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,1,Acropora papillare,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,2,Psammocora contigua,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,2,Acropora digitifera,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,2,Goniastrea retiformis,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,3,Porites lutea,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,3,Acropora digitifera,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,3,Montipora turgescens,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,3,Acropora papillare,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,3,Porites annae,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,4,Acropora papillare,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,4,Pocillopora verrucosa,8
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,4,Acropora nasuta,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,4,Porites annae,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,5,Galaxea fascicularis,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,5,Pocillopora verrucosa,11
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,5,Porites annae,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,6,Pocillopora verrucosa,7
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,6,Goniastrea retiformis,5
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,6,Acropora digitifera,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,6,Galaxea fascicularis,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,6,Hydnophora exesa,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,6,Acropora nasuta,8
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,6,Porites annae,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,7,turf,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,7,Acropora digitifera,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,7,Favites pentagona,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,8,Acropora papillare,8
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,8,Porites annae,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,9,Pavona venosa,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,9,Galaxea fascicularis,6
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,9,Porites annae,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,9,Acropora digitifera,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,10,Acropora hyacinthus,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,10,Pocillopora verrucosa,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,10,Galaxea fascicularis,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,10,Porites annae,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,10,Acropora monticulosa,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,11,Porites lutea,5
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,11,Pocillopora verrucosa,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,11,Acropora hyacinthus,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,11,Acropora nasuta,5
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,11,Galaxea fascicularis,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,12,Porites annae,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,12,Acropora hyacinthus,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,12,Montipora millepora,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,13,Acropora digitifera,8
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,13,Montipora millepora,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,13,Pocillopora verrucosa,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,13,Acropora nasuta,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,14,Pocillopora eydouxi,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,14,Goniastrea retiformis,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,14,Pocillopora verrucosa,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,14,Montipora monasteriata,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,14,Galaxea fascicularis,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,14,Pavona varians,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,15,Galaxea fascicularis,27
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,15,Acropora hyacinthus,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,15,Platygyra sinensis,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,15,Montipora monasteriata,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,15,Acropora nasuta,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,16,Acropora gemmifera,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,16,Galaxea fascicularis,5
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,16,Acropora digitifera,17
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,16,Acropora hyacinthus,8
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,lunulatus,16,Montipora millepora,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,1,Montipora crassituberculata,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,1,Palythoa,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,1,turf,5
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,2,turf,6
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,2,Montipora crassituberculata,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,2,Montipora millepora,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,2,Montipora samarensis,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,2,Montipora monasteriata,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,2,Montipora turgescens,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,2,Palythoa,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,3,Montipora crassituberculata,6
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,3,Porites annae,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,3,turf,6
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,3,Acropora digitifera,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,4,Acropora hyacinthus,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,4,Acropora monticulosa,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,4,Montipora millepora,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,4,Montipora monasteriata,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,4,Montipora samarensis,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,4,Montipora turgescens,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,4,Miilleporidae,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,4,Pocillopora verrucosa,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,5,Acropora gemmifera,5
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,5,Montipora crassituberculata,6
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,5,Montipora monasteriata,11
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,5,Acropora digitifera,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,5,Montipora millepora,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,5,Montipora turgescens,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,5,Palythoa,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,6,CCA,10
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,6,turf,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,6,Montipora monasteriata,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,6,Palythoa,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,6,Pocillopora meandrina,8
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,6,Dipsastraea speciosa,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,7,turf,7
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,7,Pocillopora eydouxi,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,7,CCA,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,7,Montipora crassituberculata,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,8,Montipora monasteriata,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,8,turf,16
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,8,Acropora hyacinthus,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,8,Acropora digitifera,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,8,Acropora monticulosa,8
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,8,Pocillopora verrucosa,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,8,Acropora woolsae,7
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,9,Acropora digitifera,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,9,turf,7
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,10,Palythoa,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,10,Montipora crassituberculata,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,10,Montipora turgescens,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,10,Montipora efflorescens,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,10,Acropora aspera,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,10,Montipora hispida,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,10,turf,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,10,Montipora tuberculosa,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,11,Acropora digitifera,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,11,Montipora digitata,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,11,Montipora monasteriata,5
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,11,Acropora aspera,10
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,11,Acropora papillare,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,11,CCA,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,12,Acropora digitifera,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,12,turf,13
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,12,Palythoa,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,12,Acropora papillare,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,13,Acropora papillare,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,13,Pocillopora verrucosa,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,13,Palythoa,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,citrinellus,13,CCA,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,1,Galaxea fascicularis,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,2,Palythoa,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,2,Galaxea fascicularis,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,2,Pocillopora verrucosa,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,2,turf,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,2,Dipsastraea pallida,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,3,Dipsastraea pallida,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,3,Pocillopora meandrina,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,3,Pocillopora eydouxi,7
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,3,Platygyra lamellina,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,3,Pocillopora verrucosa,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,4,Galaxea fascicularis,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,4,Pocillopora eydouxi,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,4,Favites halicora,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,1,Acropora papillare,32
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,1,Montipora monasteriata,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,1,Acropora robusta,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,1,Acropora hyacinthus,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,2,Acropora papillare,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,2,Montipora millepora,17
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,2,Montipora crassituberculata,5
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,2,Acropora gemmifera,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,2,Montipora monasteriata,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,2,Acropora digitifera,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,3,Acropora hyacinthus,70
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,4,Acropora hyacinthus,23
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,4,Acropora tenuis,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,4,Acropora gemmifera,3
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,4,Acropora nasuta,2
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,4,Acropora abrotanoides,1
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,4,Acropora digitifera,4
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,4,Acropora cytherea,8
+13/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,4,Montipora monasteriata,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,5,Miilleporidae,7
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,5,Galaxea fascicularis,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,5,Platygyra lamellina,4
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,5,Hydnophora microconos,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,6,Favites halicora,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,6,Dipsastraea pallida,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,5,Montipora monasteriata,7
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,5,Montipora crassituberculata,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,5,Montipora millepora,6
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,5,Montipora tuberculosa,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,5,Acropora gemmifera,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,5,Acropora digitifera,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,6,Montipora monasteriata,4
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,6,Acropora robusta,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,6,Acropora woolsae,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,6,Montipora grisea,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,7,Acropora papillare,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,7,Montipora monasteriata,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,7,Montipora efflorescens,6
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,7,Montipora millepora,4
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,7,Acropora digitifera,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,7,Montipora tuberculosa,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,7,Acropora hyacinthus,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,7,Montipora crassituberculata,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,7,Acropora robusta,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,8,Montipora millepora,15
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,8,Acropora papillare,5
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,8,Montipora monasteriata,5
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,8,Montipora crassituberculata,4
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,8,Acropora hyacinthus,8
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,8,Acropora gemmifera,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,8,Montipora tuberculosa,7
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,8,Montipora cebuensis,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,9,Acropora nana,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,9,Montipora crassituberculata,8
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,9,Montipora millepora,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,9,Montipora tuberculosa,5
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,9,Acropora digitifera,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,9,Montipora grisea,5
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,9,Acropora hyacinthus,4
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,9,Montipora digitata,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,7,Hydnophora microconos,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,7,Platygyra lamellina,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,7,Porites annae,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,8,Goniastrea retiformis,4
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,8,Galaxea fascicularis,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,8,Hydnophora microconos,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,8,turf,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,8,Pavona varians,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,8,Palythoa,4
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,8,Cyphastrea spp,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,10,Montipora crassituberculata,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,10,Acropora gemmifera,6
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,10,Acropora hyacinthus,5
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,10,Acropora digitifera,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,11,Montipora crassituberculata,9
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,11,Acropora nasuta,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,11,Acropora hyacinthus,9
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,11,Acropora digitifera,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,12,Montipora monasteriata,8
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,12,Acropora digitifera,12
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,12,Montipora grisea,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,12,Acropora gemmifera,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,12,Montipora crassituberculata,6
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,12,Montipora digitata,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,12,Montipora millepora,7
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,9,turf,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,9,Milleporidae,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,plebeius,10,Montipora millepora,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,13,Montipora informis,11
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,13,Galaxea fascicularis,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,13,Montipora millepora,7
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,13,Milleporidae,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,13,Pocillopora eydouxi,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,13,turf,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,13,Pocillopora meandrina,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,baronessa,1,Montipora crassituberculata,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,baronessa,1,Galaxea fascicularis,17
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,baronessa,1,Montipora tuberculosa,16
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,14,Montipora millepora,20
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,14,Montipora monasteriata,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,14,Acropora hyacinthus,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,14,Montipora sp,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,14,Acropora gemmifera,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,trifascialis,14,Montipora tuberculosa,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,1,turf,17
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,1,Galaxea fascicularis,10
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,1,Pocillopora meandrina,6
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,1,Montipora millepora,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,1,Miilleporidae,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,1,Pocillopora verrucosa,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,1,Galaxea fascicularis,5
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,1,Leptastrea transversa,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,unimaculatus,1,nothing,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,2,Galaxea fascicularis,23
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,2,Pocillopora eydouxi,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,2,Heliopora,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,2,CCA,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,unimaculatus,2,nothing,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,3,Galaxea fascicularis,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,3,Palythoa,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,3,CCA,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,4,Goniastrea retiformis,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,4,Galaxea fascicularis,4
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,4,turf,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,2,Galaxea fascicularis,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,5,Galaxea fascicularis,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,5,Astrea curta,5
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,5,Pocillopora damicornis,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,6,Acropora papillare,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,6,Pocillopora verrucosa,5
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,6,turf,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,6,Pavona varians,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,6,Porites annae,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,6,Palythoa,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,7,Galaxea fascicularis,14
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,7,Montipora millepora,4
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,7,Montipora monasteriata,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,7,soft,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,7,turf,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,8,Pocillopora meandrina,22
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,8,turf,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,8,Pocillopora verrucosa,4
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,8,Pocillopora eydouxi,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,8,Leptastrea transversa,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,8,Astrea curta,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,9,CCA,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,9,turf,22
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,9,Milleporidae,5
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,9,Acropora nasuta,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,9,Pocillopora eydouxi,5
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,9,Pocillopora meandrina,8
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,9,Galaxea fascicularis,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,9,Acropora digitifera,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,3,Hydnophora exesa,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,3,Porites lutea,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,3,Hydnophora rigida,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,3,Palythoa,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,3,Platygyra lamellina,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,4,Pocillopora meandrina,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,4,Palythoa,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,5,nothing,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,rafflesi,10,turf,5
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,unimaculatus,3,Montipora peltiformis,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,6,Galaxea fascicularis,5
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,6,Pocillopora damicornis,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,6,Palythoa,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,7,Coelastrea aspera,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,speculum,7,Galaxea fascicularis,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,unimaculatus,4,nothing,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,unimaculatus,5,Montipora digitata,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,1,Goniastrea retiformis,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,1,Isopora cuneata,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,1,Acropora gemmifera,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,1,Montipora millepora,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,1,Porites nigrescens,4
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,1,Dipsastraea pallida,10
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,1,Favites stylifera,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,unimaculatus,6,nothing,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,unimaculatus,7,nothing,1
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,2,Acropora nasuta,3
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,2,Pavona venosa,4
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,2,Porites annae,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,3,Montipora millepora,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,3,Favites stylifera,2
+14/07/2017,,Iriomote,Iriomote,Unarizaki,1,Chaetodon,ornatissimus,3,Goniastrea retiformis,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,1,Acropora hyacinthus,9
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,1,Acropora nasuta,10
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,1,Acropora digitifera,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,1,Acropora tenuis,38
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,1,Acropora muricata,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,1,Acropora austera,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,1,Acropora cytherea,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,1,Platygyra pini,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,1,Goniastrea retiformis,8
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,1,Galaxea fascicularis,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,1,Pavona venosa,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,2,Pavona venosa,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,2,Montipora1 tuberculosa,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,2,Pocillopora verrucosa,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,2,Montipora crassituberculata,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,2,turf,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,2,Acropora juvenile,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,2,Galaxea fascicularis,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,2,Goniastrea pectinata,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,2,Merulina ampliata,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,2,Montipora efflorescens,9
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,3,Goniastrea retiformis,8
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,3,Cyphastrea serailia,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,3,Goniastrea pectinata,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,3,Porites lichen,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,3,Acropora digitifera,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,3,Montipora millepora,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,3,Galaxea fascicularis,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,3,Hydnophora exesa,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,3,Acropora hyacinthus,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,3,Pavona varians,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,4,Platygyra pini,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,4,Montipora digitata,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,4,Goniastrea pectinata,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,4,Acropora muricata,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,4,Acropora nasuta,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,4,Montipora monasteriata,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,4,Galaxea fascicularis,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,4,Porites lichen,7
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,5,Montipora digitata,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,5,Montipora millepora,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,5,turf,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,5,Goniastrea retiformis,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,5,Acropora nasuta,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,5,Acropora hyacinthus,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,5,Cyphastrea microphthalma,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,5,Montipora tuberculosa,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,5,Montipora crassituberculata,6
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,5,Acropora digitifera,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,6,Psammocora contigua,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,6,Montipora crassituberculata,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,6,Favites stylifera,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,6,Goniastrea retiformis,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,6,Porites cylindrica,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,6,Montipora millepora,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,6,Montipora monasteriata,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,7,Psammocora contigua,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,7,Montipora monasteriata,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,7,Dipsastraea pallida,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,7,Goniastrea pectinata,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,7,Pavona venosa,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,7,Platygyra lamellina,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,7,Platygyra ryukyuensis,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,8,Goniastrea retiformis,6
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,8,Pavona venosa,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,8,Acropora juvenile,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,8,Platygyra ryukyuensis,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,8,Pocillopora eydouxi,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,9,Montipora tuberculosa,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,9,Acropora juvenile,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,9,Pocillopora eydouxi,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,9,Platygyra pini,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,9,Stylocoeniella guentheri,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,9,Goniastrea retiformis,7
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,9,Favites halicora,12
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,9,Astrea annuligera,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,10,Acropora digitifera,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,10,Montipora crassituberculata,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,10,CCA,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,10,Montipora millepora,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,10,Pavona venosa,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,10,Montipora monasteriata,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,10,Platygyra ryukyuensis,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,10,Porites cylindrica,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,10,Goniastrea retiformis,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,11,Goniastrea aspera,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,11,Pavona venosa,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,11,Montipora millepora,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,11,Montipora tuberculosa,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,11,Cyphastrea chalcidicum,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,11,Pocillopora damicornis,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,11,Goniastrea retiformis,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,12,Pocillopora damicornis,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,12,Favites stylifera,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,12,Montipora monasteriata,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,12,Psammocora contigua,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,12,Porites lutea,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,12,Acropora hyacinthus,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,13,Pavona venosa,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,13,Pocillopora damicornis,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,13,Porites cylindrica,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,13,Montipora tuberculosa,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,13,Montipora crassituberculata,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,14,Montipora crassituberculata,27
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,14,Montipora millepora,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,14,Porites cylindrica,18
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,14,Galaxea fascicularis,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,14,Pocillopora damicornis,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,14,Dipsastraea pallida,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,14,Pavona venosa,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,14,Galaxea fascicularis,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,14,Acropora nasuta,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,14,Porites rus,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,15,Goniastrea retiformis,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,15,Porites cylindrica,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,15,Pocillopora acuta,6
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,15,Favites stylifera,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,15,Cyphastrea microphthalma,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,15,Montipora crassituberculata,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,15,Acropora hyacinthus,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,15,Platygyra ryukyuensis,10
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,15,Montipora efflorescens,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,16,Pocillopora acuta,8
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,16,Pavona venosa,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,16,Cyphastrea serailia,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,16,Acropora hyacinthus,9
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,16,Acropora nasuta,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,16,Goniastrea retiformis,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,16,Acropora digitifera,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,16,Astrea curta,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,lunulatus,16,Favites halicora,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,1,Goniastrea retiformis,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,1,turf,7
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,1,Pocillopora verrucosa,15
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,1,Dipsastraea pallida,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,2,turf,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,2,Montipora millepora,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,2,Astrea annuligera,17
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,2,Dipsastraea pallida,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,2,Goniastrea retiformis,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,3,CCA,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,3,turf,9
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,3,Acropora juvenile,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,3,Goniastrea retiformis,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,3,Pocillopora eydouxi,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,4,Pocillopora acuta,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,4,turf,10
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,4,Acropora juvenile,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,4,CCA,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,4,Favites stylifera,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,5,turf,16
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,5,Acropora juvenile,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,5,CCA,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,5,Goniastrea retiformis,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,5,Montipora tuberculosa,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,6,Montipora millepora,6
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,6,turf,11
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,6,Dipsastraea pallida,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,6,Pocillopora acuta,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,6,Pavona venosa,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,6,Montipora crassituberculata,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,7,Montipora crassituberculata,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,7,turf,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,7,Cyphastrea spp,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,8,turf,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,9,CCA,7
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,9,turf,9
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,9,Acropora digitifera,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,9,Montipora crassituberculata,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,9,Halimeda,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,9,Favites halicora,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,9,Goniastrea retiformis,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,9,Acropora hyacinthus,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,10,Pocillopora acuta,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,10,turf,5
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,10,Goniastrea retiformis,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,11,Pocillopora acuta,8
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,11,Favites abdita,6
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,11,turf,13
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,11,CCA,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,11,Montipora juvenile,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,11,Goniastrea retiformis,10
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,12,Pocillopora acuta,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,12,turf,7
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,12,Montipora grisea,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,12,Favites halicora,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,12,Montipora crassituberculata,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,12,Dipsastraea pallida,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,12,Pavona venosa,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,12,Pocillopora eydouxi,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,12,CCA,6
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,12,Montipora tuberculosa,7
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,12,Acropora gemmifera,3
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,12,Montipora millepora,2
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,13,Montipora digitata,4
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,13,turf,11
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,13,CCA,1
+15/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,13,Pocillopora acuta,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,1,Galaxea fascicularis,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,1,Pocillopora damicornis,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,1,CCA,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,1,turf,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,1,Pocillopora verrucosa,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,2,turf,4
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,2,Galaxea fascicularis,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,2,Pavona venosa,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,1,Galaxea fascicularis,4
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,1,Favites halicora,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,1,Goniastrea retiformis,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,1,Montipora crassituberculata,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,14,Montipora crassituberculata,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,14,turf,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,14,Pavona varians,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,14,Pavona venosa,7
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,14,Goniastrea retiformis,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,14,Milleporidae,10
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,15,Montipora crassituberculata,8
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,15,Montipora tuberculosa,8
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,15,CCA,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,15,Pocillopora damicornis,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,16,Montipora crassituberculata,10
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,16,Goniastrea retiformis,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,16,Dipsastraea pallida,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,16,turf,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,16,Pavona venosa,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,16,Pocillopora damicornis,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,16,Favites stylifera,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,16,Montipora nodosa,4
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,citrinellus,16,Pocillopora verrucosa,5
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,3,turf,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,3,Galaxea fascicularis,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,3,Pocillopora verrucosa,4
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,3,CCA,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,3,Pocillopora meandrina,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,4,turf,10
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,2,Goniastrea retiformis,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,2,turf,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,2,Galaxea fascicularis,5
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,3,Echinopora lamellosa,11
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,3,Galaxea fascicularis,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,3,Goniastrea pectinata,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,3,Pocillopora verrucosa,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,3,Favites halicora,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,5,CCA,4
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,5,turf,5
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,5,Milleporidae,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,5,Goniastrea retiformis,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,5,rubble,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,5,Galaxea fascicularis,6
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,5,Pavona venosa,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,6,CCA,6
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,6,turf,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,2,Acropora tenuis,40
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,2,Psammocora contigua,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,2,Acropora humilis,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,2,Acropora gemmifera,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,4,Favites halicora,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,5,Favites halicora,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,5,Merulina ampliata,4
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,unimaculatus,1,Montipora digitata,13
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,unimaculatus,1,Porites cylindrica,5
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,unimaculatus,1,Montipora grisea,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,6,Favites halicora,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,6,Dipsastraea pallida,4
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,6,Platygyra daedalea,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,7,CCA,6
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,7,turf,8
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,7,Halimeda,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,7,Pocillopora damicornis,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,8,Montipora digitata,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,8,CCA,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,8,Psammocora contigua,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,8,turf,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,7,Leptoria phrygia,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,7,Galaxea fascicularis,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,7,Pocillopora meandrina,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,7,Hydnophora microconos,8
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,7,Oxypora lacera,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,8,Montipora millepora,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,8,Montipora crassituberculata,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,8,Galaxea fascicularis,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,8,Echinopora lamellosa,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,8,Platygyra lamellina,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,9,Galaxea fascicularis,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,9,Platygyra lamellina,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,9,Echinopora gemmifera,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,10,Milleporidae,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,10,Dipsastraea pallida,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,10,Favites halicora,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,10,Goniastrea retiformis,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,plebeius,10,Galaxea fascicularis,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,9,turf,17
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,9,Pocillopora verrucosa,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,9,CCA,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,10,turf,6
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,10,Pocillopora verrucosa,7
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,10,Favites halicora,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,10,Galaxea fascicularis,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,10,Milleporidae,4
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,rafflesi,10,CCA,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,3,Montipora millepora,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,3,Acropora juvenile,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,3,Acropora monticulosa,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,3,Acropora tenuis,5
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,3,Pocillopora verrucosa,5
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,3,Pocillopora eydouxi,8
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,3,Acropora nasuta,4
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,4,Acropora tenuis,2
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,4,Acropora hyacinthus,18
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,4,Acropora nasuta,7
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,trifascialis,4,Acropora digitifera,3
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,auriga,1,turf,1
+16/07/2017,,Iriomote,Iriomote,Nata,1,Chaetodon,auriga,2,turf,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,1,Isopora cuneata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,2,Montipora millepora,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,2,Montipora nodosa,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,2,Montipora hispida,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,2,Montipora digitata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,3,Montipora hispida,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,3,Montipora efflorescens,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,4,Milleporidae,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,4,Montipora efflorescens,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,4,Leptastrea transversa,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,5,Montipora efflorescens,11
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,5,Isopora cuneata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,5,Montipora tuberculosa,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,5,Montipora digitata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,5,Montipora aequituberculata,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,6,Montipora digitata,8
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,6,Milleporidae,8
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,6,Isopora palifera,21
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,7,Montipora samarensis,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,7,Montipora nodosa,14
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,7,Isopora cuneata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,7,Porites lutea,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,8,Montipora samarensis,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,8,Montipora peltiformis,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,8,Montipora incrassata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,8,Montipora turgescens,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,8,Isopora cuneata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,8,Milleporidae,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,8,Montipora tuberculosa,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,8,Dipsastraea pallida,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,8,Montipora hispida,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,9,Isopora cuneata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,9,Montipora samarensis,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,9,Montipora digitata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,9,Montipora aequituberculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,10,Montipora efflorescens,24
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,10,Montipora aequituberculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,10,Milleporidae,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,11,Montipora aequituberculata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,11,Montipora millepora,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,11,Montipora turgescens,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,12,Pavona venosa,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,13,Isopora palifera,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,13,Montipora efflorescens,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,13,Montipora monasteriata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,13,Astreopora myriophthalma,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,13,Montipora aequituberculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,13,Montipora caliculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,14,Isopora palifera,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,14,Montipora millepora,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,14,Montipora turgescens,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,15,Montipora spongodes,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,15,Coelastrea aspera,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,15,Montipora aequituberculata,15
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,15,Montipora peltiformis,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,15,Montipora crassituberculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,15,Montipora monasteriata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,16,Montipora millepora,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,16,Montipora crassituberculata,9
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,16,Montipora aequituberculata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,16,Montipora spongodes,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,16,Montipora tuberculosa,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,17,Montipora monasteriata,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,17,Montipora peltiformis,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,17,Montipora spongodes,6
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,17,Montipora digitata,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,18,Montipora aequituberculata,7
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,18,Isopora palifera,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,18,Montipora millepora,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,18,Montipora nodosa,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,18,Montipora crassituberculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,18,Montipora efflorescens,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,19,Isopora palifera,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,19,Montipora crassituberculata,10
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,19,Montipora hispida,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,19,Porites lutea,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,19,Montipora aequituberculata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,19,Montipora samarensis,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,19,Montipora nodosa,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,1,Astreopora myriophthalma,20
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,1,Montipora monasteriata,12
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,20,Montipora samarensis,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,20,Montipora crassituberculata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,20,Montipora incrassata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,lunulatus,20,Montipora turgescens,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,2,Montipora aequituberculata,14
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,2,Montipora tuberculosa,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,2,Montipora digitata,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,2,Montipora crassituberculata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,2,Montipora efflorescens,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,2,Montipora spongodes,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,2,Montipora monasteriata,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,1,turf,23
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,1,rubble,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,2,turf,6
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,2,Montipora informis,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,2,Milleporidae,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,2,Favites pentagona,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,plebeius,1,turf,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,plebeius,1,Montipora monasteriata,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,plebeius,1,Montipora crassituberculata,9
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,plebeius,1,Montipora aequituberculata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,plebeius,1,Montipora millepora,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,plebeius,1,Coelastrea aspera,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,plebeius,1,Montipora spongodes,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,plebeius,1,Montipora millepora,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,3,rubble,6
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,3,turf,11
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,3,Montipora millepora,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,3,Montipora aequituberculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,4,turf,14
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,4,rubble,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,4,Montipora aequituberculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,4,Montipora monasteriata,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,4,Montipora millepora,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,rafflesi,1,turf,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,rafflesi,1,Montipora crassituberculata,16
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,3,Montipora aequituberculata,18
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,3,Montipora crassituberculata,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,3,CCA,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,3,Montipora grisea,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,3,Montipora efflorescens,7
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,3,Acropora tenuis,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,3,Acropora latistella,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,5,Milleporidae,37
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,5,CCA,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,5,Dipsastraea matthai,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,argentatus,5,turf,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,melannotus,1,turf,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,1,Montipora efflorescens,23
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,1,Montipora crassituberculata,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,1,Montipora turgescens,8
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,1,Montipora samarensis,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,1,Acropora digitifera,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,1,Acropora juvenile,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,1,Montipora aequituberculata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,1,turf,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,1,CCA,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,1,Montipora crassituberculata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,1,Montipora aequituberculata,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,1,Goniastrea retiformis,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,1,Dipsastraea matthai,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,2,Montipora aequituberculata,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,2,CCA,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,2,Dipsastraea pallida,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,2,Montipora millepora,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,2,turf,12
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,3,Dipsastraea pallida,9
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,3,CCA,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,3,Montipora crassituberculata,8
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,3,turf,6
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,3,Montipora millepora,7
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,3,Montipora grisea,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,rafflesi,2,Montipora millepora,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,rafflesi,2,Montipora spongodes,12
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,rafflesi,2,Galaxea fascicularis,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,rafflesi,2,turf,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,rafflesi,2,CCA,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,4,turf,6
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,4,Acropora muricata,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,4,CCA,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,4,Goniastrea pectinata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,4,Montipora monasteriata,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,4,Milleporidae,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,4,Montipora aequituberculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,4,Montipora crassituberculata,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,4,Montipora efflorescens,13
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,4,Montipora turgescens,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,5,Montipora crassituberculata,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,5,Montipora monasteriata,10
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,5,Montipora peltiformis,7
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,5,Montipora aequituberculata,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,5,Montipora efflorescens,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,5,Montipora tuberculosa,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,5,rubble,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,5,turf,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,5,Montipora aequituberculata,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,5,CCA,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,5,Montipora monasteriata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,5,Montipora grisea,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,6,Porites lutea,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,6,Montipora grisea,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,6,Montipora aequituberculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,6,Montipora millepora,6
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,6,Montipora monasteriata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,6,turf,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,6,Montipora efflorescens,11
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,2,Montipora millepora,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,2,Montipora efflorescens,20
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,2,Montipora aequituberculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,2,Montipora millepora,16
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,2,Galaxea fascicularis,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,2,Montipora crassituberculata,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,baronessa,2,Montipora grisea,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,7,CCA,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,7,Montipora millepora,11
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,7,Montipora efflorescens,6
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,7,Montipora crassituberculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,7,Montipora peltiformis,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,7,turf,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,7,Montipora aequituberculata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,7,Montipora monasteriata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,6,Montipora millepora,6
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,6,Montipora monasteriata,8
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,6,Montipora efflorescens,9
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,6,Montipora grisea,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,8,Milleporidae,12
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,8,Montipora crassituberculata,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,8,CCA,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,8,rubble,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,citrinellus,8,turf,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,7,Acropora tenuis,48
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,7,Acropora digitifera,4
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,7,Acropora muricata,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,7,Acropora cerealis,1
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,8,Montipora digitata,2
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,8,Montipora aequituberculata,13
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,8,Montipora crassituberculata,5
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,8,Montipora millepora,3
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,9,Montipora crassituberculata,13
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,9,Montipora aequituberculata,7
+17/07/2017,,Iriomote,Iriomote,Sonai,1,Chaetodon,trifascialis,9,Montipora millepora,3

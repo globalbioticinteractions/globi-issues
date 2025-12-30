@@ -1,0 +1,1485 @@
+Interaction	SOURCE	EOLOrg1	Org1classe	Org1genre	Org1sp	Accession1	EOLOrg2	Org2classe	Org2genre	Org2sp	Accession2	ref	DOI	sheet
+lives in symbiosis with	TARA		Bacillariophyta	NA	NA	DQ916403		Radiolaria	Hexacontium	pachydermum	NA	(Dolven et al. 2007)_	10.1016/j.protis.2006.07.004	1
+lives in symbiosis with	TARA		Bacillariophyta	NA	NA	NA		Dinophycea	Dinothrix	paradoxa	NA	(Horiguchi & Chihara 1993)__	http://scholar.google.com/scholar.bib?q=info:vV8bNca5N3EJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAUJvgIllQKx7Viw_IR_UUaFri4MeTAURK&scisf=4&hl=en&num=100&as_sdt=0,5	1
+lives in symbiosis with	TARA		Bacillariophyta	NA	NA	NA		Dinophycea	Peridinium	quinquecorne	NA	(Horiguchi & Pienaar 1991)_	10.1515/botm.1991.34.2.123	1
+lives in symbiosis with	TARA		Bacillariophyta	NA	NA	NA		Dinophycea	Durinskia	capensis	NA	(Pienaar et al. 2007)_	10.1007/s10265-006-0047-y	1
+lives in symbiosis with	TARA		Bacillariophyta	NA	NA	NA		Dinophycea	Galeidinium	rugatum	NA	(Tamura et al. 2005)_	10.1111/j.1529-8817.2005.00085.x	1
+lives in symbiosis with	TARA		Bacillariophyta	NA	NA	NA		Dinophycea	Durinskia	baltica	NA	(Tomas & Cox 1973)_	10.1111/j.1529-8817.1973.tb04098.x	1
+lives in symbiosis with	FV_DB		Bacillariophyta	Thalassiosira	weissflogii			Bacteria	Bacteria			(Schäfer et al. 2002)	10.1111/j.1574-6941.2002.tb00992.x	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Asterionella	glacialis			Alphaproteobacteria	Alphaproteobacteria			(Schäfer et al. 2002)	10.1111/j.1574-6941.2002.tb00992.x	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Chaetoceros	socialis			CFB	CFB			(Schäfer et al. 2002)	10.1111/j.1574-6941.2002.tb00992.x	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Leptocylindrus	danicus			Bacteria	Bacteria			(Schäfer et al. 2002)	10.1111/j.1574-6941.2002.tb00992.x	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Coscinodiscus				Bacteria	Bacteria			(Schäfer et al. 2002)	10.1111/j.1574-6941.2002.tb00992.x	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Pseudo-nitzschia				Bacteria	Roseobacter			(Amin et al. 2012)	10.1128/MMBR.00007-12	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Pseudo-nitzschia				Bacteria	Gammaproteobacteria			(Amin et al. 2012)	10.1128/MMBR.00007-12	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Pseudo-nitzschia				Bacteria	Bacteroidetes			(Amin et al. 2012)	10.1128/MMBR.00007-12	4
+competes with	FV_DB		Bacillariophyta	Thalassiosira	pseudonana			Haptophyta	Coccolithus	braarudii		(Cermeño et al. 2011)	10.3354/meps09088	4
+eatenBy	FV_DB		Bacillariophyta	Thalassiosira	pseudonana			Bacteria	Proteobacteria	Pseudomonad		(Baker et al. 1978)		4
+competes with	FV_DB		Bacillariophyta	Skeletonema	costatum			Bacteria	Listonella	anguillarum		(Naviner et al. 1998)	10.1016/S0044-8486(98)00513-4	4
+competes with	FV_DB		Bacillariophyta	Skeletonema	costatum			Bacteria	Vibrio	mytili		(Naviner et al. 1998)	10.1016/S0044-8486(98)00513-5	4
+competes with	FV_DB		Bacillariophyta	Skeletonema	costatum			Bacteria	Pseudomonas	aeruginosa		(Naviner et al. 1998)	10.1016/S0044-8486(98)00513-6	4
+competes with	FV_DB		Bacillariophyta	Skeletonema	costatum			Bacteria	Staphylococcus	aureus		(Naviner et al. 1998)	10.1016/S0044-8486(98)00513-6	4
+competes with	FV_DB		Bacillariophyta	Skeletonema	costatum			Bacteria	Streptococcus	faecalis		(Naviner et al. 1998)	10.1016/S0044-8486(98)00513-7	4
+competes with	FV_DB		Bacillariophyta	Chaetoceros				Bacteria	Vibrio			(Naviner et al. 1998)	10.1016/S0044-8486(98)00513-7	4
+competes with	FV_DB		Bacillariophyta	Phaelodactylum				Bacteria	Vibrio			(Naviner et al. 1998)	10.1016/S0044-8486(98)00513-7	4
+competes with	FV_DB		Bacillariophyta	Bacillariophyta				Copepoda	Copepoda			(Ban et al. 1997)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Thalassiosira	pseudonana			B12Bacteria	B12Bacteria			(Croft et al 2005	doi:10.1038/nature04056	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Chaetoceros				Cyanobacteria	Calothrix			(Foster et al. 2011)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Hemiaulus				Cyanobacteria	Calothrix			(Foster et al. 2011)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Rhizosolenia				Cyanobacteria	Calothrix			(Foster et al. 2011)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Hemiaulus	hauckii			Cyanobacteria	Richelia	intracellularis		(Hilton et al 2013)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Hemiaulus	membranaceus			Cyanobacteria	Richelia	intracellularis		(Hilton et al 2013)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Climacodium 	frauenfeldianum 			Cyanobacteria	Crocosphaera	watsonii		(Foster et al. 2011)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Fragilaria	shiloi			Foraminifera	Amphistegina	lessonii		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Fragilaria	shiloi			Foraminifera	Amphistegina	lobifera		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Fragilaria	shiloi			Foraminifera	Borelis	schlumbergi		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Fragilaria	shiloi			Foraminifera	Operculina	ammonoides		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Achnanthes	maceneryae			Foraminifera	Heterostegina	depressa		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Cocconeis	andersonii			Foraminifera	Operculina	ammonoides		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Amphora	roettgerii			Foraminifera	Heterostegina	depressa		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Amphora				Foraminifera	Operculina	ammonoides		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Entomoneis	paludosa			Foraminifera	Amphistegina	lobifera		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Navicula	hanseniana			Foraminifera	Amphistegina	lobifera		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Protokeelia	hottingeri			Foraminifera	Heterostegina	depressa		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Nitzschia	frustulum			Foraminifera	Amphistegina	lessonii		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Nitzschia	frustulum			Foraminifera	Amphistegina	lobifera		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Nitzschia	frustulum			Foraminifera	Heterostegina	depressa		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Nitzschia	frustulum			Foraminifera	Calcarina	calcar		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Nitzschia	laevis			Foraminifera	Borelis	schlumbergi		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Nitzschia	valdestriata			Foraminifera	Heterostegina	depressa		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Nitzschia	panduriforis			Foraminifera	Heterostegina	depressa		(Lee et al.1989) 	DOI: 10.2307/1485677	4
+get parasitized by	FV_DB		Bacillariophyta	Chaetoceros	sociabilis			Virus	ssRNA virus			(Tomaru et al.2009)	10.1128/AEM.02580-08	4
+get parasitized by	FV_DB		Bacillariophyta	Rhizosolenia	setigera			Virus	ssRNA virus			(Tomaru et al.2009)	10.1128/AEM.02580-08	4
+get parasitized by	FV_DB		Bacillariophyta	Chaetoceros	tenuissimus			Virus	ssRNA virus			(Tomaru et al.2009)	10.1128/AEM.02580-08	4
+eatenBy	FV_DB		Bacillariophyta	Skeletonema	costatum			Cladocera	Penilia	avirostris		(Kim et al.1989)	10.1007/BF00391145	4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis				Chlorophyta	Chlorophyta			(Thomas et al. 1986)	http://link.springer.com/article/10.1007%2FBF00007435	4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis				Rhodophyta	Rhodophyta			(Thomas et al. 1986)	http://link.springer.com/article/10.1007%2FBF00007435	4
+epibiosis	FV_DB		Bacillariophyta	Nitzschia	lecointei			Chlorophyta	Chlorophyta			(Thomas et al. 1986)	http://link.springer.com/article/10.1007%2FBF00007435	4
+epibiosis	FV_DB		Bacillariophyta	Nitzschia	lecointei			Phaeophyta	Phaeophyta			(Thomas et al. 1986)	http://link.springer.com/article/10.1007%2FBF00007435	4
+epibiosis	FV_DB		Bacillariophyta	Navicula	gelida			Phaeophyta	Phaeophyta			(Thomas et al. 1986)	http://link.springer.com/article/10.1007%2FBF00007435	4
+epibiosis	FV_DB		Bacillariophyta	Navicula	gelida			Rhodophyta	Rhodophyta			(Thomas et al. 1986)	http://link.springer.com/article/10.1007%2FBF00007435	4
+epibiosis	FV_DB		Bacillariophyta	Synedra	cyclopum			Cladocera	Daphnia			(Lanoo et al. 1993)	Limnol. Oceanogr., 38(3), 1993, 628-637	4
+lives in symbiosis with	FV_DB		Bacillariophyta					Dinophycea	Durinskia	capensis		(Stoecker et al,2009)	10.3354/ame01340	4
+lives in symbiosis with	FV_DB		Bacillariophyta					Dinophycea	Kryptoperidinium	foliaceum		(Stoecker et al,2009)	10.3354/ame01341	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Rhopalodia	gibba			Bacteria	Cyanothece			(Prechtl et al 2004)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Epithemia	turgida			Bacteria	cyanobacteria			(Nakayama et al 2014)	 doi: 10.1073/pnas.1405222111	4
+get parasitized by	FV_DB		Bacillariophyta	Asterionella	formosa			Chytridiomycota	Zygorhizidium	planktonicum		(Gsell 2013)	DOI: 10.1371/journal.pone.0071737	4
+epibiosis	FV_DB		Bacillariophyta					Foraminifera	Elphidium			(Pilet 2012)	 doi: 10.1093/molbev/mss226	4
+epibiosis	FV_DB		Bacillariophyta	Climacosphenia	sp.			Plantae	Ruppia	cirrhosa		(Dhib et al,2013)	doi: 10.1016/j.marpolbul.2013.09.017	4
+epibiosis	FV_DB		Bacillariophyta	Cylindrotheca	closterium			Plantae	Ruppia	cirrhosa		(Dhib et al,2013)	doi: 10.1016/j.marpolbul.2013.09.017	4
+epibiosis	FV_DB		Bacillariophyta	Denticulopsis	sp.			Plantae	Ruppia	cirrhosa		(Dhib et al,2013)	doi: 10.1016/j.marpolbul.2013.09.017	4
+epibiosis	FV_DB		Bacillariophyta	Gyrosigma	sp.			Plantae	Ruppia	cirrhosa		(Dhib et al,2013)	doi: 10.1016/j.marpolbul.2013.09.017	4
+epibiosis	FV_DB		Bacillariophyta	Leptocylindrus	danicus			Plantae	Ruppia	cirrhosa		(Dhib et al,2013)	doi: 10.1016/j.marpolbul.2013.09.017	4
+epibiosis	FV_DB		Bacillariophyta	Licmophora	gracilis			Plantae	Ruppia	cirrhosa		(Dhib et al,2013)	doi: 10.1016/j.marpolbul.2013.09.017	4
+epibiosis	FV_DB		Bacillariophyta	Navicula	phyllepta			Plantae	Ruppia	cirrhosa		(Dhib et al,2013)	doi: 10.1016/j.marpolbul.2013.09.017	4
+epibiosis	FV_DB		Bacillariophyta	Navicula	duerrenbergiana			Plantae	Ruppia	cirrhosa		(Dhib et al,2013)	doi: 10.1016/j.marpolbul.2013.09.017	4
+epibiosis	FV_DB		Bacillariophyta	Nitzschia	linearis			Plantae	Ruppia	cirrhosa		(Dhib et al,2013)	doi: 10.1016/j.marpolbul.2013.09.017	4
+epibiosis	FV_DB		Bacillariophyta	Striatella	unipunctata			Plantae	Ruppia	cirrhosa		(Dhib et al,2013)	doi: 10.1016/j.marpolbul.2013.09.017	4
+epibiosis	FV_DB		Bacillariophyta	Thalassionema	nitzshioides			Plantae	Ruppia	cirrhosa		(Dhib et al,2013)	doi: 10.1016/j.marpolbul.2013.09.017	4
+epibiosis	FV_DB		Bacillariophyta	Achnanthes	sp.			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Asterionella	formosa			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis	placentula			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Cyclotella	sp.			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Cymbella	cistula			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Diatoma	sp.			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Diatomella	sp.			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Eunotia	sp.			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Fragilaria	sp.			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Gomphonema	acuminatum			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Melosira	circulare			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Navicula	sp.			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Nitzschia	sp.			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Pinnularia	nobilis			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Rhizosolenia	eriensis			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Rhopalodia	gibba			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Stauroneis	phoenicentron			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Stephanodiscus	astrae			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Surirella	sp.			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Synedra	sp.			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Tabellaria	sp.			Plantae	Potamogeton	amplifolius		(Richard et al, 1975)		4
+epibiosis	FV_DB		Bacillariophyta	Pseudo-nitzschia	multiseries			Bacteria	Sulfitobacter	pseudonitzschiae		(Hong et al, 2014)	doi:10.1099/ijs.0.064972-0	4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis	notata			Chromalveolata	Macrocystis	pyrifera		(Siqueiros Beltrones, 2001	Oceanides 16(2): 135-138	4
+epibiosis	FV_DB		Bacillariophyta	Isthmia	nervosa			Plantae	Odonthalia	floccosa		(Ruesink, 1998)	DOI 10.1046/j.1529-8817.1998.340029.x	4
+epibiosis	FV_DB		Bacillariophyta					Plantae	Enhalus	acoroides		(Sterrenburg, 1995)	DOI 10.1515/botm.1995.38.1-6.1	4
+epibiosis	FV_DB		Bacillariophyta					Plantae	Thalassia	hemprichii		(Sterrenburg, 1995)	DOI 10.1515/botm.1995.38.1-6.1	4
+epibiosis	FV_DB		Bacillariophyta					Plantae	Halodule	wrightii		(Jewett Smith,1991)		4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis	scutellum			Plantae	Posidonia	oceanica		(Maibam, 2014)	DOI 10.1007/s00227-014-2448-0	4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis	posidoniae			Plantae	Posidonia	oceanica		(Maibam, 2014)	DOI 10.1007/s00227-014-2448-0	4
+epibiosis	FV_DB		Bacillariophyta	Diploneis	sp.			Plantae	Posidonia	oceanica		(Maibam, 2014)	DOI 10.1007/s00227-014-2448-0	4
+allelopathy	FV_DB		Bacillariophyta	Cocconeis	scutellum			Echinodermata	Paracentrotus	lividus		(Maibam, 2014)	DOI 10.1007/s00227-014-2448-0	4
+allelopathy	FV_DB		Bacillariophyta	Cocconeis	posidoniae			Echinodermata	Paracentrotus	lividus		(Maibam, 2014)	DOI 10.1007/s00227-014-2448-0	4
+allelopathy	FV_DB		Bacillariophyta	Diploneis	sp.			Echinodermata	Paracentrotus	lividus		(Maibam, 2014)	DOI 10.1007/s00227-014-2448-0	4
+get parasitized by	FV_DB		Bacillariophyta	Pseudogomphonema	kamschaticum			Rhodophyta	Pyropia			(Klochkova,2014)		4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis	ehrenberg			Plantae	Posidonia	oceanica		(Majewka,2014)	DOI 10.1016/j.aquabot.2013.07.008	4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis	neothumensis			Plantae	Posidonia	oceanica		(Majewka,2014)	DOI 10.1016/j.aquabot.2013.07.008	4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis	scutellum			Plantae	Posidonia	oceanica		(Majewka,2014)	DOI 10.1016/j.aquabot.2013.07.008	4
+epibiosis	FV_DB		Bacillariophyta	Pseudohimantidium	pacificum			Copepoda	Farranula	gibbula		(Garate-Lizarraga, 2009)	UT WOS:000267894300003	4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis	pediculus			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+epibiosis	FV_DB		Bacillariophyta	Diatoma	moniliformis			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+epibiosis	FV_DB		Bacillariophyta	Gomphonema	olivaceum			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+epibiosis	FV_DB		Bacillariophyta	Fragilaria	hyalina			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+epibiosis	FV_DB		Bacillariophyta	Hyalosira	delicatula			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+epibiosis	FV_DB		Bacillariophyta	Licmophora	debilis			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+epibiosis	FV_DB		Bacillariophyta	Rhoicosphenia	curvata			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+epibiosis	FV_DB		Bacillariophyta	Tabularia	tabulata			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Amphora	sp.			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Berkeleya	fennica			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Cymbella	pusilla			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Entomoneis	pseudoduplex			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Epithemia	spp.			Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Lunella				Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Mastogloia				Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Nitzschia				Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Rhopalodia				Cyanobacteria	Rivularia	atra		(Snoeijs, 2004)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Navicula	sp.			Cyanobacteria	Phormidium	sp.		(Brehm et al, 2003)		4
+lives in symbiosis with	FV_DB		Bacillariophyta	Pseudo-nitzschia	australis			Bacteria	Marinobacter			(Sison-Mangus,2014)	doi:10.1038/ismej.2013.138	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Pseudo-nitzschia	australis			Bacteria	Salegentibacter			(Sison-Mangus,2014)	doi:10.1038/ismej.2013.138	4
+lives in symbiosis with	FV_DB		Bacillariophyta	Thalassionema				Foraminifera	Nummulitidae			(Holzmann et al, 2006)		4
+lives in symbiosis with	FV_DB		Bacillariophyta					Porifera	Haliclona	dancoi		(Regoli et al,2004)	DOI 10.1016/j.marenvres.2004.03.055	4
+epibiosis	FV_DB		Bacillariophyta	Pseudohimantidium	pacificum			Copepoda	Coryceus	amazonicus		(Fernandes, 2012)		4
+epibiosis	FV_DB		Bacillariophyta	Pseudohimantidium	pacificum			Copepoda	Euterpina	acutifrons		(Fernandes, 2012)		4
+epibiosis	FV_DB		Bacillariophyta	Falcula	hyalina			Copepoda	Oithona	oswaldocruzii		(Fernandes, 2012)		4
+epibiosis	FV_DB		Bacillariophyta	Falcula	hyalina			Copepoda	Pseudodiaptomus	richardii		(Fernandes, 2012)		4
+epibiosis	FV_DB		Bacillariophyta	Falcula	hyalina			Copepoda	Acartia	spp.		(Fernandes, 2012)		4
+epibiosis	FV_DB		Bacillariophyta	Fragilaria	intermedia			Malacostraca	Schizophrys	dahlak		(Madkour, 2012)	DOI 10.1017/S1755267212000437	4
+epibiosis	FV_DB		Bacillariophyta	Amphora	coffeaeformis			Malacostraca	Schizophrys	dahlak		(Madkour, 2012)	DOI 10.1017/S1755267212000437	4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis	placentula			Malacostraca	Schizophrys	dahlak		(Madkour, 2012)	DOI 10.1017/S1755267212000437	4
+epibiosis	FV_DB		Bacillariophyta	Fragilariopsis	doliolus			Silicoflagellate	Dictyocha	pentagona		(Garate-Lizarraga, 2009)		4
+epibiosis	FV_DB		Bacillariophyta	Licmophora	sp.			Cnidaria	Eudendrium	racemosum		(Di Camillo et am, 2005)	DOI 10.1017/S0025315405012555	4
+epibiosis	FV_DB		Bacillariophyta	Amphora	sp.			Cnidaria	Eudendrium	racemosum		(Di Camillo et am, 2005)	DOI 10.1017/S0025315405012555	4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis	sp.			Cnidaria	Eudendrium	racemosum		(Di Camillo et am, 2005)	DOI 10.1017/S0025315405012555	4
+epibiosis	FV_DB		Bacillariophyta	Cocconeis	placentula			Gastropod	Hydrobia	ulvae		(Gillan et al, 2000)	DOI 10.1016/S1385-1101(99)00041-6	4
+epibiosis	FV_DB		Bacillariophyta	Achnanthes	lemmermanni			Gastropod	Hydrobia	ulvae		(Gillan et al, 2000)	DOI 10.1016/S1385-1101(99)00041-6	4
+epibiosis	FV_DB		Bacillariophyta	Synedra	cyclopum			Cladocera	Daphnia	spp.		(Gaider, 1993)		4
+get parasitized by	FV_DB		Bacillariophyta	Guinardia	delicatula			Cercozoa	Cryothecomonas	aestivalis		(Peacock, 2014)	DOI 10.3354/meps10784	4
+get parasitized by	FV_DB		Bacillariophyta	Coscinodiscus	granii			Stramenopile	Pirsonia	diadema		(Kuehn 2008)	DOI 10.1007/s00227-008-0904-4	4
+get parasitized by	FV_DB		Bacillariophyta	Coscinodiscus	wailesii			Stramenopile	Pirsonia	diadema		(Kuehn 2008)	DOI 10.1007/s00227-008-0904-4	4
+competes with	FV_DB		Bacillariophyta					Haptophyta	Phaeocystis	pouchetii		(Jian 2014)	DOI 10.1016/j.jmarsys.2014.02.011	
+competes with	FV_DB		Bacillariophyta	Stephanodiscus	minutulus			Bacillariophyta	Nitzschia	acicularis		(Shatwell, 2013)	DOI 10.1093/plankt/fbt058	
+competes with	FV_DB		Bacillariophyta	Cyclotella	sp			Cyanobacteria	Microcystis	aeruginosa		(Amano,2012)	DOI 10.1007/s10811-011-9718-8	
+competes with	FV_DB		Bacillariophyta	Navicula	phyllepta			Cyanophyceae	Chroococcus	dimidiatus		(Scholz, 2012)	DOI 10.2216/11-80.1	
+competes with	FV_DB		Bacillariophyta	Navicula	phyllepta			Cyanophyceae	Anabaena	torulosa		(Scholz, 2012)	DOI 10.2216/11-80.1	
+competes with	FV_DB		Bacillariophyta	Achnanthidium	minutissimum			Bacillariophyta	Cocconeis	placentula		(Manoylov,2009)	DOI 10.1080/02705060.2009.9664275	
+competes with	FV_DB		Bacillariophyta	Achnanthidium	minutissimum			Bacillariophyta	Cymbella	cistula		(Manoylov,2009)	DOI 10.1080/02705060.2009.9664275	
+competes with	FV_DB		Bacillariophyta	Skeletonema	marinoi			Bacillariophyta	Pseudo-nitzschia			(Prince, 2013)	DI 10.3390/md11072398	
+competes with	FV_DB		Bacillariophyta	Thalassiosira	weissflogii			Bacteria	Marinobacter			(Wang, 2014)		SO ALLELOPATHY JOURNAL
+competes with	FV_DB		Bacillariophyta	Chaetoceros	neogracile			Dinophycea	Alexandrium	minutum		(Lelong, 2011)	DI 10.1007/s00248-011-9889-5	
+competes with	FV_DB		Bacillariophyta	Skeletonema	costatum			Bacillariophyta	Heterosigma	akashiwo		(Yamasaki,2011)		TI SPECIES-SPECIFIC ALLELOPATHIC EFFECTS OF THE DIATOM SKELETONEMA COSTATUM
+eatenBy	FV_DB		Bacillariophyta	Thalassiosira	pseudonana	NA		Copepoda	Nitokra	lacustris	NA	(Parrish et al. 2012)_	10.1093/plankt/fbs003	3
+eatenBy	FV_DB		Bacillariophyta	Thalassiosira	pseudonana	NA		Copepoda	Tisbe	furcata	NA	(Parrish et al. 2012)_	10.1093/plankt/fbs003	3
+eatenBy	FV_DB		Bacillariophyta	Chaetoceros	NA	AY672808.1		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Fragilariopsis	angulata	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Fragilariopsis	curta	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Fragilariopsis	cylindrus	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Fragilariopsis	NA	AY672806.1		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Fragilariopsis	NA	AY672807.1		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Fragilariopsis	NA	AY672810.1		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Fragilariopsis	NA	AY672811.1		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Fragilariopsis	pseudonana	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Fragilariopsis	ritscheri	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Fragilariopsis	sublineata	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Fragilariopsis	obliquecostata	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Navicula	NA	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Nitzschia	NA	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Nitzschia	pseudonana	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Rhizosolenia	NA	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Thalassiosira	antarctica	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Thalassiosira	gracilis	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Thalassiosira	lentiginosa	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Thalassiosira	NA	AY672812.1		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Thalassiosira	NA	AY672816.1		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Thalassiosira	NA	AY672819.1		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Thalassiosira	oliverana	NA		Malacostraca	Euphausia	superba	AY672801.1	(Passmore et al. 2006)_	10.1007/s10126-005-6088-8	3
+eatenBy	FV_DB		Bacillariophyta	Skeletonema	costatum	NA		Cladocera	Penilia	avirostris	NA	(Kim et al. 1989)_	10.1007/BF00391145	3
+epibiosis	FV_DB		Bacillariophyta	Chaetoceros	tetrastichon			Tintinnid	Eutintinnus	apertus		(Gomez, 2006)	DOI 10.1007/s00227-007-0625-0	
+epibiosis	FV_DB		Bacillariophyta	Chaetoceros	dadayi			Tintinnid	Eutintinnus	apertus		(Gomez, 2006)	DOI 10.1007/s00227-007-0625-1	
+epibiosis	FV_DB		Bacillariophyta	Planktoniella	sol			Tintinnid	Eutintinnus	lususundae		(Gomez, 2006)	DOI 10.1007/s00227-007-0625-2	
+epibiosis	FV_DB		Bacillariophyta	Hemiaulus	hauckii			Tintinnid	Eutintinnus	lususundae		(Gomez, 2006)	DOI 10.1007/s00227-007-0625-3	
+epibiosis	FV_DB		Bacillariophyta	Chaetoceros	peruvianus			Tintinnid	Eutintinnus	lususundae		(Gomez, 2006)	DOI 10.1007/s00227-007-0625-4	
+epibiosis	FV_DB		Bacillariophyta	Fragilariopsis				Tintinnid	Eutintinnus	spp.		(Gomez, 2006)	DOI 10.1007/s00227-007-0625-5	
+epibiosis	FV_DB		Bacillariophyta	Fragilariopsis				Tintinnid	Salpingella	subconica		(Gomez, 2006)(Froneman. 1998)	DOI 10.1007/s00227-007-0625-6	
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:110606	Insecta	Hydraena					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:8941719	Insecta	Orchymontia					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:8612	Insecta	Scirtidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:54923	Insecta	Polypedilum					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:6919817	Insecta	Zelandoperla					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:60667	Insecta	Aoteapsyche					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:5120096	Magnoliopsida	Oligochaeta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:12026817	Insecta	Austroclima jollyae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2693261	Protostomia	Tanytarsini					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:54832	Insecta	Cricotopus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:37930	Insecta	Hydropsyche					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:100480	Insecta	Tricorythodes					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			WORMS:118100	Arthropoda	Chironomidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:482	Insecta	Chironomidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:480390	Insecta	Helicopsyche albescens					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:593107	Insecta	Olinga feredayi					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:875808	Insecta	Antocha saxicola					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:88480	Insecta	Aphrophila					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:19712211	Insecta	Hydora nitida					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:54821	Insecta	Eukiefferiella					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:6891728	Insecta	Coloburiscus humeralis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:481634	Insecta	Aoteapsyche raruraru					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:55368	Insecta	Naonella					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:582612	Insecta	Oxyethira albiceps					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:740557	Insecta	Simulium argus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:60648	Insecta	Pycnocentrodes					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3684076	Insecta	Deleatidium					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1172922	Insecta	Ectopria nervosa					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Podonominae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:56567	Insecta	Parochlus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:19665862	Protostomia	Oligochaeta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2686759	Protostomia	Eriopterini					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:9014	Insecta	Stratiomyidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:586334	Gastropoda	Potamopyrgus antipodarum					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:55267	Insecta	Pirara					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:19712309		Baraeoptera roria					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:53290	Insecta	Zelandotipula					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:55359	Insecta	Parachironomus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:53016	Insecta	Hudsonema					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2692379	Protostomia	Cricotopus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:8106901	Insecta	Austroperla cyrene					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:342551	Malacostraca	Hyalella azteca					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:745749	Insecta	Austrosimulium australense					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:84317	Insecta	Paralimnophora					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:78459	Insecta	Stictocladius					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:52934	Insecta	Pycnocentria					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1158	Malacostraca	Amphipoda					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:608324	Insecta	Hydropsyche occidentalis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:8941720	Insecta	Podaena					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:9021	Insecta	Tanyderidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:64	Clitellata	Lumbriculidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2762498	Insecta	Baetis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:8106965	Insecta	Acroperla					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:6892142	Insecta	Oniscigaster					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:484273	Insecta	Zelolessica cheira					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:16680184	Insecta	Zephlebia spectabilis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:14603	Maxillopoda	Calanus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:60576	Insecta	Hydrobiosella					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:493217	Bivalvia	Sphaerium occidentale					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:345025	Malacostraca	Emerita analoga					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:486	Insecta	Ceratopogonidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:54681	Insecta	Simulium					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2762505	Insecta	Baetis tricaudatus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:10482179	Insecta	Nesameletus ornatus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Gastropod	Potamopurgus antipodarum					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2762862	Insecta	Leucrocuta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2763362	Insecta	Ophiogomphus severus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:72562	Insecta	Olinga					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	NA	Chironomid type Polyped					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:615147	Insecta	Hydrobiosella stenocerca					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2564270	Protostomia	Oligochaeta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:35037	Insecta	Stenelmis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1335452	Protostomia	Orthocladiinae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2686478	Protostomia	Hexatomini					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:54823	Insecta	Corynoneura					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:234838	Insecta	Enallagma anna					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2762844	Insecta	Epeorus dispar					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:18319	Insecta	Molophilus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			WORMS:558774	Annelida	Aeolosoma					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:78982	Insecta	Neocurupira					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:110394	Insecta	Psephenus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2625033	Protostomia	Copepoda					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:4254164	Malacostraca	Paracalliope					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:253344	Insecta	Argia vivida					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:206857	Actinopterygii	Mugil cephalus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:205147	Actinopterygii	Dorosoma cepedianum					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:211989	Actinopterygii	Poecilia latipinna					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:225829	Actinopterygii	Brevoortia patronus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:217009	Actinopterygii	Adinia xenica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:357022	Actinopterygii	Fundulus grandis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1157174	Actinopterygii	Cyprinodon variegatus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:206726	Actinopterygii	Leiostomus xanthurus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:995159	Actinopterygii	Menidia beryllina					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:224967	Actinopterygii	Fundulus pulvereus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:995142	Actinopterygii	Lucania parva					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:217007	Actinopterygii	Achirus lineatus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:994841	Actinopterygii	Micropogonias undulatus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:223306	Actinopterygii	Anchoa mitchilli					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:586977	Polychaeta	Prionospio caspersi					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:50396	Polychaeta	Harmothoe					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:489059	Polychaeta	Euclymene oerstedi					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:491865	Polychaeta	Polydora ciliata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:406854	Polychaeta	Nereis pelagica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2967130	Polychaeta	Neanthes caudata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:404312	Polychaeta	Eunice aphroditois					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:489214	Polychaeta	Heteromastus filiformis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:462887	Polychaeta	Capitella minima					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:418622	Polychaeta	Syllis gracilis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2968128	Polychaeta	Syllis columbretensis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:406909	Polychaeta	Sphaerosyllis hystrix					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:458783	Polychaeta	Syllis armillaris					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:58584	Polychaeta	Streptosyllis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:491754	Polychaeta	Paraonis fulgens					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:485945	Polychaeta	Ampharete grubei					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:587585	Polychaeta	Platynereis massiliensis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:587197	Polychaeta	Neanthes irrorata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:458741	Polychaeta	Neanthes arenaceodentata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:157	Polychaeta	Orbiniidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:152	Polychaeta	Arenicolidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:482971	Polychaeta	Chone mollis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:406978	Polychaeta	Exogone naidina					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:406518	Polychaeta	Alitta succinea					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:593023	Polychaeta	Nephtys hombergii					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:462766	Polychaeta	Ctenodrilus serratus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:130	Polychaeta	Ctenodrilidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:459465	Polychaeta	Scoloplos armiger					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:147	Polychaeta	Terebellidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:99	Polychaeta	Hesionidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:52727	Polychaeta	Schistomeringos					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:52436	Polychaeta	Paraonis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:50555	Polychaeta	Magelona					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:121	Polychaeta	Syllidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:158	Polychaeta	Paraonidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:156	Polychaeta	Opheliidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:488921	Polychaeta	Clymenella torquata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:61249	Polychaeta	Laonice					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:53010	Polychaeta	Nephtys					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:39309	Polychaeta	Polydora					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:489157	Polychaeta	Cirriformia tentaculata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:581616	Polychaeta	Amage adspersa					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:485917	Polychaeta	Polyophthalmus pictus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:596660	Polychaeta	Paradoneis armata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:488984	Polychaeta	Owenia fusiformis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:485929	Polychaeta	Notomastus latericeus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:614771	Polychaeta	Magelona mirabilis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:404837	Polychaeta	Lumbrineris latreilli					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:491820	Polychaeta	Laonice cirrata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:406336	Polychaeta	Hediste diversicolor					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:582008	Polychaeta	Dasybranchus caducus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:401642	Polychaeta	Cirrophorus furcatus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:489143	Polychaeta	Cirriformia filigera					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:489116	Polychaeta	Chaetozone setosa					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1262403	Protostomia	Capitella capitata capitata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:485801	Polychaeta	Armandia cirrhosa					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:486136	Polychaeta	Arenicola marina					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:406337	Polychaeta	Platynereis dumerilii					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:503217	Polychaeta	Perinereis cultrifera					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:620695	Polychaeta	Eupolymnia nebulosa					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:127849	Maxillopoda	Calanoides acutus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1023882	Maxillopoda	Calanus propinquus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:340731	Maxillopoda	Metridia gerlachei					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:68466	Anthozoa	Clavularia					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1009620	Hydrozoa	Oswaldella antarctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:461267	Polychaeta	Eunoe opalina					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:90375	Pyrrophycophyta	Gyrodinium			(Saito et al. 2006)	10.1029/2005GL025366	
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3047559	Ophiuroidea	Ophiosparte gigas					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:511276	Pycnogonida	Colossendeis robusta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3064429	Opisthokonta	Maxilliphimedia longipes					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:204832	Actinopterygii	Electrona antarctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:480280	Protostomia	Galiteuthis glacialis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:491112	Protostomia	Alluroteuthis antarcticus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:452481	Polychaeta	Tomopteris septentrionalis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2968255	Polychaeta	Tomopteris planktonis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3096086	Polychaeta	Tomopteris carpenteri					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:454008	Polychaeta	Pelagobia longicirrata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:406391	Polychaeta	Maupasia coeca					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:512064	Chaetognatha	Solidosagitta marri					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:512046	Chaetognatha	Pseudosagitta gazellae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:511931	Chaetognatha	Eukrohnia hamata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:510619	Thaliacea	Salpa thompsoni					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3111080	NA	Pasiphaea scotiae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:509467	Malacostraca	Thysanoessa macrura					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:509426	Malacostraca	Euphausia superba					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1023074	Malacostraca	Pseudomma belgicae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:128045	Malacostraca	Mysidetes posthon					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:14839	Malacostraca	Dactylamblyops					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:14135	Malacostraca	Boreomysis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1022196	Malacostraca	Antarctomysis ohlinii					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1010868	Malacostraca	Antarctomysis maxima					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:343362	Malacostraca	Parandania boecki					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3063623	Opisthokonta	Abyssorchomene rossi					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3063906	Opisthokonta	Abyssorchomene plebs					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:344874	Malacostraca	Eurythenes obesus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:325053	Malacostraca	Eurythenes gryllus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3064582	Malacostraca	Eusirus propeperdentatus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:330386	Malacostraca	Eusirus perdentatus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:341276	Malacostraca	Eusirus microps					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:341277	Malacostraca	Epimeriella macronyx					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:329278	Malacostraca	Cyphocaris richardi					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:128590	Malacostraca	Cyphocaris faurei					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1024556	Malacostraca	Vibilia stebbingi					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:318037	Malacostraca	Primno macropa					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1024630	Malacostraca	Themisto gaudichaudii					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1000153	Malacostraca	Hyperiella macronyx					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1021837	Malacostraca	Hyperiella dilatata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1039894	Malacostraca	Cyllopus lucasii					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:128253	Ostracoda	Metaconchoecia skogsbergi					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1023919	Ostracoda	Metaconchoecia isocheira					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1023832	Ostracoda	Conchoecissa imbricata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1023211	Ostracoda	Alacia hettacra					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1023833	Ostracoda	Alacia belgicae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1023212	Ostracoda	Boroecia antipoda					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:127858	Maxillopoda	Stephos longipes					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:339487	Maxillopoda	Spinocalanus magnus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1269533	Maxillopoda	Spinocalanus abyssalis pygmaeus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1039710	Maxillopoda	Spinocalanus abyssalis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1039452	Maxillopoda	Mimocalanus cultrifer					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:339677	Maxillopoda	Scolecithricella minor					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1016841	Maxillopoda	Pseudoamallothrix emarginata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3099104	Maxillopoda	Amallothrix dentipes					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3011329	Opisthokonta	Pseudoamallothrix cenotelis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3102496	Calanoida	Scaphocalanus vervoorti					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3102495	Calanoida	Scaphocalanus parantarcticus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3102492	Calanoida	Scaphocalanus farrani					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3102490	Calanoida	Scaphocalanus antarcticus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1039507	Maxillopoda	Racovitzanus antarcticus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1039451	Maxillopoda	Microcalanus pygmaeus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:326241	Maxillopoda	Farrania frigida					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1025094	Maxillopoda	Ctenocalanus citer					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:43364	Maxillopoda	Xanthocalanus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3102231	Calanoida	Onchocalanus wolfendeni					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1039555	Maxillopoda	Cephalophanes frigidus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1040630	Maxillopoda	Oncaea curvata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1023860	Maxillopoda	Oncaea antarctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:340734	Maxillopoda	Oithona similis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:341682	Maxillopoda	Oithona frigida					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:339660	Maxillopoda	Pleuromamma robusta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:336403	Maxillopoda	Metridia curticauda					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1023858	Maxillopoda	Lucicutia wolfendeni					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:341375	Maxillopoda	Lucicutia gaussae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1039394	Maxillopoda	Lucicutia macrocera					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:127859	Maxillopoda	Heterorhabdus farrani					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:341094	Maxillopoda	Heterorhabdus austrinus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:329892	Maxillopoda	Paraeuchaeta similis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3102355	Opisthokonta	Paraeuchaeta rasa					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:329891	Maxillopoda	Paraeuchaeta antarctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1040629	Maxillopoda	Rhincalanus gigas					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:127774	Maxillopoda	Haloptilus ocellatus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:127850	Maxillopoda	Pseudochirella mawsoni					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3054170	Maxillopoda	Pseudochirella hirsuta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:339582	Maxillopoda	Gaetanus tenuispinus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:329912	Maxillopoda	Gaetanus simplex					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:340919	Maxillopoda	Gaetanus kruppii					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3100290	Maxillopoda	Euchirella rostromagna					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:10698993	Maxillopoda	Aetideopsis antarctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:213097	Actinopterygii	Notolepis coatsi					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:207321	Actinopterygii	Gymnoscopelus braueri					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:213411	Actinopterygii	Bathylagus antarcticus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:453376	Gastropoda	Clio pyramidata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:509407	Malacostraca	Euphausia frigida					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:510630	Thaliacea	Ihlea racovitzai					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:510622	Thaliacea	Salpa gerlachei					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:393495	Ascidiacea	Cnemidocarpa verrucosa					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:513821	Ascidiacea	Synoicum adareanum					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:513746	Ascidiacea	Aplidium vastum					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:512691	Ascidiacea	Corella eumyota					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:512543	Ascidiacea	Ascidia challengeri					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:514064	Ascidiacea	Molgula pedunculata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:6835101	Gymnolaemata	Bostrychopora dentata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2974828	Gymnolaemata	Isoschizoporella tricuspis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2975403	Gymnolaemata	Pemmatoporella					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2975361	Gymnolaemata	Reteporella hippocrepis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2975385	Gymnolaemata	Systenopora contracta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2974580	Gymnolaemata	Melicerita obliqua					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2975370	Gymnolaemata	Cellarinella					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	NA	Nematroflustra flagellata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2974348	Gymnolaemata	Camptoplites tricornis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:36457	Gymnolaemata	Alcyonidium					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3035822	Anopla	Parborlasia corrugatus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2976407	Anopla	Lineus longifissus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3033082	Anopla	Baseodiscus antarcticus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3101696	Scaphopoda	Dentalium majorinum					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:4943941	Scaphopoda	Cadulus dalli					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3048897	Bivalvia	Propeleda longicaudata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2980622	Bivalvia	Lissarca notorcadensis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2980615	Bivalvia	Limopsis marionensis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:4728363	Opisthokonta	Limopsis lillei					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3048832	Bivalvia	Laternula elliptica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Bivalvia	Yolida eightsi					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3048804	Bivalvia	Cyclocardia astartoides					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3048887	Gastropoda	Parmaphorella mawsoni					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3048905	Gastropoda	Puncturella conica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:324360	Anthozoa	Anthomastus bathyproctus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:322822	Anthozoa	Gersemia antarctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:421608	Anthozoa	Edwardsia intermedia					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:421052	Anthozoa	Isotealia antarctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1006350	Hydrozoa	Monocaulus parvula					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:203251	Hydrozoa	Silicularia rosea					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3039427	Echinoidea	Sterechinus antarcticus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3039430	Echinoidea	Sterechinus neumayeri					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3047535	Ophiuroidea	Astrotoma agassizii					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3047541	Ophiuroidea	Ophiacantha antarctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3088814	Ophiuroidea	Ophioplinthus gelida					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3088808	Ophiuroidea	Ophioplinthus brevirima					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3047604	Ophiuroidea	Ophioceres incipiens					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:598344	Ophiuroidea	Ophionotus victoriae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:4703872	Asteroidea	Porania antarctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:4704670	Asteroidea	Odontaster validus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:10699335	Polychaeta	Rhynchonereella bongraini					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Malacostraca	Camylaspis maculata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:41723	Malacostraca	Vaunthompsonia					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2979128	Malacostraca	Eudorella splendida					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:344889	Malacostraca	Nototanais dimorphus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:342794	Malacostraca	Peraeospinosus pushkini					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:344493	Malacostraca	Nototanais antarcticus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1457	Ostracoda	Podocopida					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	NA	Austrosisignum grande					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:14133	Malacostraca	Euchaetomera					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1039085	Malacostraca	Eucopia australis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:7367	Malacostraca	Mysidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:10952657	Opisthokonta	Euchaeta antarctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3111078	Opisthokonta	Nematocarcinus lanceopes					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:330267	Malacostraca	Chorismus antarcticus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3111073	Malacostraca	Notocrangon antarcticus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3064543	Malacostraca	Rhachotropis antarctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3063889	Malacostraca	Heterophoxus videns					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1022681	Malacostraca	Bathypanoploea schellenbergi					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3063931	Malacostraca	Uristes gigas					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3063945	Opisthokonta	Paraceradocus gibber					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3064122	Opisthokonta	Epimeria georgiana					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3064341	Opisthokonta	Epimeria macrodonta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3064170	Opisthokonta	Epimeria similis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3063796	Opisthokonta	Epimeriella walkeri					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1040069	Malacostraca	Ampelisca richardsoni					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Foraminifera	Neogloboquadriana pachyderma					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:15545215	Harosa	Lenticulina antarctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:488137	Granuloreticulosea	Cassidulina crassa					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:489464	Granuloreticulosea	Cibicides refulgens					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:6813725	Harosa	Cassidulinoides parkerianus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:614607	Polychaeta	Terebellides pacifica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:73005	Echinodermata	Stichopus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:117	Polychaeta	Polynoidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:509444	Malacostraca	Nyctiphanes couchi					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:597887	Holothuroidea	Molpadia borealis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:509431	Malacostraca	Meganyctiphanes norvegica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:456007	Polychaeta	Lumbriclymene minor					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:14326	Malacostraca	Erythrops					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:600551	Gymnolaemata	Einhornia arctica					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:597987	Holothuroidea	Cucumaria frondosa					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:129	Polychaeta	Cirratulidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1020724	Maxillopoda	Calanus helgolandicus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2613063	Protostomia	Asellota					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:474660	Polychaeta	Aphelochaeta marioni					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1021376	Malacostraca	Taphromysis bowmani					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:345055	Malacostraca	Rhithropanopeus harrisii					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:325037	Malacostraca	Farfantepenaeus duorarum					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			WORMS:161345	Arthropoda	Americamysis almyra					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:42101	Maxillopoda	Labidocera					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:207803	Actinopterygii	Heterandria formosa					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:211782	Actinopterygii	Floridichthys carpio					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:14332	Maxillopoda	Cyclops					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:342513	Malacostraca	Cyclaspis varians					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	NA	Cricoctopus sp.					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:52177	Bivalvia	Congeria					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:54809	Insecta	Chironomus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:451585	Bivalvia	Brachidontes exustus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:43170	Maxillopoda	Acartia					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:312939	Malacostraca	Callinectes sapidus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1024570	Malacostraca	Macrobrachium ohione					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:451460	Bivalvia	Rangia cuneata					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:995122	Actinopterygii	Lagodon rhomboides					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:217614	Actinopterygii	Dorosoma petenense					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1000279	Actinopterygii	Sardinella aurita					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:213022	Actinopterygii	Opisthonema oglinum					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:54923	Insecta	Polypedilum					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:55368	Insecta	Naonella					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:481634	Insecta	Aoteapsyche raruraru					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2693261	Protostomia	Tanytarsini					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Stratiomyiid sp.					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	NA	Potamopurgus antipodarum					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:8941720	Insecta	Podaena					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:84317	Insecta	Paralimnophora					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:582612	Insecta	Oxyethira albiceps					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:8941719	Insecta	Orchymontia					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Oniscogaster sp.					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2564270	Protostomia	Oligochaeta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:10482179	Insecta	Nesameletus ornatus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:19712211	Insecta	Hydora nitida					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:53016	Insecta	Hudsonema					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2686478	Protostomia	Hexatomini					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Eukiefiriella					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:3684076	Insecta	Deleatidium					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:54832	Insecta	Cricotopus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:6891728	Insecta	Coloburiscus humeralis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Ceratopogonid					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:745749	Insecta	Austrosimulium australense					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:12026817	Insecta	Austroclima jollyae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:88480	Insecta	Aphrophila					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:576	Chilopoda	Chilopoda					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	NA	Scirtid sp. (Skinny type)					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	NA	Scirtid sp. (Broad type)					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:60648	Insecta	Pycnocentrodes					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:52934	Insecta	Pycnocentria					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:586334	Gastropoda	Potamopyrgus antipodarum					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:56567	Insecta	Parochlus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:55267	Insecta	Pirara					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:72562	Insecta	Olinga					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:482	Insecta	Chironomidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:480390	Insecta	Helicopsyche albescens					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2686759	Protostomia	Eriopterini					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:8106901	Insecta	Austroperla cyrene					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:60667	Insecta	Aoteapsyche					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1158	Malacostraca	Amphipoda					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:8106965	Insecta	Acroperla					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:18153	Insecta	Paralimnophila					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:4254164	Malacostraca	Paracalliope					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:19665862	Protostomia	Oligochaeta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:5120096	Magnoliopsida	Oligochaeta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:18319	Insecta	Molophilus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:60576	Insecta	Hydrobiosella					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Autrosimilium australense					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:35037	Insecta	Stenelmis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:110394	Insecta	Psephenus					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2762862	Insecta	Leucrocuta					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2762844	Insecta	Epeorus dispar					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:1172922	Insecta	Ectopria nervosa					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:493217	Bivalvia	Sphaerium occidentale					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:54681	Insecta	Simulium					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	NA	Lumbriculiid oligochaete unknown long (N=ANTOCHA SAXICOLA)					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:37930	Insecta	Hydropsyche					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:2762498	Insecta	Baetis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:875808	Insecta	Antocha saxicola					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			WORMS:558774	Annelida	Aeolosoma					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:484273	Insecta	Zelolessica cheira					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:6919817	Insecta	Zelandoperla					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:593107	Insecta	Olinga feredayi					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:110606	Insecta	Hydraena					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:53290	Insecta	Zelandotipula					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Podonomid sp.(n=4)					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Chironomid type 'Tanytarsini'					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Chironomid type 'Polyped'					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Chironomid type 'Orthoclad Blue Blond'					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Chironomid type 'Orthoclad Blue Black'					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Chironomid type 'Eukief Shiny Black'					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Chironomid type 'Diamesid Blond'					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:16680184	Insecta	Zephlebia spectabilis					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:9021	Insecta	Tanyderidae					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:78459	Insecta	Stictocladius					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Scirtid (n=HYDORA NITIDA)					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Parachironomous sp.					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:6892142	Insecta	Oniscigaster					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:78982	Insecta	Neocurupira					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:615147	Insecta	Hydrobiosella stenocerca					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:54823	Insecta	Corynoneura					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Chironomid type 'Polyped' (n=TANYTARSINI)					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Chironomid type 'Orthoclad blue blond' (n=ORTHOCLAD BLUE BLACK)					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Chironomid type 'Orthoclad blue black'					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Chironomid type 'Large Tanytarsini' (n=TANTARSINI)					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Chironomid type 'Diamesid Brown Orange'					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			no:match	Insecta	Chironomid type 'Diamesid blond'					
+eatenBy	GLOBI	EOL:3685	Bacillariophyta	Bacillariophyta			EOL:19712309	NA	Baraeoptera roria					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:19712257	NA	no:match					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:19712211	Insecta	Hydora nitida					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:53016	Insecta	Hudsonema					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:19712209	NA	no:match					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:16680184	Insecta	Zephlebia spectabilis					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:12026817	Insecta	Austroclima jollyae					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:1158	Malacostraca	Amphipoda					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:10482179	Insecta	Nesameletus ornatus					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:8106901	Insecta	Austroperla cyrene					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:6973526	Malacostraca	Paranephrops zealandicus					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:6891728	Insecta	Coloburiscus humeralis					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:615147	Insecta	Hydrobiosella stenocerca					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:593107	Insecta	Olinga feredayi					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:586334	Gastropoda	Potamopyrgus antipodarum					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:480390	Insecta	Helicopsyche albescens					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:10822859	NA	no:match					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:9141275	Stramenopiles	Gomphonema cf. parvulum					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:8106970	Insecta	Acroperla trivacuata					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:869223	Insecta	Aphrophila neozelandica					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:745749	Insecta	Austrosimulium australense					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:582612	Insecta	Oxyethira albiceps					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:8941720	Insecta	Podaena					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:8106965	Insecta	Acroperla					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:6919817	Insecta	Zelandoperla					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:6892142	Insecta	Oniscigaster					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:3684076	Insecta	Deleatidium					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:2693261	Protostomia	Tanytarsini					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:2686759	Protostomia	Eriopterini					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:2686478	Protostomia	Hexatomini					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:2564270	Protostomia	Oligochaeta					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:1335452	Protostomia	Orthocladiinae					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:110606	Insecta	Hydraena					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:88480	Insecta	Aphrophila					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:79210	Insecta	Nothodixa					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:60667	Insecta	Aoteapsyche					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:60648	Insecta	Pycnocentrodes					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:60576	Insecta	Hydrobiosella					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:56567	Insecta	Parochlus					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:55368	Insecta	Naonella					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:55267	Insecta	Pirara					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:54832	Insecta	Cricotopus					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:54821	Insecta	Eukiefferiella					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:53290	Insecta	Zelandotipula					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:52934	Insecta	Pycnocentria					
+interactsWith	GLOBI	EOL:9141275	Bacillariophyta	Gomphonema cf. parvulum			EOL:8612	Insecta	Scirtidae					
+interactsWith	GLOBI	EOL:917120	Bacillariophyta	Pinnularia cf. gibba			EOL:917120	Stramenopiles	Pinnularia cf. gibba					
+interactsWith	GLOBI	EOL:917120	Bacillariophyta	Pinnularia cf. gibba			EOL:64	Clitellata	Lumbriculidae					
+eatenBy	GLOBI	EOL:917120	Bacillariophyta	Pinnularia cf. gibba			EOL:64	Clitellata	Lumbriculidae					
+eatenBy	GLOBI	EOL:917120	Bacillariophyta	Pinnularia cf. gibba			EOL:2564270	Protostomia	Oligochaeta					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:312867	Malacostraca	Parapinnixa hendersoni					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:347725	Malacostraca	Petrolisthes galathinus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1036927	Malacostraca	Parapinnixa bouvieri					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:342484	Malacostraca	Gnathophylloides mineri					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:4258534	Opisthokonta	Petrolisthes rosariensis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:341998	Malacostraca	Petrolisthes jugosus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449945	Bivalvia	Tucetona pectinata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:451954	Bivalvia	Antillipecten antillarum					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449761	Bivalvia	Pinna carnea					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449840	Bivalvia	Leiosolenus appendiculatus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449856	Protostomia	Lithophaga nigra					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449778	Bivalvia	Laevichlamys multisquamata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449788	Bivalvia	Caribachlamys pellucens					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:448780	Bivalvia	Ctenocardia guppyi					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449781	Bivalvia	Caribachlamys ornata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449800	Bivalvia	Modiolus americanus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:396002	Protostomia	Lima scabra					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:402799	Protostomia	Lima pellucida					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:451513	Bivalvia	Lima lima					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449748	Bivalvia	Isognomon radiatus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449746	Bivalvia	Isognomon bicolor					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:440010	Bivalvia	Chama sarda					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:440006	Protostomia	Chama macerophylla					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:493141	Bivalvia	Arcopsis adamsi					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:452127	Bivalvia	Arca zebra					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:450169	Bivalvia	Acar domingensis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:452062	Bivalvia	Barbatia candida					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449033	Bivalvia	Dallocardia muricata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449038	Bivalvia	Trachycardium isocardia					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:448962	Bivalvia	Pitar fulminatus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:402697	Metazoa	Periglypta listeri					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449040	Bivalvia	Papyridea soleniformis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:4767590	Bivalvia	Lirophora paphia					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:492555	Bivalvia	Fulvia laevigata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:440104	Bivalvia	Gouldia cerina					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:451511	Bivalvia	Diplodonta caelata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449305	Bivalvia	Diplodonta punctata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449308	Bivalvia	Diplodonta nucleiformis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:450465	Bivalvia	Anodontia alba					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:450160	Bivalvia	Anadara notabilis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:448784	Bivalvia	Americardia media					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:440131	Bivalvia	Chione cancellata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:487336	Bivalvia	Parvilucina costata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:449183	Bivalvia	Lucina pensylvanica					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:451600	Bivalvia	Ctena orbiculata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:451597	Bivalvia	Codakia orbicularis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:493184	Bivalvia	Asaphis deflorata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:128047	Malacostraca	Mysidium columbiae					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:38206	Gastropoda	Clio					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:989577	Anthozoa	Iciligorgia schrammi					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:322958	Anthozoa	Pterogorgia guadalupensis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:322981	Anthozoa	Pseudopterogorgia americana					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:322982	Anthozoa	Pseudopterogorgia acerosa					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:990588	Anthozoa	Plexaurella dichotoma					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:990076	Anthozoa	Plexaura nina					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:991065	Anthozoa	Plexaura homomalla					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:2548979	Cnidaria	Plexaura flexuosa					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:993008	Anthozoa	Muriceopsis flavida					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:992817	Anthozoa	Muricea atlantica					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:323125	Anthozoa	Gorgonia mariae					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:322270	Anthozoa	Eunicea tourneforti					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:322272	Anthozoa	Eunicea succinea					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:322289	Anthozoa	Eunicea calyculata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:322288	Anthozoa	Eunicea asperula					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:512446	Appendicularia	Fritillaria haplostoma					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:512485	Appendicularia	Oikopleura longicauda					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:512477	Appendicularia	Oikopleura dioica					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:342565	Malacostraca	Glossocephalus milneedwardsi					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:319699	Malacostraca	Lestrigonus bengalensis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1024813	Malacostraca	Brachyscelus crusculum					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:340372	Maxillopoda	Undinula vulgaris					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:340485	Maxillopoda	Paracalanus parvus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1020198	Maxillopoda	Paracalanus crassirostris					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:340488	Maxillopoda	Paracalanus aculeatus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1020741	Maxillopoda	Labidocera acutifrons					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1020191	Maxillopoda	Euchaeta marina					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:335979	Maxillopoda	Acartia lilljeborgii					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1020212	Maxillopoda	Acartia tonsa					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1020936	Maxillopoda	Acartia spinata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:340981	Maxillopoda	Microsetella rosea					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:339451	Maxillopoda	Centropages furcatus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:13890	Branchiopoda	Podon					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:338858	Branchiopoda	Penilia avirostris					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:2544268	Demospongiae	Siphonodictyon					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:335322	Demospongiae	Cliona vermifera					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:334417	Demospongiae	Cliona tenuis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:335318	Demospongiae	Cliona schmidti					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:335020	Demospongiae	Cliona laticavicola					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:334452	Demospongiae	Cliona caribbaea					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:336919	Demospongiae	Pione lampa					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:334448	Demospongiae	Cliona delitrix					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:335043	Demospongiae	Cliona aprica					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:331622	Demospongiae	Siphonodictyon brevitubulatum					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:338183	Demospongiae	Xestospongia muta					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			WORMS:168799	Porifera	Strongylacidon griseum					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:338240	Demospongiae	Neopetrosia subtriangularis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:338186	Demospongiae	Xestospongia portoricensis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			WORMS:385326	Porifera	Neopetrosia rosariensis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:2545701	Porifera	Verongula ardis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:999560	Demospongiae	Verongula reiswigi					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:999553	Demospongiae	Verongula rigida					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:999561	Demospongiae	Verongula gigantea					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:335743	Demospongiae	Dictyonella arenosa					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:336300	Demospongiae	Dictyonella funicularis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:331698	Demospongiae	Tectitethya crypta					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:335032	Demospongiae	Spheciospongia vesparium					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:14919	Demospongiae	Spheciospongia					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:331880	Demospongiae	Smenospongia aurea					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:999457	Demospongiae	Aiolochroia crassa					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1162336	Demospongiae	Petrosia pellasarca					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:108789	Magnoliopsida	Oligoceras					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:538613	Demospongiae	Neofibularia nolitangere					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1160968	Demospongiae	Mycale laxissima					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:333969	Demospongiae	Igernella notabilis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:335782	Demospongiae	Ircinia campana					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:335778	Demospongiae	Ircinia felix					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:539275	Demospongiae	Iotrochota birotulata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:338089	Demospongiae	Amphimedon erina					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:333646	Demospongiae	Geodia papyracea					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:333587	Demospongiae	Geodia neptuni					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:538768	Demospongiae	Gelliodes ramosa					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:334047	Demospongiae	Dysidea janiae					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:338156	Demospongiae	Cribrochalina vasculum					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:338164	Demospongiae	Cribrochalina dura					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:42982	Demospongiae	Craniella					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:196480	Calcarea	Clathrina coriacea					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:333900	Demospongiae	Chondrilla nucula					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:999558	Demospongiae	Aplysina lacunosa					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:999565	Demospongiae	Aplysina fulva					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:999466	Demospongiae	Aplysina fistularis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:999482	Demospongiae	Aplysina cauliformis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:334424	Demospongiae	Cliona varians					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:34915	Demospongiae	Cliona					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:332701	Demospongiae	Agelas dispar					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:2908952	Harosa	Amphorellopsis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:489871	Granuloreticulosea	Orbulina universa					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:2954348	Harosa	Globigerinoides sacculifer					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:489860	Granuloreticulosea	Globigerina bulloides					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:6813488	Harosa	Candorbulina					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:899627	Pyrrophycophyta	Pyrodinium bahamense					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:901667	Pyrrophycophyta	Prorocentrum micans					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:11700	Pyrrophycophyta	Peridinium					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:900895	Pyrrophycophyta	Protoperidinium divergens			(Jeong et al. 2004)	10.3354/ame036171	
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:90124	Pyrrophycophyta	Oxytoxum					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:2492764	Pyrrophycophyta	Gonyaulax tamarensis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:4817	Pyrrophycophyta	Peridiniaceae					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:901398	Pyrrophycophyta	Dinophysis caudata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:918970	Pyrrophycophyta	Ceratium tripos					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:12149	Pyrrophycophyta	Ceratium					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:899358	Pyrrophycophyta	Ceratium fusus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:903700	Pyrrophycophyta	Ceratium furca					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:11699	Pyrrophycophyta	Gymnodinium					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:339468	Actinopterygii	Anchoa hepsetus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:339470	Actinopterygii	Anchoa lyolepis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:509402	Malacostraca	Euphausia crystallorophias					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:223358	Deuterostomia	Pleuragramma antarcticum					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:5502	Actinopterygii	Macrouridae					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:25444	Actinopterygii	Chionodraco					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:26076	Actinopterygii	Artedidraco					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:453422	Gastropoda	Limacina helicina					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:2571157	Protostomia	Clione antarctica					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:454008	Polychaeta	Pelagobia longicirrata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:512046	Chaetognatha	Pseudosagitta gazellae					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:511931	Chaetognatha	Eukrohnia hamata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1022196	Malacostraca	Antarctomysis ohlinii					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:3063623	Opisthokonta	Abyssorchomene rossi					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:3063906	Opisthokonta	Abyssorchomene plebs					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1000153	Malacostraca	Hyperiella macronyx					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1021837	Malacostraca	Hyperiella dilatata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1019034	Malacostraca	Hyperia macrocephala					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:4249657		Eusirus tridentatus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:341277	Malacostraca	Epimeriella macronyx					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:509467	Malacostraca	Thysanoessa macrura					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1023919	Ostracoda	Metaconchoecia isocheira					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1023833	Ostracoda	Alacia belgicae					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:127858	Maxillopoda	Stephos longipes					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1040630	Maxillopoda	Oncaea curvata					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1023860	Maxillopoda	Oncaea antarctica					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:340734	Maxillopoda	Oithona similis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:341682	Maxillopoda	Oithona frigida					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1039451	Maxillopoda	Microcalanus pygmaeus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:340731	Maxillopoda	Metridia gerlachei					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:329892	Maxillopoda	Paraeuchaeta similis					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:329889	Maxillopoda	Paraeuchaeta erebi					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:329891	Maxillopoda	Paraeuchaeta antarctica					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:339080	Maxillopoda	Ctenocalanus vanus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:1023882	Maxillopoda	Calanus propinquus					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:10698993	Maxillopoda	Aetideopsis antarctica					
+eatenBy	GLOBI	EOL:12010	Bacillariophyta	Chaetoceros			EOL:509426	Malacostraca	Euphausia superba					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:19712339	NA	no:match					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:19712257	NA	no:match					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:19712211	Insecta	Hydora nitida					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:53016	Insecta	Hudsonema					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:19712209	NA	no:match					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:19665843	NA	no:match					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:16680184	Insecta	Zephlebia spectabilis					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:16680150	Insecta	Atalophlebioides cromwelli					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:12026817	Insecta	Austroclima jollyae					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:54681	Insecta	Simulium					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:10482179	Insecta	Nesameletus ornatus					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:8106901	Insecta	Austroperla cyrene					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:6919819	Insecta	Zelandoperla fenestrata					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:6892142	Insecta	Oniscigaster					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:6891728	Insecta	Coloburiscus humeralis					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:4254164	Malacostraca	Paracalliope					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:3684076	Insecta	Deleatidium					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:2693261	Protostomia	Tanytarsini					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:2686478	Protostomia	Hexatomini					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:2564270	Protostomia	Oligochaeta					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:902512	Stramenopiles	Cymbella aspera					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:593107	Insecta	Olinga feredayi					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:586334	Gastropoda	Potamopyrgus antipodarum					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:493217	Bivalvia	Sphaerium occidentale					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:745749	Insecta	Austrosimulium australense					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:582612	Insecta	Oxyethira albiceps					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:110606	Insecta	Hydraena					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:110394	Insecta	Psephenus					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:88480	Insecta	Aphrophila					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:60667	Insecta	Aoteapsyche					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:60648	Insecta	Pycnocentrodes					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:55368	Insecta	Naonella					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:54846	Insecta	Probezzia					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:54832	Insecta	Cricotopus					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:52934	Insecta	Pycnocentria					
+interactsWith	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:9021	Insecta	Tanyderidae					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:6891728	Insecta	Coloburiscus humeralis					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:60667	Insecta	Aoteapsyche					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:5120096	Magnoliopsida	Oligochaeta					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:2693261	Protostomia	Tanytarsini					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:593107	Insecta	Olinga feredayi					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:88480	Insecta	Aphrophila					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:493217	Bivalvia	Sphaerium occidentale					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:12026817	Insecta	Austroclima jollyae					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:19665862	Protostomia	Oligochaeta					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:586334	Gastropoda	Potamopyrgus antipodarum					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:4254164	Malacostraca	Paracalliope					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:19712309	NA	Baraeoptera roria					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:582612	Insecta	Oxyethira albiceps					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:52934	Insecta	Pycnocentria					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:84317	Insecta	Paralimnophora					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:110394	Insecta	Psephenus					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:19712211	Insecta	Hydora nitida					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:3684076	Insecta	Deleatidium					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:53016	Insecta	Hudsonema					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:55368	Insecta	Naonella					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:6892142	Insecta	Oniscigaster					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:9021	Insecta	Tanyderidae					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:745749	Insecta	Austrosimulium australense					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:60648	Insecta	Pycnocentrodes					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:16680184	Insecta	Zephlebia spectabilis					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:50493	Insecta	Chimarra					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:54681	Insecta	Simulium					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			no:match	Gastropoda	Potamopurgus antipodarum					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:8106901	Insecta	Austroperla cyrene					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:6919819	Insecta	Zelandoperla fenestrata					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:54846	Insecta	Probezzia					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:16680150	Insecta	Atalophlebioides cromwelli					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:2686478	Protostomia	Hexatomini					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:54832	Insecta	Cricotopus					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:10482179	Insecta	Nesameletus ornatus					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			no:match	NA	Zealolessica cheira					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:482	Insecta	Chironomidae					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:110606	Insecta	Hydraena					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			no:match	NA	Zealolessica cheira					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:52934	Insecta	Pycnocentria					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			no:match	Gastropoda	Potamopurgus antipodarum					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:84317	Insecta	Paralimnophora					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:582612	Insecta	Oxyethira albiceps					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			no:match	Insecta	Oniscogaster sp.					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:2564270	Protostomia	Oligochaeta					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			no:match		Maoridiemesea					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:53016	Insecta	Hudsonema					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:2686478	Protostomia	Hexatomini					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:3684076	Insecta	Deleatidium					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:54832	Insecta	Cricotopus					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:6891728	Insecta	Coloburiscus humeralis					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:745749	Insecta	Austrosimulium australense					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:12026817	Insecta	Austroclima jollyae					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:88480	Insecta	Aphrophila					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:60667	Insecta	Aoteapsyche					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:60648	Insecta	Pycnocentrodes					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:586334	Gastropoda	Potamopyrgus antipodarum					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:8106901	Insecta	Austroperla cyrene					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:5120096	Magnoliopsida	Oligochaeta					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:16680150	Insecta	Atalophlebioides cromwelli					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:19712211	Insecta	Hydora nitida					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			no:match	NA	Autrosimilium australense					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:55368	Insecta	Naonella					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:54681	Insecta	Simulium					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:110394	Insecta	Psephenus					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:50493	Insecta	Chimarra					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:493217	Bivalvia	Sphaerium occidentale					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:54846	Insecta	Probezzia					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:6919819	Insecta	Zelandoperla fenestrata					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:4254164	Malacostraca	Paracalliope					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:110606	Insecta	Hydraena					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			no:match	Insecta	Chironomid type 'Large Tanytarsini'					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:16680184	Insecta	Zephlebia spectabilis					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:9021	Insecta	Tanyderidae					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			no:match	Insecta	Oniscigastor sp.					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:593107	Insecta	Olinga feredayi					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:10482179	Insecta	Nesameletus ornatus					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:19712309	Insecta	Baraeoptera roria					
+eatenBy	GLOBI	EOL:902512	Bacillariophyta	Cymbella aspera			EOL:2693261	Protostomia	Tanytarsini					
+interactsWith	GLOBI	EOL:917237	Bacillariophyta	Navicula radiosa			EOL:12026817	Insecta	Austroclima jollyae					
+interactsWith	GLOBI	EOL:917237	Bacillariophyta	Navicula radiosa			EOL:2564270	Protostomia	Oligochaeta					
+interactsWith	GLOBI	EOL:917237	Bacillariophyta	Navicula radiosa			EOL:745749	Insecta	Austrosimulium australense					
+interactsWith	GLOBI	EOL:917237	Bacillariophyta	Navicula radiosa			EOL:480390	Insecta	Helicopsyche albescens					
+interactsWith	GLOBI	EOL:917237	Bacillariophyta	Navicula radiosa			EOL:88480	Insecta	Aphrophila					
+interactsWith	GLOBI	EOL:917237	Bacillariophyta	Navicula radiosa			EOL:11750	Harosa	Navicula					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:19712211	Insecta	Hydora nitida					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:19665846	NA	no:match					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:2762498	Insecta	Baetis					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:2693261	Protostomia	Tanytarsini					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:2692848	Protostomia	Chironomini					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:2686759	Protostomia	Eriopterini					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:902417	Stramenopiles	Gomphonema acuminatum					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:486	Insecta	Ceratopogonidae					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:88480	Insecta	Aphrophila					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:60648	Insecta	Pycnocentrodes					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:59435	Insecta	Oeconesus					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:55368	Insecta	Naonella					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:55093	Insecta	Dicrotendipes					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:54846	Insecta	Probezzia					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:50410	Protostomia	Aeolosoma					
+interactsWith	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:11741	Insecta	Echinella					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:55093	Insecta	Dicrotendipes					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:54846	Insecta	Probezzia					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:2693261	Protostomia	Tanytarsini					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:2762498	Insecta	Baetis					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:55368	Insecta	Naonella					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:486	Insecta	Ceratopogonidae					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:88480	Insecta	Aphrophila					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:60648	Insecta	Pycnocentrodes					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:50410	Protostomia	Aeolosoma					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:2686759	Protostomia	Eriopterini					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:19712211	Insecta	Hydora nitida					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:2692848	Protostomia	Chironomini					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:54923	Insecta	Polypedilum					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:59435	Insecta	Oeconesus					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			no:match	Insecta	Ceratopogonid					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:2693261	Protostomia	Tanytarsini					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:55368	Insecta	Naonella					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:19712211	Insecta	Hydora nitida					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:88480	Insecta	Aphrophila					
+eatenBy	GLOBI	EOL:902417	Bacillariophyta	Gomphonema acuminatum			EOL:54923	Insecta	Polypedilum					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:19712309	NA	Baraeoptera roria					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:19712259	NA	no:match					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:19712211	Insecta	Hydora nitida					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:53016	Insecta	Hudsonema					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:19665846	NA	no:match					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:16680184	Insecta	Zephlebia spectabilis					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:12026817	Insecta	Austroclima jollyae					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:10482179	Insecta	Nesameletus ornatus					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:6892142	Insecta	Oniscigaster					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:6891728	Insecta	Coloburiscus humeralis					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:3684076	Insecta	Deleatidium					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:2693261	Protostomia	Tanytarsini					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:2686759	Protostomia	Eriopterini					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:2564270	Protostomia	Oligochaeta					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:1335452	Protostomia	Orthocladiinae					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:912851	Stramenopiles	Epithemia zebra					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:593107	Insecta	Olinga feredayi					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:586334	Gastropoda	Potamopyrgus antipodarum					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:480390	Insecta	Helicopsyche albescens					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:495	Insecta	Psychodidae					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:745749	Insecta	Austrosimulium australense					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:582612	Insecta	Oxyethira albiceps					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:110606	Insecta	Hydraena					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:88480	Insecta	Aphrophila					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:78459	Insecta	Stictocladius					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:60667	Insecta	Aoteapsyche					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:60648	Insecta	Pycnocentrodes					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:60576	Insecta	Hydrobiosella					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:56567	Insecta	Parochlus					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:55368	Insecta	Naonella					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:54832	Insecta	Cricotopus					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:52934	Insecta	Pycnocentria					
+interactsWith	GLOBI	EOL:912851	Bacillariophyta	Epithemia zebra			EOL:9021	Insecta	Tanyderidae					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19712333	NA	no:match					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19712309	Insecta	Baraeoptera roria					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19712264	NA	no:match					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19712259	NA	no:match					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19712257	NA	no:match					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:3684076	Insecta	Deleatidium					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19712211	Insecta	Hydora nitida					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:53016	Insecta	Hudsonema					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19666131	NA	no:match					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19666066	NA	no:match					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19665846	NA	no:match					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:16680184	Insecta	Zephlebia spectabilis					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			WORMS:558774	Annelida	Aeolosoma					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:12026817	Insecta	Austroclima jollyae					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:10482179	Insecta	Nesameletus ornatus					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8941720	Insecta	Podaena					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8941719	Insecta	Orchymontia					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8106970	Insecta	Acroperla trivacuata					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8106965	Insecta	Acroperla					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8106901	Insecta	Austroperla cyrene					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:6919817	Insecta	Zelandoperla					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:6892142	Insecta	Oniscigaster					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:6891728	Insecta	Coloburiscus humeralis					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:2693261	Protostomia	Tanytarsini					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:2692848	Protostomia	Chironomini					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:2686759	Protostomia	Eriopterini					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:2564270	Protostomia	Oligochaeta					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:1335452	Protostomia	Orthocladiinae					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:615147	Insecta	Hydrobiosella stenocerca					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:593107	Insecta	Olinga feredayi					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:586334	Gastropoda	Potamopyrgus antipodarum					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:480390	Insecta	Helicopsyche albescens					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:10822859	NA	no:match					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:918318	Stramenopiles	Epithemia sorex					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:745749	Insecta	Austrosimulium australense					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:582612	Insecta	Oxyethira albiceps					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:110606	Insecta	Hydraena					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:88480	Insecta	Aphrophila					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:78459	Insecta	Stictocladius					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:60667	Insecta	Aoteapsyche					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:60648	Insecta	Pycnocentrodes					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:60576	Insecta	Hydrobiosella					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:59435	Insecta	Oeconesus					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:56567	Insecta	Parochlus					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:56387	Insecta	Parametriocnemus					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:55368	Insecta	Naonella					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:55267	Insecta	Pirara					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:55093	Insecta	Dicrotendipes					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:54832	Insecta	Cricotopus					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:54821	Insecta	Eukiefferiella					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:52934	Insecta	Pycnocentria					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:52816	Insecta	Paroxyethira					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:39616	Insecta	Promoresia					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:9021	Insecta	Tanyderidae					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8612	Insecta	Scirtidae					
+interactsWith	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:64	Clitellata	Lumbriculidae					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8941719	Insecta	Orchymontia					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:110606	Insecta	Hydraena					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8612	Insecta	Scirtidae					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:55267	Insecta	Pirara					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:5120096	Magnoliopsida	Oligochaeta					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:12026817	Insecta	Austroclima jollyae					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:582612	Insecta	Oxyethira albiceps					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:54832	Insecta	Cricotopus					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:2693261	Protostomia	Tanytarsini					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:6891728	Insecta	Coloburiscus humeralis					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:55093	Insecta	Dicrotendipes					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			WORMS:118100	Arthropoda	Chironomidae					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:482	Insecta	Chironomidae					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:480390	Insecta	Helicopsyche albescens					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:52816	Insecta	Paroxyethira					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:6919817	Insecta	Zelandoperla					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:6891510	Insecta	Ameletopsis perscitus					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:88480	Insecta	Aphrophila					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:3684076	Insecta	Deleatidium					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:593107	Insecta	Olinga feredayi					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:1335452	Protostomia	Orthocladiinae					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:55368	Insecta	Naonella					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			no:match	Insecta	Podonomidae					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:586334	Gastropoda	Potamopyrgus antipodarum					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19665862	Protostomia	Oligochaeta					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:39616	Insecta	Promoresia					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:2686759	Protostomia	Eriopterini					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:60667	Insecta	Aoteapsyche					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:53016	Insecta	Hudsonema					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19712309	Insecta	Baraeoptera roria					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:745749	Insecta	Austrosimulium australense					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:54821	Insecta	Eukiefferiella					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19712211	Insecta	Hydora nitida					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:2692379	Protostomia	Cricotopus					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:60648	Insecta	Pycnocentrodes					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			no:match	Insecta	Orychmontia					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:52934	Insecta	Pycnocentria					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:64	Clitellata	Lumbriculidae					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:54923	Insecta	Polypedilum					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:9021	Insecta	Tanyderidae					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8941720	Insecta	Podaena					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8106970	Insecta	Acroperla trivacuata					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8106965	Insecta	Acroperla					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			no:match	NA	Austraclima jollyae					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:6892142	Insecta	Oniscigaster					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:16680184	Insecta	Zephlebia spectabilis					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:60576	Insecta	Hydrobiosella					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:56387	Insecta	Parametriocnemus					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:56567	Insecta	Parochlus					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			WORMS:558774	Annelida	Aeolosoma					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:615147	Insecta	Hydrobiosella stenocerca					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:59435	Insecta	Oeconesus					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:10482179	Insecta	Nesameletus ornatus					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:2692848	Protostomia	Chironomini					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			no:match	NA	Zealolessica cheira					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:78459	Insecta	Stictocladius					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:72562	Insecta	Olinga					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8106901	Insecta	Austroperla cyrene					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			no:match	NA	Zealolessica cheira					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:52934	Insecta	Pycnocentria					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:55267	Insecta	Pirara					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8941719	Insecta	Orchymontia					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:53016	Insecta	Hudsonema					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:54832	Insecta	Cricotopus					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:745749	Insecta	Austrosimulium australense					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:12026817	Insecta	Austroclima jollyae					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:60667	Insecta	Aoteapsyche					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:576	Chilopoda	Chilopoda					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			no:match	NA	Scirtid sp. (Broad type)					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:60648	Insecta	Pycnocentrodes					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:586334	Gastropoda	Potamopyrgus antipodarum					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:2564270	Protostomia	Oligochaeta					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:55368	Insecta	Naonella					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:482	Insecta	Chironomidae					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:19712211	Insecta	Hydora nitida					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:3684076	Insecta	Deleatidium					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:6891728	Insecta	Coloburiscus humeralis					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:8106901	Insecta	Austroperla cyrene					
+eatenBy	GLOBI	EOL:918318	Bacillariophyta	Epithemia sorex			EOL:88480	Insecta	Aphrophila					
+get parasitized by	FV_Skuhn		Bacillariophyta	Actinocyclus	normanii			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Bacteriastrum	hyalinum			Oomycota	Ectrogella	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Bacteriastrum	hyalinum			Dinophyta	Paulsenella	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Bacteriastrum	hyalinum			Ameobozoa	Rhizamoeba	schnepfii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Bacteriastrum	hyalinum			Chytridiomycota	Rhizophydium	spp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Bellerochea	malleus			Chytridiomycota	"Chytrid""A"""			(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Bellerochea	malleus			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Bellerochea	malleus			Dinophyta	Paulsenella	vonstoschii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Bellerochea	malleus			Cercozoa	Phagomyxa	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Bellerochea	malleus			Diplonemea	Rhynchopus	cosconodiscivorus		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Cerataulina	bergonii			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Cerataulina	pelagica			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Cerataulina	pelagica			Oomycota	Ectrogella	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Cerataulina	pelagica			Cercozoa	Pirsonia	eucampia		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Cerataulina	pelagica			Cercozoa	Pirsonia	formosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Cerataulina	pelagica			Cercozoa	Pirsonia	mucosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Chaetoceros	borealis			Dinophyta	Paulsenella	chaetoceratis		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Chaetoceros	costatus			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Chaetoceros	danicus			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Chaetoceros	debilis			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Chaetoceros	densus			Chytridiomycota	Rhizophydium	spp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Chaetoceros	decipiens			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Chaetoceros	decipiens			Dinophyta	Paulsenella	chaetoceratis		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Chaetoceros	didymus			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Chaetoceros	didymus			Ameobozoa	Rhizamoeba	schnepfii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Chaetoceros	sp.			Cercozoa	Phagomyxa	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	centralis			Oomycota	Lagenidium	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	concinnus			Euglenozoa	Hemistasia	phaeocysticola		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	concinnus			Oomycota	Lagenisma	coscinodiscii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	concinnus			Cercozoa	Pirsonia	diadema		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	concinnus			Diplonemea	Rhynchopus	cosconodiscivorus		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	granii			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	granii			Euglenozoa	Hemistasia	phaeocysticola		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	granii			Oomycota	Lagenisma	coscinodiscii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	granii			Cercozoa	Pirsonia	diadema		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	wailesii			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	wailesii			Euglenozoa	Hemistasia	phaeocysticola		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	wailesii			Oomycota	Lagenisma	coscinodiscii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Coscinodiscus	sp.			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Cylindrotheca	closterium			Chytridiomycota	"Chytrid""B"""			(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Detonula	pumila			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Detonula	pumila			Cercozoa	Pirsonia	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Eucampia	zodiacus			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Eucampia	zodiacus			Dinophyta	Paulsenella	kornmanii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Eucampia	zodiacus			Cercozoa	Pirsonia	eucampia		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Eucampia	zodiacus			Cercozoa	Pirsonia	formosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Eucampia	zodiacus			Cercozoa	Pirsonia	mucosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Eucampia	zodiacus			Cercozoa	Pirsonia	straint 99-2		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	delicatula			Cercozoa	Cryothecomonas	aestivalis		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	delicatula			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	delicatula			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	delicatula			Cercozoa	Pirsonia	formosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	delicatula			Cercozoa	Pirsonia	guinardiae		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	delicatula			Cercozoa	Pirsonia	mucosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	delicatula			Cercozoa	Pirsonia	verrucosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	delicatula			Ameobozoa	Rhizamoeba	schnepfii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	flaccida			Cercozoa	Cryothecomonas	aestivalis		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	flaccida			Cercozoa	Pirsonia	guinardiae		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	flaccida			Cercozoa	Pirsonia	formosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	flaccida			Cercozoa	Pirsonia	mucosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	flaccida			Ameobozoa	Rhizamoeba	schnepfii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	striata			Cercozoa	Pirsonia	formosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Guinardia	striata			Cercozoa	Cryothecomonas	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Helicotheca	tamesis			Chytridiomycota	"Chytrid""A"""			(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Helicotheca	tamesis			Dinophyta	Paulsenella	vonstoschii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Lauderia	annulata			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Lauderia	annulata			Cercozoa	Pirsonia	eucampiae		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Lauderia	annulata			Dinophyta	Paulsenella	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Leptocylindrus	danicus			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Leptocylindrus	danicus			Cercozoa	Pirsonia	eucampiae		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Leptocylindrus	danicus			Cercozoa	Pirsonia	formosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Leptocylindrus	danicus			Cercozoa	Pirsonia	mucosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Licmophora	spp.			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Lithodesmium	undulatum			Chytridiomycota	"Chytrid""A"""			(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Lithodesmium	undulatum			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Lithodesmium	undulatum			Dinophyta	Paulsenella	vonstoschii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Navicula 	sp.			Chytridiomycota	"Chytrid""B"""			(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Navicula 	sp.			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Navicula 	sp.			Oomycota	Ectrogella			(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Neostreptotheca	subindica			Dinophyta	Paulsenella	vonstoschii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Odontella	aurita			Dinophyta	Gyrodinium	undulans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Odontella	aurita			Euglenozoa	Hemistasia	phaeocysticola		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Odontella	sinensis			Ameobozoa	Amoeba	biddulphiae		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Odontella	sinensis			Chytridiomycota	"Chytrid""A"""			(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Odontella	sinensis			Cercozoa	Phagomyxa	odontellae		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Palmeria	hardmaniana			Oomycota	Lagenisma	coscinodiscii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Pleurosigma	sp.			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Porosira	glacialis			Oomycota	Ectrogella	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Pseudo-nitzschia	fraudulenta			Chytridiomycota	Olpidium	marinum		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Pseudo-nitzschia	pungens			Chytridiomycota	Olpidium	marinum		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Pseudo-nitzschia	sp.			Dinophyta	Diplopsalis	group		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Pseudo-nitzschia	sp.			Cercozoa	Cryothecomonas	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Pseudo-nitzschia	sp.			Chytridiomycota	Olpidium	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Pseudo-nitzschia	sp.			Chromalveolata	Parapedinella	reticulata		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Rhizosolenia	imbricata			Cercozoa	Pirsonia	formosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Rhizosolenia	imbricata			Cercozoa	Pirsonia	mucosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Rhizosolenia	pungens			Cercozoa	Pirsonia	formosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Rhizosolenia	setigera			Cercozoa	Pirsonia	formosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Rhizosolenia	setigera			Cercozoa	Pirsonia	lenis		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Rhizosolenia	similoides			Cercozoa	Pirsonia	formosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Skeletonema	costatum			Chytridiomycota	"Chytrid""B"""			(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Stephanopyxis	turris			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Stephanopyxis	turris			Cercozoa	Pirsonia	formosa		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Stephanopyxis	turris			Ameobozoa	Rhizamoeba	schnepfii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Striatella	unipunctata			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Synedra	sp.			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Thalassionema	hendeyi			Cercozoa	Pirsonia	punctigerae		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Thalassionema	minima			Oomycota	Ectrogella	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Thalassionema	pacifica			Chytridiomycota	Chytrid	sp.		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Thalassionema	punctigera			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Thalassionema	punctigera			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Thalassionema	punctigera			Cercozoa	Pirsonia	punctigerae		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Thalassionema	punctigera			Ameobozoa	Pseudaphelidium	drebesii		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Thalassionema	rotula			Chytridiomycota	Chytrid			(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Thalassionema	rotula			Cercozoa	Cryothecomonas	longipes		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Thalassionema	rotula			Oomycota	Ectrogella	perforans		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Thalassionema	rotula			Cercozoa	Pirsonia	punctigerae		(Kühn)		
+get parasitized by	FV_Skuhn		Bacillariophyta	Triceratium	alternans			Oomycota	Ectrogella	sp.		(Kühn)		
+epibiosis	FV_WebOfScience		Bacillariophyta					Plantae	Cladosphora	glomerata		(Torrisi et al.2006)	UT WOS:000240944900004	
+epibiosis	FV_WebOfScience		Bacillariophyta	Chaetoceros	compressus			Cyanobacteria	Richelia	intracellularis		(Gomez et al. 2005)	10.1093/plankt/fbi007	
+epibiosis	FV_WebOfScience		Bacillariophyta	Rhizosolenia	clevei			Cyanobacteria	Richelia	intracellularis		(Gomez et al. 2005)(Foster et al. 2011)	10.1093/plankt/fbi007	
+epibiosis	FV_WebOfScience		Bacillariophyta	Cocconeis	notata			Chromalveolata	Macrocystis	pyrifera		(Siqueiros et al.2001)	BCI200200293608	
+epibiosis	FV_WebOfScience		Bacillariophyta	Isthmia	nervosa			Rhodophyta	Odonthalia	floccosa		(Ruesink, 1998)	10.1046/j.1529-8817.1998.340029.x	
+epibiosis	FV_WebOfScience		Bacillariophyta					Plantae	Myriophyllum	spicatum		(Eminson, 1978)	WOS:A1978EW83200006	
+epibiosis	FV_WebOfScience		Bacillariophyta					Plantae	Posidonia	oceanica		(Maibam et al.2014)	10.1007/s00227-014-2448-0	
+epibiosis	FV_WebOfScience		Bacillariophyta					Plantae	Posidonia	oceanica		(Maibam et al.2014)	10.1007/s00227-014-2448-0	
+epibiosis	FV_WebOfScience		Bacillariophyta					Plantae	Posidonia	oceanica		(Maibam et al.2014)	10.1007/s00227-014-2448-0	
+epibiosis	FV_WebOfScience		Bacillariophyta	Diploneis	fenestrata			Trees				(Taylor et al. 2014)	WOS:000335443400004	
+endophytic	FV_WebOfScience		Bacillariophyta	Pseudogomphonema	sp			Rhodophyta	Neoabbottiella			(Klochkova et al. 2014)	CCC:000344067100001	
+epibiosis	FV_WebOfScience		Bacillariophyta	Cocconeis	ehrenberg			Plantae	Posidonia	oceanica		(Majewska et al.2014)	10.1016/j.aquabot.2013.07.008	
+epibiosis	FV_WebOfScience		Bacillariophyta	Cocconeis	neothumensis			Plantae	Posidonia	oceanica		(Majewska et al.2014)	10.1016/j.aquabot.2013.07.008	
+epibiosis	FV_WebOfScience		Bacillariophyta	Cocconeis	scutellum			Plantae	Posidonia	oceanica		(Majewska et al.2014)	10.1016/j.aquabot.2013.07.008	
+epibiosis	FV_WebOfScience		Bacillariophyta	Cocconeis	thalassiana			Plantae	Thalassia	testudinum		(Romero et al. 2014)	10.1080/0269249X.2013.797147	
+eatenBy	FV_WebOfScience		Bacillariophyta	Cocconeis	sp			Mollusca	Chiton	virgulatus		(Siqueiros et al.2012)	ZOOREC:ZOOR14910050143	
+eatenBy	FV_WebOfScience		Bacillariophyta	Amphora				Mollusca	Chiton	virgulatus		(Siqueiros et al.2012)	ZOOREC:ZOOR14910050143	
+eatenBy	FV_WebOfScience		Bacillariophyta	Nitzschia	frustulum			Mollusca	Chiton	virgulatus		(Siqueiros et al.2012)	ZOOREC:ZOOR14910050143	
+eatenBy	FV_WebOfScience		Bacillariophyta	Achnanthes	pseudogroenlandica			Mollusca	Chiton	virgulatus		(Siqueiros et al.2012)	ZOOREC:ZOOR14910050143	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Hemiaulus				Cyanobacteria	Richelia			(Hilton et al. 2013)(Foster et al. 2011)	10.1038/ncomms2748	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Chaetoceros				Cyanobacteria	Calothrix			(Hilton et al. 2013)	10.1038/ncomms2748	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Leptocylindrus	mediterraneus			MAST3	Solenicola	setigera		(Padmakumar et al.2012)	10.1007/s13199-012-0160-8	
+epibiosis	FV_WebOfScience		Bacillariophyta	Pseudohimantidium	pacificum			Copepoda	Farranula	gibbula		(Garate et al. 2009)	WOS:000267894300003	
+epibiosis	FV_WebOfScience		Bacillariophyta					Copepoda	Acartia			(Garate et al. 2009)	WOS:000267894300003	
+epibiosis	FV_WebOfScience		Bacillariophyta	Chaetoceros	coarctatum			Ciliate	Vorticella	oceanica		(Garate et al. 2009)(Lauder et al. 1996)	WOS:000267894300003	
+epibiosis	FV_WebOfScience		Bacillariophyta	Fragilariopsis	Doliolul			Ciliate	Vorticella	oceanica		(Garate et al. 2009)	WOS:000267894300003	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Hemiaulus	hauckii			Cyanobacteria	Richelia	intracellularis		(Foster et al. 2006)	10.1111/j.1462-2920.2006.01068.x	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Amphora				Cyanobacteria	Rivuaria			(Snoejis. 2004)	WOS:000224680700011	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Berkeleya				Cyanobacteria	Rivuaria			(Snoejis. 2004)	WOS:000224680700011	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Cymbella				Cyanobacteria	Rivuaria			(Snoejis. 2004)	WOS:000224680700011	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Entomoneis				Cyanobacteria	Rivuaria			(Snoejis. 2004)	WOS:000224680700011	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Epithemia				Cyanobacteria	Rivuaria			(Snoejis. 2004)	WOS:000224680700011	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Lunella				Cyanobacteria	Rivuaria			(Snoejis. 2004)	WOS:000224680700011	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Mastogloia				Cyanobacteria	Rivuaria			(Snoejis. 2004)	WOS:000224680700011	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Nitzschia				Cyanobacteria	Rivuaria			(Snoejis. 2004)	WOS:000224680700011	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Rhopalodia				Cyanobacteria	Rivuaria			(Snoejis. 2004)	WOS:000224680700011	
+epibiosis	FV_WebOfScience		Bacillariophyta	Navicula				Cyanobacteria	Phormidium			(Brehm et al. 2003)	WOS:000182459900006	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Epithemia	turgida			Cyanobacteria	EtSB			(Nakayama et al. 2014)	10.1073/pnas.1405222111	
+get parasitized by	FV_WebOfScience		Bacillariophyta	Asterionella	formosa			Chytrids				(Gsell et al. 2013)	10.1038/ismej.2013.73	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Rhizosolenia	hebetata			Cyanobacteria	Richelia	intracellularis		(Madhu et al. 2013)	WOS:000325596800006	
+mutualism	FV_WebOfScience		Bacillariophyta	Pseudo nitzschia				Bacteria				(Sison-Mangus et al.2014)	10.1038/ismej.2013.138	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta					Foraminifera	Amphistegina	radiata		(Schmidt et al. 2011)	10.4319/lo.2011.56.5.1587	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Nitzschia				Foraminifera	Heterostegina	depressa		(Schmidt et al. 2011)(Lee et al. 2013)(Hallock. 2008)	10.4319/lo.2011.56.5.1587	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta					Foraminifera	Calcarina	hispada		(Schmidt et al. 2011)	10.4319/lo.2011.56.5.1587	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Skeletonema				Dinoflagellates	Peridiniopsis	kevei		(Takano et al. 2008)	10.2216/07-36.1	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Skeletonema				Dinoflagellates	Peridiniopsis	penardii		(Takano et al. 2008)	10.2216/07-36.1	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Nitzschia				Dinoflagellates				(Takano et al. 2008)	10.2216/07-36.1	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Thalassionema				Nummulitidae				(Holzmann et al. 2006)	WOS:000243459500005	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Diadesmis				Ascomycota	Coenogonium	linkii		(Lakatos et al. 2004)	10.1111/j.0022-3646.2004.02-205.x	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Eunotia				Ascomycota	Coenogonium	linkii		(Lakatos et al. 2004)	10.1111/j.0022-3646.2004.02-205.x	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Hantzschia				Ascomycota	Coenogonium	linkii		(Lakatos et al. 2004)	10.1111/j.0022-3646.2004.02-205.x	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Luticola				Ascomycota	Coenogonium	linkii		(Lakatos et al. 2004)	10.1111/j.0022-3646.2004.02-205.x	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Melosira				Ascomycota	Coenogonium	linkii		(Lakatos et al. 2004)	10.1111/j.0022-3646.2004.02-205.x	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Nitzschia				Ascomycota	Coenogonium	linkii		(Lakatos et al. 2004)	10.1111/j.0022-3646.2004.02-205.x	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Orthoseira				Ascomycota	Coenogonium	linkii		(Lakatos et al. 2004)	10.1111/j.0022-3646.2004.02-205.x	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Pinnularia				Ascomycota	Coenogonium	linkii		(Lakatos et al. 2004)	10.1111/j.0022-3646.2004.02-205.x	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Stauroneis				Ascomycota	Coenogonium	linkii		(Lakatos et al. 2004)	10.1111/j.0022-3646.2004.02-205.x	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Pennate				Dinoflagellates	Peridinium	balticum		(Inagaki et al. 2000)	WOS:000166156700015	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta					Dinoflagellates	Peridinium	foliaceum		(Inagaki et al. 2000)	WOS:000166156700015	
+epibiosis	FV_WebOfScience		Bacillariophyta	Didymosphenia	geminata			Mustelidae	Neovison	vison		(Bus et al. 2014)	10.1080/0269249X.2014.890957	
+epibiosis	FV_WebOfScience		Bacillariophyta	Navicula				Mustelidae	Neovison	vison		(Bus et al. 2014)	10.1080/0269249X.2014.890957	
+epibiosis	FV_WebOfScience		Bacillariophyta	Epithemia				Mustelidae	Neovison	vison		(Bus et al. 2014)	10.1080/0269249X.2014.890957	
+epibiosis	FV_WebOfScience		Bacillariophyta	Fragilaria				Mustelidae	Neovison	vison		(Bus et al. 2014)	10.1080/0269249X.2014.890957	
+epibiosis	FV_WebOfScience		Bacillariophyta	Placoneis				Mustelidae	Neovison	vison		(Bus et al. 2014)	10.1080/0269249X.2014.890957	
+epibiosis	FV_WebOfScience		Bacillariophyta	Pseudohimantidium	pacificum			Copepoda	Corycaeus	amazonicus		(Fernandes et al. 2012)	WOS:000313473600012	
+epibiosis	FV_WebOfScience		Bacillariophyta	Pseudohimantidium	pacificum			Copepoda	Euterpina	acutifrons		(Fernandes et al. 2012)	WOS:000313473600012	
+epibiosis	FV_WebOfScience		Bacillariophyta	Falcula	hyalina			Copepoda	Oithona	oswaldocruzii		(Fernandes et al. 2012)	WOS:000313473600012	
+epibiosis	FV_WebOfScience		Bacillariophyta	Falcula	hyalina			Copepoda	Pseudodiaptomus	richardii		(Fernandes et al. 2012)	WOS:000313473600012	
+epibiosis	FV_WebOfScience		Bacillariophyta	Falcula	hyalina			Acartia	Acartia	spp		(Fernandes et al. 2012)	WOS:000313473600012	
+epibiosis	FV_WebOfScience		Bacillariophyta	Luticola	deniseae			Sauropsida	Podocnemis	erthrocephala		(Wetzel et al. 2010)	UT WOS:000288778300001	
+epibiosis	FV_WebOfScience		Bacillariophyta	Licmophora				Hydroids	Eudendrium	racemosum		(Di Camillo et al. 2005)	10.1017/S0025315405012555	
+epibiosis	FV_WebOfScience		Bacillariophyta	Amphora				Hydroids	Eudendrium	racemosum		(Di Camillo et al. 2005)	10.1017/S0025315405012555	
+epibiosis	FV_WebOfScience		Bacillariophyta	Cocconeis				Hydroids	Eudendrium	racemosum		(Di Camillo et al. 2005)	10.1017/S0025315405012555	
+epibiosis	FV_WebOfScience		Bacillariophyta	Cocconeis	pseudonotata			Hydroids	Campanularia	hincksii		(Di Camillo et al. 2005)	10.1017/S0025315405012555	
+epibiosis	FV_WebOfScience		Bacillariophyta	Cocconeis	pseudonotata			Hydroids	Clytia	linearis		(Di Camillo et al. 2005)	10.1017/S0025315405012555	
+epibiosis	FV_WebOfScience		Bacillariophyta	Cocconeis	pseudonotata			Hydrozoa	Synthecium	evansi		(Di Camillo et al. 2005)	10.1017/S0025315405012555	
+epibiosis	FV_WebOfScience		Bacillariophyta	Cocconeis	placentula			Gasteropoda	Hydrobia	ulvae		(Gillan et al. 2000)	10.1016/S1385-1101(99)00041-6	
+epibiosis	FV_WebOfScience		Bacillariophyta	Achnanthes	lemmermanni			Gasteropoda	Hydrobia	ulvae		(Gillan et al. 2000)	10.1016/S1385-1101(99)00041-6	
+epibiosis	FV_WebOfScience		Bacillariophyta	Cocconeis	placentula			Bacteria	Pleurocapsales			(Gillan et al. 2000)	10.1016/S1385-1101(99)00041-6	
+epibiosis	FV_WebOfScience		Bacillariophyta	Achnanthes	lemmermanni			Bacteria	Stigonematales			(Gillan et al. 2000)	10.1016/S1385-1101(99)00041-6	
+epibiosis	FV_WebOfScience		Bacillariophyta	Chaetoceros	coarctatum			Ciliate	Vorticella	oceanica		(Nagasawa et al. 1996)	10.1007/BF00028504	
+epibiosis	FV_WebOfScience		Bacillariophyta	Synedra	cyclopum			Cladocera	Daphnia			(Gaiser et al. 1993)	WOS:A1993LK31400014	
+eatenBy	FV_WebOfScience		Bacillariophyta	Actinoptychus	senarius			Copepoda	Temora	longicornis		(Friedrichs et al. 2013)	10.3354/meps10227	
+eatenBy	FV_WebOfScience		Bacillariophyta	Actinoptychus	senarius			Copepoda	Centropages	hamatus		(Friedrichs et al. 2013)	10.3354/meps10227	
+eatenBy	FV_WebOfScience		Bacillariophyta	Actinoptychus	senarius			Copepoda	Acartia	clausi		(Friedrichs et al. 2013)	10.3354/meps10227	
+eatenBy	FV_WebOfScience		Bacillariophyta	Thalassiosira	punctigera			Copepoda	Temora	longicornis		(Friedrichs et al. 2013)	10.3354/meps10227	
+eatenBy	FV_WebOfScience		Bacillariophyta	Thalassiosira	punctigera			Copepoda	Centropages	hamatus		(Friedrichs et al. 2013)	10.3354/meps10227	
+eatenBy	FV_WebOfScience		Bacillariophyta	Thalassiosira	punctigera			Copepoda	Acartia	clausi		(Friedrichs et al. 2013)	10.3354/meps10227	
+eatenBy	FV_WebOfScience		Bacillariophyta	Coscinodiscus	wailesii			Copepoda	Temora	longicornis		(Friedrichs et al. 2013)	10.3354/meps10227	
+eatenBy	FV_WebOfScience		Bacillariophyta	Coscinodiscus	wailesii			Copepoda	Centropages	hamatus		(Friedrichs et al. 2013)	10.3354/meps10227	
+eatenBy	FV_WebOfScience		Bacillariophyta	Coscinodiscus	wailesii			Copepoda	Acartia	clausi		(Friedrichs et al. 2013)	10.3354/meps10227	
+competes with	FV_WebOfScience		Bacillariophyta					Echinodermata	Paracentrotus	lividus		(Marrone et al. 2012)	10.1371/journal.pone.0031750	
+competes with	FV_WebOfScience		Bacillariophyta	Stephanodiscus	minutulus			Bacillariophyta	Nitzschia	acicularis		(Shatwell et al. 2014)	10.1371/journal.pone.0102367	
+competes with	FV_WebOfScience		Bacillariophyta					Haptophyta	Phaeocystis	pouchetii		(Jiang et al. 2014)	10.1016/j.jmarsys.2014.02.011	
+competes with	FV_WebOfScience		Bacillariophyta	Cyclotella				Cyanobacteria	Microcystis	aeruginosa		(Amano et al. 2012)	10.1007/s10811-011-9718-8	
+competes with	FV_WebOfScience		Bacillariophyta					Cyanobacteria	Chroococcus	dimidiatus		(Scholz et al. 2012)	10.2216/11-80.1	
+competes with	FV_WebOfScience		Bacillariophyta					Cyanobacteria	Anabaena	torulosa		(Scholz et al. 2012)	10.2216/11-80.1	
+competes with	FV_WebOfScience		Bacillariophyta	Skeletonema	costatum			Dinoflagellates	Prorocentrum	donghaiense		(Wang et al. 2013)	10.1093/plankt/fbs098	
+eatenBy	FV_WebOfScience		Bacillariophyta	Chaetoceros				Dinoflagellates	Noctiluca	scintillans		(Suzuki et al. 2013	BCI:BCI201400120214	
+eatenBy	FV_WebOfScience		Bacillariophyta	Bacteriastrum				Dinoflagellates	Noctiluca	scintillans		(Suzuki et al. 2013	BCI:BCI201400120214	
+eatenBy	FV_WebOfScience		Bacillariophyta					Amphipod	Corophium	volutator		(Smith et al. 1996)	10.3354/meps145053	
+eatenBy	FV_WebOfScience		Bacillariophyta					Polychaete	Nereis 	diversicolor		(Smith et al. 1996)	10.3354/meps145053	
+eatenBy	FV_WebOfScience		Bacillariophyta	Skeletonema	marinoi			Copepoda	Acartia	tonsa		(Bergkvist et al. 2012)	10.4319/lo.2012.57.1.0318	
+eatenBy	FV_WebOfScience		Bacillariophyta	Skeletonema	marinoi			Copepoda	Centropages	hamatus		(Bergkvist et al. 2012)	10.4319/lo.2012.57.1.0318	
+eatenBy	FV_WebOfScience		Bacillariophyta	Skeletonema	marinoi			Copepoda	Temora	longicornis		(Bergkvist et al. 2012)	10.4319/lo.2012.57.1.0318	
+lives in symbiosis with	FV_WebOfScience		Bacillariophyta	Chaetoceros	neogracile			Haptophyta	Pavlova	lutheri		(Yamasaki et al. 2013)	WOS:000326993200015	
+competes with	FV_WebOfScience		Bacillariophyta	Skeletonema	costatum			Halophyta	Sesuvium	portulacastrum		(Jiang et al. 2012)	WOS:000302462600011	
+mutualism	FV_WebOfScience		Bacillariophyta	Skeletonema	costatum			Bacillariophyta	Thalassiosira	weissflogii		(Paul et al. 2009)	10.3354/meps08162	
+eatenBy	FV_PubMedQuery		Bacillariophyta	Conticriba	weissflogii			Corals	Pavona 	cactus		(Leal et al. 2014)	10.1111/mec.12486	
+eatenBy	FV_PubMedQuery		Bacillariophyta	Thalassiosira	pseudonana			Corals	Oculina	arbuscula		(Leal et al. 2014)	10.1111/mec.12486	
+kleptoplastidy	FV_PubMedQuery		Bacillariophyta					Foraminifera	Elphidium			(Pillet et al.2013)	10.1093/molbev/mss226	
+epibiosis	FV_PubMedQuery		Bacillariophyta	Licmophora				Corals	Montipora			(Yamashiro et al. 2012)	 10.1038/srep00552	
+epibiosis	FV_PubMedQuery		Bacillariophyta	Climacosphenia				Corals	Montipora			(Yamashiro et al. 2012)	 10.1038/srep00552	
+epibiosis	FV_PubMedQuery		Bacillariophyta	Ardissonea				Corals	Montipora			(Yamashiro et al. 2012)	 10.1038/srep00552	
+epibiosis	FV_PubMedQuery		Bacillariophyta	Amphora				Corals	Siderastrea	stellata		(Lin de Barros et al.  2013)	10.1007/s00248-012-0095-x	
+epibiosis	FV_PubMedQuery		Bacillariophyta	Nitzschia				Corals	Siderastrea	stellata		(Lin de Barros et al.  2013)	10.1007/s00248-012-0095-x	
+competes with	FV_PubMedQuery		Bacillariophyta	Asterionellopsis 	glacialis			Dinoflagellates	Karenia	brevis		(Poulson et al. 2014)	10.1073/pnas.1402130111	
+competes with	FV_PubMedQuery		Bacillariophyta	Thalassiosira	pseudonana			Dinoflagellates	Karenia	brevis		(Poulson et al. 2014)	10.1073/pnas.1402130111	
+eatenBy	FV_PubMedQuery		Bacillariophyta					Copepoda	Diporeia	spp.		(Maity et al. 2013)	10.1086/669132	
+competes with	FV_PubMedQuery		Bacillariophyta	Skeletonema	costatum			Halophyta	Salicornia	europaea		(Jiang et al. 2012)	 doi: 10.1007/s11427-012-4328-5	
+competes with	FV_PubMedQuery		Bacillariophyta	Skeletonema	costatum			Dinoflagellates	Prorocentrum	minimum		(Hu et al. 2011)	PMID: 21793409  [PubMed - indexed for MEDLINE]	
+competes with	FV_PubMedQuery		Bacillariophyta	Skeletonema	costatum			Dinoflagellates	Alexandrirum	tamarense		(Hu et al. 2011)	PMID: 21793409  [PubMed - indexed for MEDLINE]	
+get parasitized by	FV_PubMedQuery		Bacillariophyta					Phytomyxea					PMID: 22319023  [PubMed]	
+eatenBy	FV_PubMedQuery		Bacillariophyta					Corals	Carijoa	riisei		(Gomes et al. 2012)	PMID: 22441605  [PubMed - indexed for MEDLINE]	
+eatenBy	FV_PubMedQuery		Bacillariophyta					Dinoflagellates	Luciella	masanensis		(Jeong et al. 2007)	PMID: 17552978  [PubMed - indexed for MEDLINE]	
+epibiosis	FV_PubMedQuery		Bacillariophyta					Plantae	Ruppia	cirrhosa		(Dhib et al. 2013)	10.1016/j.marpolbul.2013.09.017	
+competes with	FV_PubMedQuery		Bacillariophyta					Haptophyta	Prymnesium 	parvum		(Driscoll et al. 2013)	doi: 10.1111/evo.12030	
+competes with	FV_PubMedQuery		Bacillariophyta	Skeletonema	costatum			Bacteria	Marinobacter	adhaerens		(Huan et al. 2013)	PMID: 23487930  [PubMed - indexed for MEDLINE]	
+mutualism	FV_PubMedQuery		Bacillariophyta	Phaeodactylum	tricornutum			Haptophyta	Emiliana 	huxleyi		(Vasconcelos et al. 2008)	doi: 10.1016/j.marenvres.2008.07.002	
+mutualism	FV_PubMedQuery		Bacillariophyta	Phaeodactylum	tricornutum			Rhodophyta	Porphyra			(Vasconcelos et al. 2008)	doi: 10.1016/j.marenvres.2008.07.002	
+epibiosis	FV_PubMedQuery		Bacillariophyta	Pseudo-nitzschia	multiseries			Bacteria	Sulfitobacter	pseudonitzschiae		(Hong et al. 2014)	10.1099/ijs.0.064972-0	
+allelopathy	FV_PubMedQuery		Bacillariophyta	Skeletonema	marinoi			Copepoda	Calanus	sinicus		(Lauritano et al.2015)	10.1016/j.margen.2015.01.007	
+allelopathy	FV_PubMedQuery		Bacillariophyta	Pseudo-nitzschia	seriata			Copepoda	Calanus	hyperboreus		(Tammilehto et al. 2015)	 10.1016/j.aquatox.2014.11.026.	
+allelopathy	FV_PubMedQuery		Bacillariophyta	Pseudo-nitzschia	seriata			Copepoda	Calanus	finmarchicus		(Tammilehto et al. 2015)	 10.1016/j.aquatox.2014.11.026.	
+epibiosis	FV_DB		Bacillariophyta					Haptophyta	Coccolithophores					
+epibiosis	FV_DB		Bacillariophyta	Leptocylindrus				MAST3	Solenicola	setigera		(Gomez .2007)	10.1007/s00227-007-0625-0	
+allelopathy	FV_DB		Bacillariophyta	Skeletonema				Dinoflagellates	Karlodinium			(Naik et al. 2010)	http://drs.nio.org/drs/handle/2264/3738	
+competes with	FV_DB		Bacillariophyta	Thalassiosira				Dinoflagellates	Alexandrirum			(Lyczkowski . 2014)	10.1111/jpy.12172	
+competes with	FV_DB		Bacillariophyta	Odontella				Dinoflagellates	Karenia			(Kitchen et al. 2010)		
+eatenBy	FV_DB		Bacillariophyta	Actinocyclus				Copepoda	Calanoida			(Pasternak et al. 1995)		
+get parasitized by	FV_DB		Bacillariophyta					MALV				(Guillou 2010)		
+competes with	FV_DB		Bacillariophyta	Skeletonema				Dinoflagellates	Prorocentrum			(Wang et al. 2012)	10.1093/plankt/fbs098	
+eatenBy	FV_DB		Bacillariophyta					Copepoda				(Ban 1997)		

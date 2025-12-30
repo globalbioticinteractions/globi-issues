@@ -1,0 +1,18 @@
+2016-12-22 22:19:18,190 [main] INFO  org.eol.globi.data.StudyImporterForGitHubData - importing github repo [millerse/Dapstrom-in
+tegrated-database-and-portal-for-fish-stomach-records]...
+2016-12-22 22:19:18,349 [main] INFO  org.eol.globi.util.ResourceUtil - caching of [https://github.com/millerse/Dapstrom-integrat
+ed-database-and-portal-for-fish-stomach-records/archive/b63289089e7cf512ddaacd14b0cad024417475ff.zip] started...
+2016-12-22 22:19:18,598 [main] INFO  org.eol.globi.util.ResourceUtil - caching of [https://github.com/millerse/Dapstrom-integrat
+ed-database-and-portal-for-fish-stomach-records/archive/b63289089e7cf512ddaacd14b0cad024417475ff.zip] complete.
+2016-12-22 22:19:18,598 [main] INFO  org.eol.globi.service.DatasetFinderCaching - caching [https://github.com/millerse/Dapstrom-
+integrated-database-and-portal-for-fish-stomach-records/archive/b63289089e7cf512ddaacd14b0cad024417475ff.zip] at [file:/home/jhp
+oelen/eol-globi-data/eol-globi-datasets/target/data/target/cache/datasets/millerse/Dapstrom-integrated-database-and-portal-for-f
+ish-stomach-records/archive.zip] started...
+2016-12-22 22:19:18,598 [main] INFO  org.eol.globi.service.DatasetFinderCaching - caching [https://github.com/millerse/Dapstrom-
+integrated-database-and-portal-for-fish-stomach-records/archive/b63289089e7cf512ddaacd14b0cad024417475ff.zip] at
+ [file:/home/jhpoelen/eol-globi-data/eol-globi-datasets/target/data/target/cache/datasets/millerse/Dapstrom-integrated-database-and-portal-for-fish-stomach-records/archive.zip] complete.
+2016-12-22 22:19:18,600 [main] INFO  org.eol.globi.util.ResourceUtil - caching of [https://github.com/millerse/Dapstrom-integrated-database-and-portal-for-fish-stomach-records/archive/b63289089e7cf512ddaacd14b0cad024417475ff.zip/schema.json] started...
+2016-12-22 22:19:18,713 [main] ERROR org.eol.globi.data.StudyImporterForGitHubData - failed to import data from repo [millerse/Dapstrom-integrated-database-and-portal-for-fish-stomach-records]
+org.eol.globi.data.StudyImporterException: problem importing from [https://github.com/millerse/Dapstrom-integrated-database-and-portal-for-fish-stomach-records/archive/b63289089e7cf512ddaacd14b0cad024417475ff.zip]
+        at org.eol.globi.data.StudyImporterForMetaTable.importStudy(StudyImporterForMetaTable.java:71)
+        at org.eol.globi.data.StudyImporterForGitHubData.

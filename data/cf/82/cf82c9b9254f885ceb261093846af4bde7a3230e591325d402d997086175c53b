@@ -1,0 +1,203 @@
+date,time,region,location,reef,depth,genus,species,replicate,prey,bites
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,1,Acropora latistella,1
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,1,Acropora austera,34
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,1,Montipora aequituberculata,3
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,1,Pocillopora damicornis,9
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,1,Seriatopora hystrix,2
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,1,Montipora efflorescens,1
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,1,Pocillopora verrucosa,5
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,2,Acropora latistella,25
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,2,Acropora austera,23
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,2,Acropora muricata,9
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,2,fungiid,2
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,3,Montipora efflorescens,1
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,3,Montipora crassituberculata,13
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,3,Acropora austera,2
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,3,Acropora hyacinthus,4
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,3,Pocillopora verrucosa,1
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,3,Montipora aequituberculata,3
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,baronessa,3,Montipora turtlensis,1
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,1,Montipora crassituberculata,10
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,1,Montipora aequituberculata,62
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,1,Porites lutea,1
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,1,Montipora turgescens,2
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,1,Montipora efflorescens,3
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,2,Pavona minuta,1
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,2,Pocillopora damicornis,9
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,2,Pavona varians,6
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,2,Seriatopora hystrix,2
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,2,Pavona venosa,3
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,3,Porites lutea,5
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,3,Montipora aequituberculata,8
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,3,Montipora efflorescens,3
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,3,Pavona venosa,3
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,3,Stylophora pistillata,5
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,3,Acropora muricata,2
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,3,Pocillopora verrucosa,1
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,3,Montipora sp,4
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,lunulatus,3,Acropora austera,3
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,trifascialis,1,Acropora austera,42
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,trifascialis,1,Acropora latistella,7
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,trifascialis,2,Acropora latistella,12
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,trifascialis,2,Acropora austera,25
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,trifascialis,2,Acropora nana,4
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,trifascialis,2,Montipora aequituberculata,2
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,trifascialis,3,Montipora crassituberculata,15
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,trifascialis,3,Acropora muricata,25
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,trifascialis,3,Montipora aequituberculata,8
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,trifascialis,3,Montipora informis,3
+18/10/2016,14.3,Philippines,Luzon,Batok,2,Chaetodon,trifascialis,3,Pocillopora verrucosa,1
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,adiergastus,1,nothing,0
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,1,Porites lutea,2
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,1,Acropora digitifera,2
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,1,Anemone,8
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,1,turf,1
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,2,Fungia scutaria,4
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,2,Fungia repanda,3
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,2,Anemone,3
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,2,turf,1
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,3,Anemone,7
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,3,Fungia fungites,1
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,3,Porites lutea,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,4,Porites lutea,7
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,4,Anemone,12
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,4,turf,2
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,5,Anemone,10
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,5,fungiid,3
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,6,Platygyra pini,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,6,Anemone,17
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,6,Goniastrea retiformis,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,7,Acropora hyacinthus,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,7,Porites lutea,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,7,Anemone,6
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,7,Montipora informis,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,8,Acropora hyacinthus,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,8,Anemone,5
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,9,Acropora gemmifera,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,9,Anemone,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,9,Acropora muricata,4
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,9,Cyanobacteria,12
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,10,Anemone,9
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,10,turf,2
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,11,Anemone,5
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,12,Porites lutea,7
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,12,Anemone,1
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,13,Anemone,20
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,13,Cyphastrea serailia,1
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,13,turf,4
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,13,Porites lutea,1
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,13,Acropora loripes,5
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,14,Favites halicora,1
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,14,Anemone,15
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,15,Anemone,17
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,baronessa,15,Acropora hyacinthus,16
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,lunula,1,Anemone,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,lunula,x,nothing,0
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,lunula,y,nothing,0
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,1,Porites cylindrica,7
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,1,Porites nigrescens,2
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,1,Favites abdita,8
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,1,Pavona venosa,3
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,1,Anemone,6
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,1,Goniastrea retiformis,2
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,1,Porites lutea,1
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,1,Acropora loripes,1
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,2,Porites lutea,16
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,2,turf,2
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,3,Porites lutea,7
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,3,Anemone,17
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,3,Porites nigrescens,4
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,4,Porites nigrescens,22
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,4,Anemone,6
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,4,turf,4
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,4,Porites lutea,9
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,4,Ctenactis echinata,1
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,5,Porites lutea,9
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,5,Fungia repanda,2
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,5,Porites nigrescens,5
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,5,Porites cylindrica,16
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,5,Pavona varians,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,6,Porites lutea,2
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,6,Pavona decussata,4
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,6,Pocillopora damicornis,4
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,6,Goniastrea edwardsi,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,7,Anemone,9
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,7,Porites lutea,2
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,8,Porites lutea,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,8,Anemone,21
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,9,Porites lutea,3
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,9,Fungia fungites,9
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,9,Anemone,13
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,9,turf,1
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,9,Pocillopora verrucosa,1
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,10,Pavona decussata,2
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,10,turf,2
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,10,Anemone,2
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,10,Porites cylindrica,7
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,10,Pavona venosa,1
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,10,Porites nigrescens,8
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,10,Porites rus,2
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,11,Porites lutea,10
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,11,Montipora stellata,1
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,11,Porites nigrescens,2
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,11,Pavona venosa,2
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,lunulatus,11,Porites cylindrica,4
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,melanotus,1,Zenia,8
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,ornatissimus,1,Porites lutea,25
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,ornatissimus,1,Favites halicora,10
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,ornatissimus,1,Pachyseris speciosa,5
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,ornatissimus,1,Acropora acuminata,4
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,oxycephalus,1,nothing,0
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,punctatofasciatus,1,Merulina scabricula,8
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,punctatofasciatus,1,Leptastrea purpurea,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,punctatofasciatus,1,Pavona varians,4
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,punctatofasciatus,1,Lobophyllia recta,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,punctatofasciatus,1,Favites pentagona,5
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,punctatofasciatus,1,Goniastrea pectinata,6
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,punctatofasciatus,1,Platygyra pini,5
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,punctatofasciatus,1,Pavona venosa,3
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,punctatofasciatus,1,Favites halicora,5
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,punctatofasciatus,1,Porites lutea,1
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,punctatofasciatus,1,turf,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,punctatofasciatus,1,Halomitra pileus,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,18,Chaetodon,punctatofasciatus,2,Oxypora lacera,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,18,Chaetodon,punctatofasciatus,2,Oxypora glabra,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,18,Chaetodon,punctatofasciatus,2,Mycedium robokaki,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,18,Chaetodon,punctatofasciatus,2,Platygyra sinensis,1
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,18,Chaetodon,punctatofasciatus,2,Pachyseris speciosa,1
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,18,Chaetodon,punctatofasciatus,2,Dipsastreae favus,1
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,18,Chaetodon,punctatofasciatus,2,Porites rus,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,18,Chaetodon,punctatofasciatus,2,Montipora danae,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,18,Chaetodon,punctatofasciatus,2,Leptastrea purpurea,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,18,Chaetodon,punctatofasciatus,2,Pavona venosa,2
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,rafflesi,1,turf,6
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,rafflesi,1,Anemone,1
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,rafflesi,1,Echinophyllia aspera,1
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,rafflesi,2,Turbinaria stellulata,1
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,rafflesi,2,unknown,1
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,rafflesi,2,Porites rus,1
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,rafflesi,2,Turf,3
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,rafflesi,3,turf,17
+16/10/2016,13,Philippines,Luzon,Dive 7000,2,Chaetodon,rafflesi,3,Anemone,5
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,rafflesi,4,nothing,0
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,rafflesi,5,Pavona venosa,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,trifascialis,1,Acropora gemmifera,2
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,trifascialis,1,Anemone,20
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,trifascialis,1,Pavona venosa,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,trifascialis,1,Montipora informis,1
+17/10/2016,14,Philippines,Luzon,Dive 7000,2,Chaetodon,trifascialis,1,Acropora hyacinthus,7
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,trifascialis,2,Acropora hyacinthus,13
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,trifascialis,2,Porites annae,1
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,trifascialis,2,Anemone,8
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,trifascialis,3,Anemone,2
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,trifascialis,3,turf,1
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,trifascialis,3,Acropora hyacinthus,37
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,trifascialis,4,Acropora indonesia,42
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,trifascialis,4,Acropora striata,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,trifascialis,4,Acropora acuminata,21
+17/10/2016,15.1,Philippines,Luzon,Dive 7000,2,Chaetodon,unimaculatus,1,Anemone,22
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,xanthurus,1,CCA,1
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,xanthurus,1,sponge,2
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,xanthurus,1,turf,3
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,xanthurus,1,Goniopora tenuidens,1
+20/10/2016,13.2,Philippines,Luzon,Dive 7000,10,Chaetodon,xanthurus,1,Fungia fungites,2

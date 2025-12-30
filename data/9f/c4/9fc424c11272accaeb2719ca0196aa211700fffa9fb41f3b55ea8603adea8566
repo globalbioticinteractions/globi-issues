@@ -1,0 +1,3829 @@
+{
+    "columns": [
+        "interaction_type",
+        "target_taxon_name",
+        "target_taxon_external_id"
+    ],
+    "data": [
+        [
+            "hasHost",
+            "Macaca mulatta",
+            "EOL:327960"
+        ],
+        [
+            "parasiteOf",
+            "Macaca sinica",
+            "EOL:323958"
+        ],
+        [
+            "parasiteOf",
+            "Macaca radiata",
+            "EOL:323956"
+        ],
+        [
+            "parasiteOf",
+            "Macaca sinica",
+            "EOL:323958"
+        ],
+        [
+            "parasiteOf",
+            "Macaca radiata",
+            "EOL:323956"
+        ],
+        [
+            "hasHost",
+            "Macaca mulatta",
+            "EOL:327960"
+        ],
+        [
+            "parasiteOf",
+            "no binomial name",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus weddelli",
+            "GBIF:8242404"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus bernhardi",
+            "GBIF:2436395"
+        ],
+        [
+            "parasiteOf",
+            "Mico melanurus",
+            "GBIF:5786462"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus cinerascens",
+            "GBIF:2436390"
+        ],
+        [
+            "parasiteOf",
+            "Lagothrix lagothricha cana",
+            "GBIF:5786086"
+        ],
+        [
+            "parasiteOf",
+            "Cebuella pygmaea",
+            "ITIS:944123"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta fusca",
+            "EOL:323918"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri ustus",
+            "EOL:323912"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia irrorata",
+            "EOL:127115"
+        ],
+        [
+            "parasiteOf",
+            "no binomial name",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Mico melanurus",
+            "GBIF:5786462"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus weddelli",
+            "GBIF:8242404"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus bernhardi",
+            "GBIF:2436395"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta",
+            "GBIF:2436647"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia pithecia",
+            "EOL:1010797"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta seniculus",
+            "EOL:323922"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus midas",
+            "EOL:323905"
+        ],
+        [
+            "parasiteOf",
+            "Cebus albifrons",
+            "EOL:323942"
+        ],
+        [
+            "parasiteOf",
+            "Anopheles",
+            "EOL:54865"
+        ],
+        [
+            "parasiteOf",
+            "Anopheles annulipes",
+            "EOL:766149"
+        ],
+        [
+            "parasiteOf",
+            "Anopheles farauti",
+            "GBIF:10169506"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri ustus",
+            "EOL:323912"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia irrorata",
+            "EOL:127115"
+        ],
+        [
+            "parasiteOf",
+            "Chiropotes albinasus",
+            "GBIF:5219526"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus brunneus",
+            "GBIF:2436401"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus cinerascens",
+            "GBIF:2436390"
+        ],
+        [
+            "parasiteOf",
+            "Lagothrix lagothricha cana",
+            "GBIF:5786086"
+        ],
+        [
+            "parasiteOf",
+            "Cebuella pygmaea",
+            "ITIS:944123"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta fusca",
+            "EOL:323918"
+        ],
+        [
+            "parasiteOf",
+            "Homo sapiens",
+            "GBIF:2436436"
+        ],
+        [
+            "parasiteOf",
+            "Callithrix jacchus",
+            "EOL:323890"
+        ],
+        [
+            "parasiteOf",
+            "Aotus azarae",
+            "GBIF:5707409"
+        ],
+        [
+            "parasiteOf",
+            "Cebus apella",
+            "EOL_V2:323943"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus labiatus",
+            "EOL:323903"
+        ],
+        [
+            "parasiteOf",
+            "Gorilla gorilla",
+            "EOL:326447"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta caraya",
+            "EOL:323915"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri sciureus",
+            "EOL:327956"
+        ],
+        [
+            "parasiteOf",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "parasiteOf",
+            "Chiropotes albinasus",
+            "GBIF:5219526"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus brunneus",
+            "GBIF:2436401"
+        ],
+        [
+            "parasiteOf",
+            "Cebus albifrons",
+            "EOL:323942"
+        ],
+        [
+            "parasiteOf",
+            "Anopheles annulipes",
+            "EOL:766149"
+        ],
+        [
+            "parasiteOf",
+            "Anopheles",
+            "EOL:54865"
+        ],
+        [
+            "parasiteOf",
+            "Anopheles farauti",
+            "GBIF:10169506"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta",
+            "GBIF:2436647"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia pithecia",
+            "EOL:1010797"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta seniculus",
+            "EOL:323922"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus midas",
+            "EOL:323905"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta caraya",
+            "EOL:323915"
+        ],
+        [
+            "parasiteOf",
+            "Gorilla gorilla",
+            "EOL:326447"
+        ],
+        [
+            "parasiteOf",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri sciureus",
+            "EOL:327956"
+        ],
+        [
+            "parasiteOf",
+            "Aotus azarae",
+            "GBIF:5707409"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus labiatus",
+            "EOL:323903"
+        ],
+        [
+            "parasiteOf",
+            "Callithrix jacchus",
+            "EOL:323890"
+        ],
+        [
+            "parasiteOf",
+            "Cebus apella",
+            "EOL_V2:323943"
+        ],
+        [
+            "parasiteOf",
+            "Homo sapiens",
+            "GBIF:2436436"
+        ],
+        [
+            "hasHost",
+            "Pongo abelii",
+            "EOL:2925671"
+        ],
+        [
+            "hasHost",
+            "Homo sapiens",
+            "EOL:327955"
+        ],
+        [
+            "hasHost",
+            "Pongo pygmaeus",
+            "EOL:326450"
+        ],
+        [
+            "hasHost",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "hasHost",
+            "Homo sapiens",
+            "GBIF:2436436"
+        ],
+        [
+            "hasHost",
+            "Homo sapiens",
+            "EOL:327955"
+        ],
+        [
+            "hasHost",
+            "Pongo abelii",
+            "EOL:2925671"
+        ],
+        [
+            "hasHost",
+            "Pongo pygmaeus",
+            "EOL:326450"
+        ],
+        [
+            "hasHost",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "hasHost",
+            "Homo sapiens",
+            "GBIF:2436436"
+        ],
+        [
+            "pathogenOf",
+            "Anopheles atroparvus",
+            "EOL:765475"
+        ],
+        [
+            "pathogenOf",
+            "Anopheles quadrimaculatus",
+            "EOL:740805"
+        ],
+        [
+            "pathogenOf",
+            "Anopheles atroparvus",
+            "EOL:765475"
+        ],
+        [
+            "pathogenOf",
+            "Anopheles quadrimaculatus",
+            "EOL:740805"
+        ],
+        [
+            "parasiteOf",
+            "Macaca sinica",
+            "EOL:323958"
+        ],
+        [
+            "parasiteOf",
+            "Macaca sinica",
+            "EOL:323958"
+        ],
+        [
+            "parasiteOf",
+            "Presbytis entellus",
+            "GBIF:9029331"
+        ],
+        [
+            "parasiteOf",
+            "Macaca nemestrina",
+            "EOL:323950"
+        ],
+        [
+            "parasiteOf",
+            "Macaca mulatta",
+            "EOL:327960"
+        ],
+        [
+            "parasiteOf",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "parasiteOf",
+            "Trachypithecus cristatus",
+            "EOL:311196"
+        ],
+        [
+            "parasiteOf",
+            "Presbytis entellus",
+            "GBIF:9029331"
+        ],
+        [
+            "parasiteOf",
+            "Macaca sinica",
+            "EOL:323958"
+        ],
+        [
+            "parasiteOf",
+            "Macaca radiata",
+            "EOL:323956"
+        ],
+        [
+            "parasiteOf",
+            "Macaca cyclopis",
+            "EOL:323948"
+        ],
+        [
+            "parasiteOf",
+            "Semnopithecus entellus",
+            "EOL:310623"
+        ],
+        [
+            "parasiteOf",
+            "Macaca sinica",
+            "EOL:323958"
+        ],
+        [
+            "parasiteOf",
+            "Macaca radiata",
+            "EOL:323956"
+        ],
+        [
+            "parasiteOf",
+            "Macaca cyclopis",
+            "EOL:323948"
+        ],
+        [
+            "parasiteOf",
+            "Semnopithecus entellus",
+            "EOL:310623"
+        ],
+        [
+            "parasiteOf",
+            "Macaca nemestrina",
+            "EOL:323950"
+        ],
+        [
+            "parasiteOf",
+            "Macaca mulatta",
+            "EOL:327960"
+        ],
+        [
+            "parasiteOf",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "parasiteOf",
+            "Trachypithecus cristatus",
+            "EOL:311196"
+        ],
+        [
+            "hasHost",
+            "Pongo abelii",
+            "EOL:2925671"
+        ],
+        [
+            "hasHost",
+            "Macaca mulatta",
+            "EOL:327960"
+        ],
+        [
+            "hasHost",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "hasHost",
+            "Pongo pygmaeus",
+            "EOL:326450"
+        ],
+        [
+            "hasHost",
+            "Pongo abelii",
+            "EOL:2925671"
+        ],
+        [
+            "hasHost",
+            "Macaca mulatta",
+            "EOL:327960"
+        ],
+        [
+            "hasHost",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "hasHost",
+            "Pongo pygmaeus",
+            "EOL:326450"
+        ],
+        [
+            "pathogenOf",
+            "Anopheles freeborni",
+            "EOL:740812"
+        ],
+        [
+            "pathogenOf",
+            "Anopheles freeborni",
+            "EOL:740812"
+        ],
+        [
+            "parasiteOf",
+            "no binomial name",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus weddelli",
+            "GBIF:8242404"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus bernhardi",
+            "GBIF:2436395"
+        ],
+        [
+            "parasiteOf",
+            "Mico melanurus",
+            "GBIF:5786462"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus cinerascens",
+            "GBIF:2436390"
+        ],
+        [
+            "parasiteOf",
+            "Lagothrix lagothricha cana",
+            "GBIF:5786086"
+        ],
+        [
+            "parasiteOf",
+            "Cebuella pygmaea",
+            "ITIS:944123"
+        ],
+        [
+            "parasiteOf",
+            "Callithrix humeralifer",
+            "GBIF:9199568"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus imperator",
+            "EOL:323901"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus",
+            "GBIF:2436376"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia",
+            "GBIF:2436370"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri",
+            "GBIF:2436659"
+        ],
+        [
+            "parasiteOf",
+            "Cacajao melanocephalus",
+            "EOL:326562"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus personatus",
+            "EOL:326548"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta fusca",
+            "EOL:323918"
+        ],
+        [
+            "parasiteOf",
+            "Cebus olivaceus",
+            "EOL:323945"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus bicolor",
+            "EOL:323898"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri ustus",
+            "EOL:323912"
+        ],
+        [
+            "parasiteOf",
+            "Aotus vociferans",
+            "GBIF:5219597"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia irrorata",
+            "EOL:127115"
+        ],
+        [
+            "parasiteOf",
+            "Ateles fusciceps",
+            "GBIF:2436641"
+        ],
+        [
+            "parasiteOf",
+            "Chiropotes chiropotes",
+            "GBIF:5707307"
+        ],
+        [
+            "parasiteOf",
+            "Callithrix argentata",
+            "EOL:323885"
+        ],
+        [
+            "parasiteOf",
+            "Chiropotes satanas",
+            "GBIF:5219527"
+        ],
+        [
+            "parasiteOf",
+            "Chiropotes albinasus",
+            "GBIF:5219526"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus torquatus",
+            "GBIF:2436394"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus moloch",
+            "GBIF:2436388"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus brunneus",
+            "GBIF:2436401"
+        ],
+        [
+            "parasiteOf",
+            "Cacajao calvus",
+            "GBIF:2436410"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus ornatus",
+            "GBIF:2436385"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus cupreus",
+            "GBIF:2436392"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri boliviensis",
+            "EOL:323910"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus fuscicollis",
+            "EOL_V2:323899"
+        ],
+        [
+            "parasiteOf",
+            "Cebus apella",
+            "EOL_V2:323943"
+        ],
+        [
+            "parasiteOf",
+            "Aotus trivirgatus",
+            "EOL:323931"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus nigricollis",
+            "EOL_V2:323907"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus mystax",
+            "EOL:323906"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus labiatus",
+            "EOL:323903"
+        ],
+        [
+            "parasiteOf",
+            "Callithrix jacchus",
+            "EOL:323890"
+        ],
+        [
+            "parasiteOf",
+            "Aotus azarae",
+            "GBIF:5707409"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri sciureus",
+            "EOL:327956"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia monachus",
+            "EOL:1010832"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus torquatus",
+            "GBIF:2436394"
+        ],
+        [
+            "parasiteOf",
+            "Chiropotes albinasus",
+            "GBIF:5219526"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus brunneus",
+            "GBIF:2436401"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus moloch",
+            "GBIF:2436388"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta belzebul",
+            "EOL:323914"
+        ],
+        [
+            "parasiteOf",
+            "Cacajao calvus",
+            "GBIF:2436410"
+        ],
+        [
+            "parasiteOf",
+            "Cebus albifrons",
+            "EOL:323942"
+        ],
+        [
+            "parasiteOf",
+            "Ateles belzebuth",
+            "EOL:323934"
+        ],
+        [
+            "parasiteOf",
+            "Chiropotes chiropotes",
+            "GBIF:5707307"
+        ],
+        [
+            "parasiteOf",
+            "Ateles fusciceps",
+            "GBIF:2436641"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus fuscicollis",
+            "EOL_V2:323899"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus ornatus",
+            "GBIF:2436385"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus cupreus",
+            "GBIF:2436392"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri boliviensis",
+            "EOL:323910"
+        ],
+        [
+            "parasiteOf",
+            "Chiropotes satanas",
+            "GBIF:5219527"
+        ],
+        [
+            "parasiteOf",
+            "Callithrix argentata",
+            "EOL:323885"
+        ],
+        [
+            "parasiteOf",
+            "Cebus capucinus",
+            "GBIF:2436637"
+        ],
+        [
+            "parasiteOf",
+            "Ateles paniscus",
+            "GBIF:2436645"
+        ],
+        [
+            "parasiteOf",
+            "Ateles geoffroyi",
+            "EOL:323938"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus midas",
+            "EOL:323905"
+        ],
+        [
+            "parasiteOf",
+            "Lagothrix lagotricha",
+            "EOL:323940"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta caraya",
+            "EOL:323915"
+        ],
+        [
+            "parasiteOf",
+            "Gorilla gorilla",
+            "EOL:326447"
+        ],
+        [
+            "parasiteOf",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "parasiteOf",
+            "Lagothrix lagothricha",
+            "GBIF:5786085"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri oerstedii",
+            "EOL:323911"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta guariba",
+            "WD:Q790592"
+        ],
+        [
+            "parasiteOf",
+            "Brachyteles arachnoides",
+            "EOL:323939"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta",
+            "GBIF:2436647"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia pithecia",
+            "EOL:1010797"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta seniculus",
+            "EOL:323922"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta palliata",
+            "EOL:323919"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus bernhardi",
+            "GBIF:2436395"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus weddelli",
+            "GBIF:8242404"
+        ],
+        [
+            "parasiteOf",
+            "Mico melanurus",
+            "GBIF:5786462"
+        ],
+        [
+            "parasiteOf",
+            "no binomial name",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus personatus",
+            "EOL:326548"
+        ],
+        [
+            "parasiteOf",
+            "Cebus olivaceus",
+            "EOL:323945"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia",
+            "GBIF:2436370"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta fusca",
+            "EOL:323918"
+        ],
+        [
+            "parasiteOf",
+            "Aotus vociferans",
+            "GBIF:5219597"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia irrorata",
+            "EOL:127115"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus bicolor",
+            "EOL:323898"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri ustus",
+            "EOL:323912"
+        ],
+        [
+            "parasiteOf",
+            "Callithrix humeralifer",
+            "GBIF:9199568"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus imperator",
+            "EOL:323901"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus cinerascens",
+            "GBIF:2436390"
+        ],
+        [
+            "parasiteOf",
+            "Lagothrix lagothricha cana",
+            "GBIF:5786086"
+        ],
+        [
+            "parasiteOf",
+            "Cacajao melanocephalus",
+            "EOL:326562"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri",
+            "GBIF:2436659"
+        ],
+        [
+            "parasiteOf",
+            "Cebuella pygmaea",
+            "ITIS:944123"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus",
+            "GBIF:2436376"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta belzebul",
+            "EOL:323914"
+        ],
+        [
+            "parasiteOf",
+            "Ateles belzebuth",
+            "EOL:323934"
+        ],
+        [
+            "parasiteOf",
+            "Lagothrix lagothricha",
+            "GBIF:5786085"
+        ],
+        [
+            "parasiteOf",
+            "Cebus albifrons",
+            "EOL:323942"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri oerstedii",
+            "EOL:323911"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta guariba",
+            "WD:Q790592"
+        ],
+        [
+            "parasiteOf",
+            "Brachyteles arachnoides",
+            "EOL:323939"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta",
+            "GBIF:2436647"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia pithecia",
+            "EOL:1010797"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta seniculus",
+            "EOL:323922"
+        ],
+        [
+            "parasiteOf",
+            "Cebus capucinus",
+            "GBIF:2436637"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta palliata",
+            "EOL:323919"
+        ],
+        [
+            "parasiteOf",
+            "Ateles paniscus",
+            "GBIF:2436645"
+        ],
+        [
+            "parasiteOf",
+            "Ateles geoffroyi",
+            "EOL:323938"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus midas",
+            "EOL:323905"
+        ],
+        [
+            "parasiteOf",
+            "Lagothrix lagotricha",
+            "EOL:323940"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta caraya",
+            "EOL:323915"
+        ],
+        [
+            "parasiteOf",
+            "Gorilla gorilla",
+            "EOL:326447"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia monachus",
+            "EOL:1010832"
+        ],
+        [
+            "parasiteOf",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri sciureus",
+            "EOL:327956"
+        ],
+        [
+            "parasiteOf",
+            "Aotus azarae",
+            "GBIF:5707409"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus nigricollis",
+            "EOL_V2:323907"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus labiatus",
+            "EOL:323903"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus mystax",
+            "EOL:323906"
+        ],
+        [
+            "parasiteOf",
+            "Callithrix jacchus",
+            "EOL:323890"
+        ],
+        [
+            "parasiteOf",
+            "Aotus trivirgatus",
+            "EOL:323931"
+        ],
+        [
+            "parasiteOf",
+            "Cebus apella",
+            "EOL_V2:323943"
+        ],
+        [
+            "hasHost",
+            "Chiropotes albinasus",
+            "EOL:326563"
+        ],
+        [
+            "hasHost",
+            "Pithecia irrorata",
+            "EOL:127115"
+        ],
+        [
+            "hasHost",
+            "Callicebus brunneus",
+            "GBIF:2436401"
+        ],
+        [
+            "hasHost",
+            "Saimiri sciureus",
+            "EOL:327956"
+        ],
+        [
+            "hasHost",
+            "Alouatta seniculus",
+            "EOL:323922"
+        ],
+        [
+            "hasHost",
+            "Callicebus brunneus",
+            "GBIF:2436401"
+        ],
+        [
+            "hasHost",
+            "Pithecia irrorata",
+            "EOL:127115"
+        ],
+        [
+            "hasHost",
+            "Chiropotes albinasus",
+            "EOL:326563"
+        ],
+        [
+            "hasHost",
+            "Alouatta seniculus",
+            "EOL:323922"
+        ],
+        [
+            "hasHost",
+            "Saimiri sciureus",
+            "EOL:327956"
+        ],
+        [
+            "parasiteOf",
+            "Presbytis obscura",
+            "GBIF:8812426"
+        ],
+        [
+            "parasiteOf",
+            "Macaca assamensis",
+            "EOL:323947"
+        ],
+        [
+            "parasiteOf",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "parasiteOf",
+            "Presbytis melalophos",
+            "EOL:311183"
+        ],
+        [
+            "parasiteOf",
+            "Trachypithecus cristatus",
+            "EOL:311196"
+        ],
+        [
+            "parasiteOf",
+            "Macaca assamensis",
+            "EOL:323947"
+        ],
+        [
+            "parasiteOf",
+            "Presbytis obscura",
+            "GBIF:8812426"
+        ],
+        [
+            "parasiteOf",
+            "Macaca nigra",
+            "GBIF:2436616"
+        ],
+        [
+            "parasiteOf",
+            "Trachypithecus obscurus",
+            "GBIF:2436535"
+        ],
+        [
+            "parasiteOf",
+            "Macaca cyclopis",
+            "EOL:323948"
+        ],
+        [
+            "parasiteOf",
+            "Macaca radiata",
+            "EOL:323956"
+        ],
+        [
+            "parasiteOf",
+            "Macaca mulatta",
+            "EOL:327960"
+        ],
+        [
+            "parasiteOf",
+            "Macaca nemestrina",
+            "EOL:323950"
+        ],
+        [
+            "parasiteOf",
+            "Trachypithecus obscurus",
+            "GBIF:2436535"
+        ],
+        [
+            "parasiteOf",
+            "Macaca nigra",
+            "GBIF:2436616"
+        ],
+        [
+            "parasiteOf",
+            "Macaca radiata",
+            "EOL:323956"
+        ],
+        [
+            "parasiteOf",
+            "Macaca cyclopis",
+            "EOL:323948"
+        ],
+        [
+            "parasiteOf",
+            "Macaca nemestrina",
+            "EOL:323950"
+        ],
+        [
+            "parasiteOf",
+            "Macaca mulatta",
+            "EOL:327960"
+        ],
+        [
+            "parasiteOf",
+            "Presbytis melalophos",
+            "EOL:311183"
+        ],
+        [
+            "parasiteOf",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "parasiteOf",
+            "Trachypithecus cristatus",
+            "EOL:311196"
+        ],
+        [
+            "hasHost",
+            "Macaca cyclopis",
+            "EOL:323948"
+        ],
+        [
+            "hasHost",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "hasHost",
+            "Macaca mulatta",
+            "EOL:327960"
+        ],
+        [
+            "hasHost",
+            "Macaca cyclopis",
+            "EOL:323948"
+        ],
+        [
+            "hasHost",
+            "Macaca mulatta",
+            "EOL:327960"
+        ],
+        [
+            "hasHost",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "parasiteOf",
+            "Macaca nemestrina",
+            "EOL:323950"
+        ],
+        [
+            "parasiteOf",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "parasiteOf",
+            "Presbytis melalophos",
+            "EOL:311183"
+        ],
+        [
+            "parasiteOf",
+            "Macaca nemestrina",
+            "EOL:323950"
+        ],
+        [
+            "parasiteOf",
+            "Presbytis melalophos",
+            "EOL:311183"
+        ],
+        [
+            "parasiteOf",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "hasHost",
+            "Macaca mulatta",
+            "EOL:327960"
+        ],
+        [
+            "hasHost",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "hasHost",
+            "Macaca nemestrina",
+            "EOL:323950"
+        ],
+        [
+            "hasHost",
+            "Homo sapiens",
+            "EOL:327955"
+        ],
+        [
+            "hasHost",
+            "Homo sapiens",
+            "EOL:327955"
+        ],
+        [
+            "hasHost",
+            "Macaca nemestrina",
+            "EOL:323950"
+        ],
+        [
+            "hasHost",
+            "Macaca mulatta",
+            "EOL:327960"
+        ],
+        [
+            "hasHost",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "parasiteOf",
+            "Cercocebus torquatus",
+            "GBIF:2436544"
+        ],
+        [
+            "parasiteOf",
+            "Lophocebus albigena",
+            "EOL:128438"
+        ],
+        [
+            "parasiteOf",
+            "Cercocebus galeritus",
+            "EOL:323964"
+        ],
+        [
+            "parasiteOf",
+            "Cercocebus agilis",
+            "GBIF:2436546"
+        ],
+        [
+            "parasiteOf",
+            "Mandrillus sphinx",
+            "EOL:310920"
+        ],
+        [
+            "parasiteOf",
+            "Mandrillus leucophaeus",
+            "EOL:310782"
+        ],
+        [
+            "parasiteOf",
+            "Cercocebus atys",
+            "GBIF:7262035"
+        ],
+        [
+            "parasiteOf",
+            "Lophocebus aterrimus",
+            "EOL:4453510"
+        ],
+        [
+            "parasiteOf",
+            "Lophocebus aterrimus",
+            "EOL:4453510"
+        ],
+        [
+            "parasiteOf",
+            "Cercocebus agilis",
+            "GBIF:2436546"
+        ],
+        [
+            "parasiteOf",
+            "Cercocebus galeritus",
+            "EOL:323964"
+        ],
+        [
+            "parasiteOf",
+            "Lophocebus albigena",
+            "EOL:128438"
+        ],
+        [
+            "parasiteOf",
+            "Cercocebus torquatus",
+            "GBIF:2436544"
+        ],
+        [
+            "parasiteOf",
+            "Cercocebus atys",
+            "GBIF:7262035"
+        ],
+        [
+            "parasiteOf",
+            "Mandrillus sphinx",
+            "EOL:310920"
+        ],
+        [
+            "parasiteOf",
+            "Mandrillus leucophaeus",
+            "EOL:310782"
+        ],
+        [
+            "hasHost",
+            "Mandrillus sphinx",
+            "EOL:310920"
+        ],
+        [
+            "hasHost",
+            "Mandrillus sphinx",
+            "EOL:310920"
+        ],
+        [
+            "parasiteOf",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "hasHost",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "parasiteOf",
+            "Macaca nemestrina",
+            "EOL:323950"
+        ],
+        [
+            "parasiteOf",
+            "Macaca nemestrina",
+            "EOL:323950"
+        ],
+        [
+            "hasHost",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "parasiteOf",
+            "Macaca fascicularis",
+            "EOL:327959"
+        ],
+        [
+            "parasiteOf",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "parasiteOf",
+            "Anopheles",
+            "EOL:54865"
+        ],
+        [
+            "parasiteOf",
+            "Anopheles",
+            "EOL:54865"
+        ],
+        [
+            "parasiteOf",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "hasHost",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "hasHost",
+            "Pan paniscus",
+            "EOL:326448"
+        ],
+        [
+            "hasHost",
+            "Homo sapiens",
+            "EOL:327955"
+        ],
+        [
+            "hasHost",
+            "Homo sapiens",
+            "EOL:327955"
+        ],
+        [
+            "hasHost",
+            "Pan paniscus",
+            "EOL:326448"
+        ],
+        [
+            "hasHost",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "parasiteOf",
+            "Gorilla gorilla",
+            "EOL:326447"
+        ],
+        [
+            "parasiteOf",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "parasiteOf",
+            "Gorilla gorilla",
+            "EOL:326447"
+        ],
+        [
+            "parasiteOf",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "hasHost",
+            "Homo sapiens",
+            "EOL:327955"
+        ],
+        [
+            "hasHost",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "hasHost",
+            "Homo sapiens",
+            "EOL:327955"
+        ],
+        [
+            "hasHost",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "parasiteOf",
+            "Macaca tonkeanna",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "no binomial name",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Limnodromus scilopaceus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Ardea herodius",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Catjartes aura",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Egernia whitei",
+            "IRMNG:11078615"
+        ],
+        [
+            "parasiteOf",
+            "Egernia stokesii",
+            "GBIF:2463105"
+        ],
+        [
+            "parasiteOf",
+            "Bellatorias major",
+            "GBIF:8257899"
+        ],
+        [
+            "parasiteOf",
+            "Biziura lobata",
+            "EOL:1048541"
+        ],
+        [
+            "parasiteOf",
+            "Egernia cunninghami",
+            "GBIF:2463131"
+        ],
+        [
+            "parasiteOf",
+            "Egernia striolata",
+            "GBIF:2463115"
+        ],
+        [
+            "parasiteOf",
+            "Manorina melanocephala",
+            "INAT_TAXON:12231"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia",
+            "GBIF:2436370"
+        ],
+        [
+            "parasiteOf",
+            "Presbytis obscura",
+            "GBIF:8812426"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta fusca",
+            "EOL:323918"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus personatus",
+            "EOL:326548"
+        ],
+        [
+            "parasiteOf",
+            "Macaca hecki",
+            "GBIF:4267156"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus dubius",
+            "GBIF:2436403"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri ustus",
+            "EOL:323912"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus caligatus",
+            "GBIF:2436384"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus brunneus",
+            "GBIF:2436401"
+        ],
+        [
+            "parasiteOf",
+            "Propithecus verreauxi",
+            "EOL:326524"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus cupreus",
+            "GBIF:2436392"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus fuscicollis",
+            "EOL_V2:323899"
+        ],
+        [
+            "parasiteOf",
+            "Indri indri",
+            "GBIF:2436432"
+        ],
+        [
+            "parasiteOf",
+            "Hapalemur griseus",
+            "EOL:326531"
+        ],
+        [
+            "parasiteOf",
+            "Propithecus diadema",
+            "EOL:326457"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta guariba",
+            "WD:Q790592"
+        ],
+        [
+            "parasiteOf",
+            "Accipiter cooperii",
+            "EOL_V2:1049046"
+        ],
+        [
+            "parasiteOf",
+            "Butorides virescens",
+            "EOL_V2:1048665"
+        ],
+        [
+            "parasiteOf",
+            "Actitis macularius",
+            "EOL_V2:1064984"
+        ],
+        [
+            "parasiteOf",
+            "Anas cyanoptera",
+            "EOL_V2:1048954"
+        ],
+        [
+            "parasiteOf",
+            "Charadrius semipalmatus",
+            "EOL_V2:1049342"
+        ],
+        [
+            "parasiteOf",
+            "Numenius phaeopus",
+            "EOL_V2:1049394"
+        ],
+        [
+            "parasiteOf",
+            "Pluvialis squatarola",
+            "EOL_V2:1049366"
+        ],
+        [
+            "parasiteOf",
+            "Phalacrocorax penicillatus",
+            "FBC:SLB:SpecCode:84054"
+        ],
+        [
+            "parasiteOf",
+            "Tringa",
+            "GBIF:2481709"
+        ],
+        [
+            "parasiteOf",
+            "Megaceryle alcyon",
+            "EOL_V2:1049954"
+        ],
+        [
+            "parasiteOf",
+            "Cygnus atratus",
+            "EOL_V2:1047328"
+        ],
+        [
+            "parasiteOf",
+            "Catoptrophorus semipalmatus",
+            "GBIF:2481802"
+        ],
+        [
+            "parasiteOf",
+            "Ardea alba",
+            "EOL_V2:1178488"
+        ],
+        [
+            "parasiteOf",
+            "Egretta caerulea",
+            "EOL_V2:1048711"
+        ],
+        [
+            "parasiteOf",
+            "Larus philadelphia",
+            "FBC:SLB:SpecCode:75071"
+        ],
+        [
+            "parasiteOf",
+            "Nycticorax nycticorax",
+            "EOL_V2:1048731"
+        ],
+        [
+            "parasiteOf",
+            "Egretta thula",
+            "EOL_V2:1048667"
+        ],
+        [
+            "parasiteOf",
+            "Charadrius vociferus",
+            "EOL_V2:1049356"
+        ],
+        [
+            "parasiteOf",
+            "Anas superciliosa",
+            "EOL_V2:1048960"
+        ],
+        [
+            "parasiteOf",
+            "Anas americana",
+            "EOL_V2:1048958"
+        ],
+        [
+            "parasiteOf",
+            "Melanitta perspicillata",
+            "EOL_V2:1048997"
+        ],
+        [
+            "parasiteOf",
+            "Numenius americanus",
+            "EOL_V2:1049388"
+        ],
+        [
+            "parasiteOf",
+            "Limosa fedoa",
+            "EOL_V2:1049547"
+        ],
+        [
+            "parasiteOf",
+            "Anas discors",
+            "EOL_V2:1048953"
+        ],
+        [
+            "parasiteOf",
+            "Podilymbus podiceps",
+            "EOL_V2:1047342"
+        ],
+        [
+            "parasiteOf",
+            "Mergus serrator",
+            "EOL_V2:1049002"
+        ],
+        [
+            "parasiteOf",
+            "Bucephala albeola",
+            "EOL_V2:1048977"
+        ],
+        [
+            "parasiteOf",
+            "Recurvirostra americana",
+            "EOL_V2:1049560"
+        ],
+        [
+            "parasiteOf",
+            "Fulica americana",
+            "EOL_V2:1049311"
+        ],
+        [
+            "parasiteOf",
+            "Larus californicus",
+            "EOL_V2:1049582"
+        ],
+        [
+            "parasiteOf",
+            "Oxyura jamaicensis",
+            "EOL_V2:1048999"
+        ],
+        [
+            "parasiteOf",
+            "Trachypithecus obscurus",
+            "GBIF:2436535"
+        ],
+        [
+            "parasiteOf",
+            "Cercopithecus ascanius",
+            "EOL:323968"
+        ],
+        [
+            "parasiteOf",
+            "Corvus brachyrhynchos",
+            "EOL_V2:1177464"
+        ],
+        [
+            "parasiteOf",
+            "Larus delawarensis",
+            "FBC:SLB:SpecCode:75065"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia pithecia",
+            "EOL:1010797"
+        ],
+        [
+            "parasiteOf",
+            "Lophocebus albigena",
+            "EOL:128438"
+        ],
+        [
+            "parasiteOf",
+            "Macaca sinica",
+            "EOL:323958"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta seniculus",
+            "EOL:323922"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus midas",
+            "EOL:323905"
+        ],
+        [
+            "parasiteOf",
+            "Ateles paniscus",
+            "GBIF:2436645"
+        ],
+        [
+            "parasiteOf",
+            "Lemur catta",
+            "EOL:326533"
+        ],
+        [
+            "parasiteOf",
+            "Hylobates lar",
+            "GBIF:5219553"
+        ],
+        [
+            "parasiteOf",
+            "Colobus guereza",
+            "EOL:128444"
+        ],
+        [
+            "parasiteOf",
+            "Varecia variegata",
+            "EOL:326534"
+        ],
+        [
+            "parasiteOf",
+            "Cercopithecus mitis",
+            "EOL:313665"
+        ],
+        [
+            "parasiteOf",
+            "Papio anubis",
+            "GBIF:5707341"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta caraya",
+            "EOL:323915"
+        ],
+        [
+            "parasiteOf",
+            "Mandrillus sphinx",
+            "EOL:310920"
+        ],
+        [
+            "parasiteOf",
+            "Gorilla gorilla",
+            "EOL:326447"
+        ],
+        [
+            "parasiteOf",
+            "Presbytis melalophos",
+            "EOL:311183"
+        ],
+        [
+            "parasiteOf",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "parasiteOf",
+            "Trachypithecus cristatus",
+            "EOL:311196"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri sciureus",
+            "EOL:327956"
+        ],
+        [
+            "parasiteOf",
+            "Aotus azarae",
+            "GBIF:5707409"
+        ],
+        [
+            "parasiteOf",
+            "Callithrix jacchus",
+            "EOL:323890"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus labiatus",
+            "EOL:323903"
+        ],
+        [
+            "parasiteOf",
+            "Cebus apella",
+            "EOL_V2:323943"
+        ],
+        [
+            "parasiteOf",
+            "Larus canus",
+            "FBC:SLB:SpecCode:75067"
+        ],
+        [
+            "parasiteOf",
+            "Anas crecca",
+            "GBIF:8214667"
+        ],
+        [
+            "parasiteOf",
+            "Anas platyrhynchos",
+            "EOL_V2:1047918"
+        ],
+        [
+            "parasiteOf",
+            "Calidris mauri",
+            "EOL_V2:1049517"
+        ],
+        [
+            "parasiteOf",
+            "Catjartes aura",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Ardea herodius",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Limnodromus scilopaceus",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "no binomial name",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Macaca tonkeanna",
+            "no:match"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus dubius",
+            "GBIF:2436403"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri ustus",
+            "EOL:323912"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus caligatus",
+            "GBIF:2436384"
+        ],
+        [
+            "parasiteOf",
+            "Propithecus verreauxi",
+            "EOL:326524"
+        ],
+        [
+            "parasiteOf",
+            "Presbytis obscura",
+            "GBIF:8812426"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta fusca",
+            "EOL:323918"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus personatus",
+            "EOL:326548"
+        ],
+        [
+            "parasiteOf",
+            "Macaca hecki",
+            "GBIF:4267156"
+        ],
+        [
+            "parasiteOf",
+            "Egernia cunninghami",
+            "GBIF:2463131"
+        ],
+        [
+            "parasiteOf",
+            "Egernia striolata",
+            "GBIF:2463115"
+        ],
+        [
+            "parasiteOf",
+            "Manorina melanocephala",
+            "INAT_TAXON:12231"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia",
+            "GBIF:2436370"
+        ],
+        [
+            "parasiteOf",
+            "Egernia whitei",
+            "IRMNG:11078615"
+        ],
+        [
+            "parasiteOf",
+            "Bellatorias major",
+            "GBIF:8257899"
+        ],
+        [
+            "parasiteOf",
+            "Egernia stokesii",
+            "GBIF:2463105"
+        ],
+        [
+            "parasiteOf",
+            "Biziura lobata",
+            "EOL:1048541"
+        ],
+        [
+            "parasiteOf",
+            "Calidris minutilla",
+            "EOL_V2:1049484"
+        ],
+        [
+            "parasiteOf",
+            "Aechmophorus occidentalis",
+            "GBIF:2482033"
+        ],
+        [
+            "parasiteOf",
+            "Sterna caspia",
+            "IRMNG:10194919"
+        ],
+        [
+            "parasiteOf",
+            "Calidris alpina",
+            "EOL_V2:1049497"
+        ],
+        [
+            "parasiteOf",
+            "Butorides virescens",
+            "EOL_V2:1048665"
+        ],
+        [
+            "parasiteOf",
+            "Actitis macularius",
+            "EOL_V2:1064984"
+        ],
+        [
+            "parasiteOf",
+            "Colobus badius",
+            "GBIF:9162010"
+        ],
+        [
+            "parasiteOf",
+            "Culex tarsalis",
+            "EOL:740666"
+        ],
+        [
+            "parasiteOf",
+            "Propithecus diadema",
+            "EOL:326457"
+        ],
+        [
+            "parasiteOf",
+            "Indri indri",
+            "GBIF:2436432"
+        ],
+        [
+            "parasiteOf",
+            "Accipiter cooperii",
+            "EOL_V2:1049046"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta guariba",
+            "WD:Q790592"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus cupreus",
+            "GBIF:2436392"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus fuscicollis",
+            "EOL_V2:323899"
+        ],
+        [
+            "parasiteOf",
+            "Hapalemur griseus",
+            "EOL:326531"
+        ],
+        [
+            "parasiteOf",
+            "Callicebus brunneus",
+            "GBIF:2436401"
+        ],
+        [
+            "parasiteOf",
+            "Culex tarsalis",
+            "EOL:740666"
+        ],
+        [
+            "parasiteOf",
+            "Colobus badius",
+            "GBIF:9162010"
+        ],
+        [
+            "parasiteOf",
+            "Aechmophorus occidentalis",
+            "GBIF:2482033"
+        ],
+        [
+            "parasiteOf",
+            "Calidris minutilla",
+            "EOL_V2:1049484"
+        ],
+        [
+            "parasiteOf",
+            "Sterna caspia",
+            "IRMNG:10194919"
+        ],
+        [
+            "parasiteOf",
+            "Calidris alpina",
+            "EOL_V2:1049497"
+        ],
+        [
+            "parasiteOf",
+            "Numenius phaeopus",
+            "EOL_V2:1049394"
+        ],
+        [
+            "parasiteOf",
+            "Pluvialis squatarola",
+            "EOL_V2:1049366"
+        ],
+        [
+            "parasiteOf",
+            "Charadrius semipalmatus",
+            "EOL_V2:1049342"
+        ],
+        [
+            "parasiteOf",
+            "Anas cyanoptera",
+            "EOL_V2:1048954"
+        ],
+        [
+            "parasiteOf",
+            "Cygnus atratus",
+            "EOL_V2:1047328"
+        ],
+        [
+            "parasiteOf",
+            "Megaceryle alcyon",
+            "EOL_V2:1049954"
+        ],
+        [
+            "parasiteOf",
+            "Tringa",
+            "GBIF:2481709"
+        ],
+        [
+            "parasiteOf",
+            "Phalacrocorax penicillatus",
+            "FBC:SLB:SpecCode:84054"
+        ],
+        [
+            "parasiteOf",
+            "Larus philadelphia",
+            "FBC:SLB:SpecCode:75071"
+        ],
+        [
+            "parasiteOf",
+            "Egretta caerulea",
+            "EOL_V2:1048711"
+        ],
+        [
+            "parasiteOf",
+            "Ardea alba",
+            "EOL_V2:1178488"
+        ],
+        [
+            "parasiteOf",
+            "Catoptrophorus semipalmatus",
+            "GBIF:2481802"
+        ],
+        [
+            "parasiteOf",
+            "Anas superciliosa",
+            "EOL_V2:1048960"
+        ],
+        [
+            "parasiteOf",
+            "Charadrius vociferus",
+            "EOL_V2:1049356"
+        ],
+        [
+            "parasiteOf",
+            "Nycticorax nycticorax",
+            "EOL_V2:1048731"
+        ],
+        [
+            "parasiteOf",
+            "Egretta thula",
+            "EOL_V2:1048667"
+        ],
+        [
+            "parasiteOf",
+            "Limosa fedoa",
+            "EOL_V2:1049547"
+        ],
+        [
+            "parasiteOf",
+            "Numenius americanus",
+            "EOL_V2:1049388"
+        ],
+        [
+            "parasiteOf",
+            "Anas americana",
+            "EOL_V2:1048958"
+        ],
+        [
+            "parasiteOf",
+            "Melanitta perspicillata",
+            "EOL_V2:1048997"
+        ],
+        [
+            "parasiteOf",
+            "Mergus serrator",
+            "EOL_V2:1049002"
+        ],
+        [
+            "parasiteOf",
+            "Bucephala albeola",
+            "EOL_V2:1048977"
+        ],
+        [
+            "parasiteOf",
+            "Anas discors",
+            "EOL_V2:1048953"
+        ],
+        [
+            "parasiteOf",
+            "Podilymbus podiceps",
+            "EOL_V2:1047342"
+        ],
+        [
+            "parasiteOf",
+            "Larus californicus",
+            "EOL_V2:1049582"
+        ],
+        [
+            "parasiteOf",
+            "Oxyura jamaicensis",
+            "EOL_V2:1048999"
+        ],
+        [
+            "parasiteOf",
+            "Recurvirostra americana",
+            "EOL_V2:1049560"
+        ],
+        [
+            "parasiteOf",
+            "Fulica americana",
+            "EOL_V2:1049311"
+        ],
+        [
+            "parasiteOf",
+            "Corvus brachyrhynchos",
+            "EOL_V2:1177464"
+        ],
+        [
+            "parasiteOf",
+            "Larus delawarensis",
+            "FBC:SLB:SpecCode:75065"
+        ],
+        [
+            "parasiteOf",
+            "Trachypithecus obscurus",
+            "GBIF:2436535"
+        ],
+        [
+            "parasiteOf",
+            "Cercopithecus ascanius",
+            "EOL:323968"
+        ],
+        [
+            "parasiteOf",
+            "Lophocebus albigena",
+            "EOL:128438"
+        ],
+        [
+            "parasiteOf",
+            "Pithecia pithecia",
+            "EOL:1010797"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta seniculus",
+            "EOL:323922"
+        ],
+        [
+            "parasiteOf",
+            "Macaca sinica",
+            "EOL:323958"
+        ],
+        [
+            "parasiteOf",
+            "Ateles paniscus",
+            "GBIF:2436645"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus midas",
+            "EOL:323905"
+        ],
+        [
+            "parasiteOf",
+            "Hylobates lar",
+            "GBIF:5219553"
+        ],
+        [
+            "parasiteOf",
+            "Lemur catta",
+            "EOL:326533"
+        ],
+        [
+            "parasiteOf",
+            "Varecia variegata",
+            "EOL:326534"
+        ],
+        [
+            "parasiteOf",
+            "Colobus guereza",
+            "EOL:128444"
+        ],
+        [
+            "parasiteOf",
+            "Papio anubis",
+            "GBIF:5707341"
+        ],
+        [
+            "parasiteOf",
+            "Mandrillus sphinx",
+            "EOL:310920"
+        ],
+        [
+            "parasiteOf",
+            "Cercopithecus mitis",
+            "EOL:313665"
+        ],
+        [
+            "parasiteOf",
+            "Alouatta caraya",
+            "EOL:323915"
+        ],
+        [
+            "parasiteOf",
+            "Presbytis melalophos",
+            "EOL:311183"
+        ],
+        [
+            "parasiteOf",
+            "Gorilla gorilla",
+            "EOL:326447"
+        ],
+        [
+            "parasiteOf",
+            "Pan troglodytes",
+            "EOL:326449"
+        ],
+        [
+            "parasiteOf",
+            "Saimiri sciureus",
+            "EOL:327956"
+        ],
+        [
+            "parasiteOf",
+            "Trachypithecus cristatus",
+            "EOL:311196"
+        ],
+        [
+            "parasiteOf",
+            "Aotus azarae",
+            "GBIF:5707409"
+        ],
+        [
+            "parasiteOf",
+            "Saguinus labiatus",
+            "EOL:323903"
+        ],
+        [
+            "parasiteOf",
+            "Callithrix jacchus",
+            "EOL:323890"
+        ],
+        [
+            "parasiteOf",
+            "Cebus apella",
+            "EOL_V2:323943"
+        ],
+        [
+            "parasiteOf",
+            "Larus canus",
+            "FBC:SLB:SpecCode:75067"
+        ],
+        [
+            "parasiteOf",
+            "Anas crecca",
+            "GBIF:8214667"
+        ],
+        [
+            "parasiteOf",
+            "Anas platyrhynchos",
+            "EOL_V2:1047918"
+        ],
+        [
+            "parasiteOf",
+            "Calidris mauri",
+            "EOL_V2:1049517"
+        ],
+        [
+            "hasHost",
+            "Cathartes aura",
+            "EOL_V2:1049010"
+        ],
+        [
+            "hasHost",
+            "Draco maculatus",
+            "EOL:794988"
+        ],
+        [
+            "hasHost",
+            "Egernia whitei",
+            "IRMNG:11078615"
+        ],
+        [
+            "hasHost",
+            "Ardea herodias",
+            "EOL_V2:1048656"
+        ],
+        [
+            "hasHost",
+            "Phalacrocorax auritus",
+            "EOL_V2:1048642"
+        ],
+        [
+            "hasHost",
+            "Anas crecca carolinensis",
+            "EOL_V2:1276240"
+        ],
+        [
+            "hasHost",
+            "Egernia stokesii",
+            "GBIF:2463105"
+        ],
+        [
+            "hasHost",
+            "Egernia cunninghami",
+            "GBIF:2463131"
+        ],
+        [
+            "hasHost",
+            "Tringa melanoleuca",
+            "EOL_V2:1049431"
+        ],
+        [
+            "hasHost",
+            "Pandion haliaëtus haliaëtus",
+            "EOL:1228602"
+        ],
+        [
+            "hasHost",
+            "Troglodytes aedon",
+            "EOL_V2:1050659"
+        ],
+        [
+            "hasHost",
+            "Accipiter cooperii",
+            "EOL_V2:1049046"
+        ],
+        [
+            "hasHost",
+            "Butorides virescens",
+            "EOL_V2:1048665"
+        ],
+        [
+            "hasHost",
+            "Egernia cunninghami",
+            "GBIF:2463131"
+        ],
+        [
+            "hasHost",
+            "Egernia stokesii",
+            "GBIF:2463105"
+        ],
+        [
+            "hasHost",
+            "Anas crecca carolinensis",
+            "EOL_V2:1276240"
+        ],
+        [
+            "hasHost",
+            "Phalacrocorax auritus",
+            "EOL_V2:1048642"
+        ],
+        [
+            "hasHost",
+            "Ardea herodias",
+            "EOL_V2:1048656"
+        ],
+        [
+            "hasHost",
+            "Egernia whitei",
+            "IRMNG:11078615"
+        ],
+        [
+            "hasHost",
+            "Draco maculatus",
+            "EOL:794988"
+        ],
+        [
+            "hasHost",
+            "Cathartes aura",
+            "EOL_V2:1049010"
+        ],
+        [
+            "hasHost",
+            "Calidris minutilla",
+            "EOL_V2:1049484"
+        ],
+        [
+            "hasHost",
+            "Cardinalis cardinalis",
+            "EOL:1052070"
+        ],
+        [
+            "hasHost",
+            "Culex tarsalis",
+            "EOL:740666"
+        ],
+        [
+            "hasHost",
+            "Butorides virescens",
+            "EOL_V2:1048665"
+        ],
+        [
+            "hasHost",
+            "Accipiter cooperii",
+            "EOL_V2:1049046"
+        ],
+        [
+            "hasHost",
+            "Troglodytes aedon",
+            "EOL_V2:1050659"
+        ],
+        [
+            "hasHost",
+            "Pandion haliaëtus haliaëtus",
+            "EOL:1228602"
+        ],
+        [
+            "hasHost",
+            "Tringa melanoleuca",
+            "EOL_V2:1049431"
+        ],
+        [
+            "hasHost",
+            "Charadrius vociferus",
+            "EOL_V2:1049356"
+        ],
+        [
+            "hasHost",
+            "Egretta thula",
+            "EOL_V2:1048667"
+        ],
+        [
+            "hasHost",
+            "Ardea alba",
+            "EOL_V2:1178488"
+        ],
+        [
+            "hasHost",
+            "Circus cyaneus",
+            "EOL_V2:1049123"
+        ],
+        [
+            "hasHost",
+            "Charadrius semipalmatus",
+            "EOL_V2:1049342"
+        ],
+        [
+            "hasHost",
+            "Megaceryle alcyon",
+            "EOL_V2:1049954"
+        ],
+        [
+            "hasHost",
+            "Calidris alpina",
+            "EOL_V2:1049497"
+        ],
+        [
+            "hasHost",
+            "Pluvialis squatarola",
+            "EOL_V2:1049366"
+        ],
+        [
+            "hasHost",
+            "Melanitta perspicillata",
+            "EOL_V2:1048997"
+        ],
+        [
+            "hasHost",
+            "Larus occidentalis",
+            "EOL_V2:1049579"
+        ],
+        [
+            "hasHost",
+            "Limosa fedoa",
+            "EOL_V2:1049547"
+        ],
+        [
+            "hasHost",
+            "Numenius phaeopus hudsonicus",
+            "GBIF:6177943"
+        ],
+        [
+            "hasHost",
+            "Numenius americanus",
+            "EOL_V2:1049388"
+        ],
+        [
+            "hasHost",
+            "Tringa semipalmata",
+            "EOL_V2:1049464"
+        ],
+        [
+            "hasHost",
+            "Nycticorax nycticorax",
+            "EOL_V2:1048731"
+        ],
+        [
+            "hasHost",
+            "Rallus longirostris",
+            "EOL_V2:1049276"
+        ],
+        [
+            "hasHost",
+            "Chroicocephalus philadelphia",
+            "EOL_V2:1049606"
+        ],
+        [
+            "hasHost",
+            "Recurvirostra americana",
+            "EOL_V2:1049560"
+        ],
+        [
+            "hasHost",
+            "Larus canus brachyrhynchus",
+            "EOL:1273236"
+        ],
+        [
+            "hasHost",
+            "Limnodromus",
+            "EOL:19937"
+        ],
+        [
+            "hasHost",
+            "Bucephala albeola",
+            "EOL_V2:1048977"
+        ],
+        [
+            "hasHost",
+            "Larus delawarensis",
+            "EOL_V2:1049583"
+        ],
+        [
+            "hasHost",
+            "Larus californicus",
+            "EOL_V2:1049582"
+        ],
+        [
+            "hasHost",
+            "Podilymbus podiceps",
+            "EOL_V2:1047342"
+        ],
+        [
+            "hasHost",
+            "Calidris mauri",
+            "EOL_V2:1049517"
+        ],
+        [
+            "hasHost",
+            "Anas platyrhynchos",
+            "EOL_V2:1047918"
+        ],
+        [
+            "hasHost",
+            "Carpodacus mexicanus",
+            "EOL_V2:919946"
+        ],
+        [
+            "hasHost",
+            "Fulica americana",
+            "EOL_V2:1049311"
+        ],
+        [
+            "hasHost",
+            "Passer domesticus",
+            "GBIF:5231190"
+        ],
+        [
+            "hasHost",
+            "Sterna forsteri",
+            "EOL_V2:1049630"
+        ],
+        [
+            "hasHost",
+            "Culex tarsalis",
+            "EOL:740666"
+        ],
+        [
+            "hasHost",
+            "Cardinalis cardinalis",
+            "EOL:1052070"
+        ],
+        [
+            "hasHost",
+            "Calidris minutilla",
+            "EOL_V2:1049484"
+        ],
+        [
+            "hasHost",
+            "Calidris alpina",
+            "EOL_V2:1049497"
+        ],
+        [
+            "hasHost",
+            "Pluvialis squatarola",
+            "EOL_V2:1049366"
+        ],
+        [
+            "hasHost",
+            "Charadrius semipalmatus",
+            "EOL_V2:1049342"
+        ],
+        [
+            "hasHost",
+            "Megaceryle alcyon",
+            "EOL_V2:1049954"
+        ],
+        [
+            "hasHost",
+            "Ardea alba",
+            "EOL_V2:1178488"
+        ],
+        [
+            "hasHost",
+            "Circus cyaneus",
+            "EOL_V2:1049123"
+        ],
+        [
+            "hasHost",
+            "Charadrius vociferus",
+            "EOL_V2:1049356"
+        ],
+        [
+            "hasHost",
+            "Rallus longirostris",
+            "EOL_V2:1049276"
+        ],
+        [
+            "hasHost",
+            "Nycticorax nycticorax",
+            "EOL_V2:1048731"
+        ],
+        [
+            "hasHost",
+            "Egretta thula",
+            "EOL_V2:1048667"
+        ],
+        [
+            "hasHost",
+            "Limosa fedoa",
+            "EOL_V2:1049547"
+        ],
+        [
+            "hasHost",
+            "Tringa semipalmata",
+            "EOL_V2:1049464"
+        ],
+        [
+            "hasHost",
+            "Numenius americanus",
+            "EOL_V2:1049388"
+        ],
+        [
+            "hasHost",
+            "Numenius phaeopus hudsonicus",
+            "GBIF:6177943"
+        ],
+        [
+            "hasHost",
+            "Melanitta perspicillata",
+            "EOL_V2:1048997"
+        ],
+        [
+            "hasHost",
+            "Larus occidentalis",
+            "EOL_V2:1049579"
+        ],
+        [
+            "hasHost",
+            "Larus delawarensis",
+            "EOL_V2:1049583"
+        ],
+        [
+            "hasHost",
+            "Bucephala albeola",
+            "EOL_V2:1048977"
+        ],
+        [
+            "hasHost",
+            "Podilymbus podiceps",
+            "EOL_V2:1047342"
+        ],
+        [
+            "hasHost",
+            "Larus californicus",
+            "EOL_V2:1049582"
+        ],
+        [
+            "hasHost",
+            "Recurvirostra americana",
+            "EOL_V2:1049560"
+        ],
+        [
+            "hasHost",
+            "Chroicocephalus philadelphia",
+            "EOL_V2:1049606"
+        ],
+        [
+            "hasHost",
+            "Limnodromus",
+            "EOL:19937"
+        ],
+        [
+            "hasHost",
+            "Larus canus brachyrhynchus",
+            "EOL:1273236"
+        ],
+        [
+            "hasHost",
+            "Fulica americana",
+            "EOL_V2:1049311"
+        ],
+        [
+            "hasHost",
+            "Carpodacus mexicanus",
+            "EOL_V2:919946"
+        ],
+        [
+            "hasHost",
+            "Sterna forsteri",
+            "EOL_V2:1049630"
+        ],
+        [
+            "hasHost",
+            "Passer domesticus",
+            "GBIF:5231190"
+        ],
+        [
+            "hasHost",
+            "Anas platyrhynchos",
+            "EOL_V2:1047918"
+        ],
+        [
+            "hasHost",
+            "Calidris mauri",
+            "EOL_V2:1049517"
+        ],
+        [
+            "pathogenOf",
+            "Chardrius vociferus",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Charadrius alexandrinius",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Circus cyanus",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Actitus macularia",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Rallus longirostrus",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Athya marila",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Arenaria intepres",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Limnodromus scilopaceus",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Ardea herodius",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Catjartes aura",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Calidris melanotos",
+            "EOL_V2:1049474"
+        ],
+        [
+            "pathogenOf",
+            "Sternula antillarum",
+            "EOL_V2:1049727"
+        ],
+        [
+            "pathogenOf",
+            "Tringa",
+            "ITIS:176614"
+        ],
+        [
+            "pathogenOf",
+            "Accipiter cooperii",
+            "EOL_V2:1049046"
+        ],
+        [
+            "pathogenOf",
+            "Arenaria intepres",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Athya marila",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Actitus macularia",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Charadrius alexandrinius",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Catjartes aura",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Ardea herodius",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Limnodromus scilopaceus",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Rallus longirostrus",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Circus cyanus",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Chardrius vociferus",
+            "no:match"
+        ],
+        [
+            "pathogenOf",
+            "Egretta rufescens",
+            "GBIF:2480888"
+        ],
+        [
+            "pathogenOf",
+            "Calidris minutilla",
+            "EOL_V2:1049484"
+        ],
+        [
+            "pathogenOf",
+            "Thalasseus elegans",
+            "EOL_V2:1049729"
+        ],
+        [
+            "pathogenOf",
+            "Podiceps nigricollis",
+            "EOL_V2:1047340"
+        ],
+        [
+            "pathogenOf",
+            "Calidris alpina",
+            "EOL_V2:1049497"
+        ],
+        [
+            "pathogenOf",
+            "Sterna caspia",
+            "IRMNG:10194919"
+        ],
+        [
+            "pathogenOf",
+            "Pelecanus occidentalis",
+            "EOL_V2:1048599"
+        ],
+        [
+            "pathogenOf",
+            "Pluvialis squatarola",
+            "EOL_V2:1049366"
+        ],
+        [
+            "pathogenOf",
+            "Calidris melanotos",
+            "EOL_V2:1049474"
+        ],
+        [
+            "pathogenOf",
+            "Sternula antillarum",
+            "EOL_V2:1049727"
+        ],
+        [
+            "pathogenOf",
+            "Tringa",
+            "ITIS:176614"
+        ],
+        [
+            "pathogenOf",
+            "Accipiter cooperii",
+            "EOL_V2:1049046"
+        ],
+        [
+            "pathogenOf",
+            "Butorides virescens",
+            "EOL_V2:1048665"
+        ],
+        [
+            "pathogenOf",
+            "Aechmophorus occidentalis",
+            "GBIF:2482033"
+        ],
+        [
+            "pathogenOf",
+            "Egretta tricolor",
+            "GBIF:2480881"
+        ],
+        [
+            "pathogenOf",
+            "Limnodromus griseus",
+            "EOL_V2:1049540"
+        ],
+        [
+            "pathogenOf",
+            "Botaurus lentiginosus",
+            "GBIF:2480911"
+        ],
+        [
+            "pathogenOf",
+            "Catoptrophorus semipalmatus",
+            "GBIF:2481802"
+        ],
+        [
+            "pathogenOf",
+            "Egretta thula",
+            "EOL_V2:1048667"
+        ],
+        [
+            "pathogenOf",
+            "Gavia immer",
+            "EOL_V2:1047329"
+        ],
+        [
+            "pathogenOf",
+            "Numenius americanus",
+            "EOL_V2:1049388"
+        ],
+        [
+            "pathogenOf",
+            "Nycticorax nycticorax",
+            "EOL_V2:1048731"
+        ],
+        [
+            "pathogenOf",
+            "Anas americana",
+            "EOL_V2:1048958"
+        ],
+        [
+            "pathogenOf",
+            "Limosa fedoa",
+            "EOL_V2:1049547"
+        ],
+        [
+            "pathogenOf",
+            "Charadrius semipalmatus",
+            "EOL_V2:1049342"
+        ],
+        [
+            "pathogenOf",
+            "Numenius phaeopus",
+            "EOL_V2:1049394"
+        ],
+        [
+            "pathogenOf",
+            "Megaceryle alcyon",
+            "EOL_V2:1049954"
+        ],
+        [
+            "pathogenOf",
+            "Anas cyanoptera",
+            "EOL_V2:1048954"
+        ],
+        [
+            "pathogenOf",
+            "Larus philadelphia",
+            "FBC:SLB:SpecCode:75071"
+        ],
+        [
+            "pathogenOf",
+            "Phalacrocorax penicillatus",
+            "FBC:SLB:SpecCode:84054"
+        ],
+        [
+            "pathogenOf",
+            "Ardea alba",
+            "EOL_V2:1178488"
+        ],
+        [
+            "pathogenOf",
+            "Egretta caerulea",
+            "EOL_V2:1048711"
+        ],
+        [
+            "pathogenOf",
+            "Recurvirostra americana",
+            "EOL_V2:1049560"
+        ],
+        [
+            "pathogenOf",
+            "Larus californicus",
+            "EOL_V2:1049582"
+        ],
+        [
+            "pathogenOf",
+            "Oxyura jamaicensis",
+            "EOL_V2:1048999"
+        ],
+        [
+            "pathogenOf",
+            "Podilymbus podiceps",
+            "EOL_V2:1047342"
+        ],
+        [
+            "pathogenOf",
+            "Porzana carolina",
+            "EOL_V2:1049278"
+        ],
+        [
+            "pathogenOf",
+            "Anas discors",
+            "EOL_V2:1048953"
+        ],
+        [
+            "pathogenOf",
+            "Aythya affinis",
+            "EOL_V2:1048973"
+        ],
+        [
+            "pathogenOf",
+            "Mergus serrator",
+            "EOL_V2:1049002"
+        ],
+        [
+            "pathogenOf",
+            "Bucephala albeola",
+            "EOL_V2:1048977"
+        ],
+        [
+            "pathogenOf",
+            "Melanitta perspicillata",
+            "EOL_V2:1048997"
+        ],
+        [
+            "pathogenOf",
+            "Larus occidentalis",
+            "EOL_V2:1049579"
+        ],
+        [
+            "pathogenOf",
+            "Butorides virescens",
+            "EOL_V2:1048665"
+        ],
+        [
+            "pathogenOf",
+            "Sterna forsteri",
+            "EOL_V2:1049630"
+        ],
+        [
+            "pathogenOf",
+            "Larus delawarensis",
+            "FBC:SLB:SpecCode:75065"
+        ],
+        [
+            "pathogenOf",
+            "Fulica americana",
+            "EOL_V2:1049311"
+        ],
+        [
+            "pathogenOf",
+            "Corvus brachyrhynchos",
+            "EOL_V2:1177464"
+        ],
+        [
+            "pathogenOf",
+            "Arenaria melanocephala",
+            "EOL_V2:1049376"
+        ],
+        [
+            "pathogenOf",
+            "Anas acuta",
+            "GBIF:2498112"
+        ],
+        [
+            "pathogenOf",
+            "Branta",
+            "EOL_V2:18070"
+        ],
+        [
+            "pathogenOf",
+            "Calidris mauri",
+            "EOL_V2:1049517"
+        ],
+        [
+            "pathogenOf",
+            "Anas platyrhynchos",
+            "EOL_V2:1047918"
+        ],
+        [
+            "pathogenOf",
+            "Anas crecca",
+            "GBIF:8214667"
+        ],
+        [
+            "pathogenOf",
+            "Rynchops niger",
+            "EOL_V2:1178552"
+        ],
+        [
+            "pathogenOf",
+            "Larus canus",
+            "FBC:SLB:SpecCode:75067"
+        ],
+        [
+            "pathogenOf",
+            "Bubulcus ibis",
+            "GBIF:2480830"
+        ],
+        [
+            "pathogenOf",
+            "Calidris canutus",
+            "EOL_V2:1049469"
+        ],
+        [
+            "pathogenOf",
+            "Sterna",
+            "GBIF:2481227"
+        ],
+        [
+            "pathogenOf",
+            "Pandion haliaetus",
+            "GBIF:2480726"
+        ],
+        [
+            "pathogenOf",
+            "Egretta rufescens",
+            "GBIF:2480888"
+        ],
+        [
+            "pathogenOf",
+            "Egretta tricolor",
+            "GBIF:2480881"
+        ],
+        [
+            "pathogenOf",
+            "Limnodromus griseus",
+            "EOL_V2:1049540"
+        ],
+        [
+            "pathogenOf",
+            "Aechmophorus occidentalis",
+            "GBIF:2482033"
+        ],
+        [
+            "pathogenOf",
+            "Calidris minutilla",
+            "EOL_V2:1049484"
+        ],
+        [
+            "pathogenOf",
+            "Thalasseus elegans",
+            "EOL_V2:1049729"
+        ],
+        [
+            "pathogenOf",
+            "Sterna caspia",
+            "IRMNG:10194919"
+        ],
+        [
+            "pathogenOf",
+            "Calidris alpina",
+            "EOL_V2:1049497"
+        ],
+        [
+            "pathogenOf",
+            "Podiceps nigricollis",
+            "EOL_V2:1047340"
+        ],
+        [
+            "pathogenOf",
+            "Numenius phaeopus",
+            "EOL_V2:1049394"
+        ],
+        [
+            "pathogenOf",
+            "Pluvialis squatarola",
+            "EOL_V2:1049366"
+        ],
+        [
+            "pathogenOf",
+            "Charadrius semipalmatus",
+            "EOL_V2:1049342"
+        ],
+        [
+            "pathogenOf",
+            "Anas cyanoptera",
+            "EOL_V2:1048954"
+        ],
+        [
+            "pathogenOf",
+            "Pelecanus occidentalis",
+            "EOL_V2:1048599"
+        ],
+        [
+            "pathogenOf",
+            "Megaceryle alcyon",
+            "EOL_V2:1049954"
+        ],
+        [
+            "pathogenOf",
+            "Phalacrocorax penicillatus",
+            "FBC:SLB:SpecCode:84054"
+        ],
+        [
+            "pathogenOf",
+            "Larus philadelphia",
+            "FBC:SLB:SpecCode:75071"
+        ],
+        [
+            "pathogenOf",
+            "Egretta caerulea",
+            "EOL_V2:1048711"
+        ],
+        [
+            "pathogenOf",
+            "Ardea alba",
+            "EOL_V2:1178488"
+        ],
+        [
+            "pathogenOf",
+            "Catoptrophorus semipalmatus",
+            "GBIF:2481802"
+        ],
+        [
+            "pathogenOf",
+            "Botaurus lentiginosus",
+            "GBIF:2480911"
+        ],
+        [
+            "pathogenOf",
+            "Gavia immer",
+            "EOL_V2:1047329"
+        ],
+        [
+            "pathogenOf",
+            "Nycticorax nycticorax",
+            "EOL_V2:1048731"
+        ],
+        [
+            "pathogenOf",
+            "Egretta thula",
+            "EOL_V2:1048667"
+        ],
+        [
+            "pathogenOf",
+            "Limosa fedoa",
+            "EOL_V2:1049547"
+        ],
+        [
+            "pathogenOf",
+            "Numenius americanus",
+            "EOL_V2:1049388"
+        ],
+        [
+            "pathogenOf",
+            "Anas americana",
+            "EOL_V2:1048958"
+        ],
+        [
+            "pathogenOf",
+            "Melanitta perspicillata",
+            "EOL_V2:1048997"
+        ],
+        [
+            "pathogenOf",
+            "Larus occidentalis",
+            "EOL_V2:1049579"
+        ],
+        [
+            "pathogenOf",
+            "Mergus serrator",
+            "EOL_V2:1049002"
+        ],
+        [
+            "pathogenOf",
+            "Bucephala albeola",
+            "EOL_V2:1048977"
+        ],
+        [
+            "pathogenOf",
+            "Aythya affinis",
+            "EOL_V2:1048973"
+        ],
+        [
+            "pathogenOf",
+            "Podilymbus podiceps",
+            "EOL_V2:1047342"
+        ],
+        [
+            "pathogenOf",
+            "Anas discors",
+            "EOL_V2:1048953"
+        ],
+        [
+            "pathogenOf",
+            "Porzana carolina",
+            "EOL_V2:1049278"
+        ],
+        [
+            "pathogenOf",
+            "Larus californicus",
+            "EOL_V2:1049582"
+        ],
+        [
+            "pathogenOf",
+            "Oxyura jamaicensis",
+            "EOL_V2:1048999"
+        ],
+        [
+            "pathogenOf",
+            "Recurvirostra americana",
+            "EOL_V2:1049560"
+        ],
+        [
+            "pathogenOf",
+            "Arenaria melanocephala",
+            "EOL_V2:1049376"
+        ],
+        [
+            "pathogenOf",
+            "Fulica americana",
+            "EOL_V2:1049311"
+        ],
+        [
+            "pathogenOf",
+            "Corvus brachyrhynchos",
+            "EOL_V2:1177464"
+        ],
+        [
+            "pathogenOf",
+            "Sterna forsteri",
+            "EOL_V2:1049630"
+        ],
+        [
+            "pathogenOf",
+            "Larus delawarensis",
+            "FBC:SLB:SpecCode:75065"
+        ],
+        [
+            "pathogenOf",
+            "Sterna",
+            "GBIF:2481227"
+        ],
+        [
+            "pathogenOf",
+            "Pandion haliaetus",
+            "GBIF:2480726"
+        ],
+        [
+            "pathogenOf",
+            "Calidris canutus",
+            "EOL_V2:1049469"
+        ],
+        [
+            "pathogenOf",
+            "Bubulcus ibis",
+            "GBIF:2480830"
+        ],
+        [
+            "pathogenOf",
+            "Larus canus",
+            "FBC:SLB:SpecCode:75067"
+        ],
+        [
+            "pathogenOf",
+            "Rynchops niger",
+            "EOL_V2:1178552"
+        ],
+        [
+            "pathogenOf",
+            "Anas crecca",
+            "GBIF:8214667"
+        ],
+        [
+            "pathogenOf",
+            "Anas platyrhynchos",
+            "EOL_V2:1047918"
+        ],
+        [
+            "pathogenOf",
+            "Anas acuta",
+            "GBIF:2498112"
+        ],
+        [
+            "pathogenOf",
+            "Branta",
+            "EOL_V2:18070"
+        ],
+        [
+            "pathogenOf",
+            "Calidris mauri",
+            "EOL_V2:1049517"
+        ],
+        [
+            "parasiteOf",
+            "Haliaeetus vocifer",
+            "EOL:914530"
+        ],
+        [
+            "parasiteOf",
+            "Haliaeetus vocifer",
+            "EOL:914530"
+        ],
+        [
+            "parasiteOf",
+            "Egretta intermedia",
+            "EOL:1065040"
+        ],
+        [
+            "parasiteOf",
+            "Meleagris gallopavo",
+            "GBIF:2473551"
+        ],
+        [
+            "parasiteOf",
+            "Larus ridibundus",
+            "IRMNG:11241992"
+        ],
+        [
+            "parasiteOf",
+            "Anas acuta",
+            "GBIF:2498112"
+        ],
+        [
+            "parasiteOf",
+            "Egretta intermedia",
+            "EOL:1065040"
+        ],
+        [
+            "parasiteOf",
+            "Meleagris gallopavo",
+            "GBIF:2473551"
+        ],
+        [
+            "parasiteOf",
+            "Larus ridibundus",
+            "IRMNG:11241992"
+        ],
+        [
+            "parasiteOf",
+            "Anas acuta",
+            "GBIF:2498112"
+        ],
+        [
+            "hasHost",
+            "Egretta intermedia",
+            "EOL:1065040"
+        ],
+        [
+            "hasHost",
+            "Meleagris gallopavo silvestris",
+            "INAT_TAXON:319123"
+        ],
+        [
+            "hasHost",
+            "Larus ridibundus",
+            "IRMNG:11241992"
+        ],
+        [
+            "hasHost",
+            "Anas acuta",
+            "GBIF:2498112"
+        ],
+        [
+            "hasHost",
+            "Egretta intermedia",
+            "EOL:1065040"
+        ],
+        [
+            "hasHost",
+            "Meleagris gallopavo silvestris",
+            "INAT_TAXON:319123"
+        ],
+        [
+            "hasHost",
+            "Larus ridibundus",
+            "IRMNG:11241992"
+        ],
+        [
+            "hasHost",
+            "Anas acuta",
+            "GBIF:2498112"
+        ]
+    ]
+}
